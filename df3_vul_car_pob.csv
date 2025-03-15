@@ -1,0 +1,2470 @@
+municipio,vul_car_pob,NOM_MUN,NOM_LOC,PCON_LIMI,PHOG_IND,P5_HLI_NHE,PCON_DISC,VPH_PISODT,VPH_S_ELEC
+Aguascalientes,"257,144",Aguascalientes,Total del Municipio,116705,4050,8,47525,264662,438
+Asientos,"19,243",Asientos,Total del Municipio,4551,43,0,2886,12330,95
+Calvillo,"21,199",Calvillo,Total del Municipio,6760,173,1,4088,15336,112
+Cosío,"5,138",Cosío,Total del Municipio,1933,15,0,805,3891,25
+Jesús María,"42,186",Jesús María,Total del Municipio,11904,395,1,5036,32719,155
+Pabellón de Arteaga,"14,285",Pabellón de Arteaga,Total del Municipio,5833,114,0,2624,11350,67
+Rincón de Romos,"17,154",Rincón de Romos,Total del Municipio,6689,409,1,3323,13337,90
+San José de Gracia,"3,282",San José de Gracia,Total del Municipio,1135,30,0,569,2354,33
+Tepezalá,"8,028",Tepezalá,Total del Municipio,2067,35,0,1063,5310,44
+El Llano,"7,647",El Llano,Total del Municipio,2610,20,0,1141,5127,76
+San Francisco de los Romo,"12,774",San Francisco de los Romo,Total del Municipio,5295,268,11,2234,16218,75
+Ensenada,"180,920",Ensenada,Total del Municipio,46474,23831,426,20367,136146,2359
+Mexicali,"380,939",Mexicali,Total del Municipio,103539,9657,47,44519,324407,2252
+Tecate,"48,722",Tecate,Total del Municipio,10625,1596,3,4104,30297,488
+Tijuana,"728,225",Tijuana,Total del Municipio,176322,28810,136,71235,560881,1693
+Playas de Rosarito,"58,866",Playas de Rosarito,Total del Municipio,12170,2856,1,5391,35911,289
+San Quintín,"55,472",San Quintín,Total del Municipio,12139,35863,644,6329,31042,1866
+Comondú,"24,817",Comondú,Total del Municipio,9169,1598,32,4530,21401,356
+Mulegé,"25,457",Mulegé,Total del Municipio,7828,6309,33,3330,18612,444
+La Paz,"113,224",La Paz,Total del Municipio,38052,6447,52,15395,88853,1141
+Los Cabos,"130,405",Los Cabos,Total del Municipio,32694,14576,38,11218,92596,810
+Loreto,"6,119",Loreto,Total del Municipio,2490,471,2,910,5322,75
+Calkiní,"12,523",Calkiní,Total del Municipio,6867,45092,1035,2955,14892,136
+Campeche,"78,533",Campeche,Total del Municipio,42672,34670,104,19010,84110,455
+Carmen,"82,796",Carmen,Total del Municipio,28699,7954,45,12608,69179,624
+Champotón,"22,402",Champotón,Total del Municipio,8303,16580,115,4095,20663,410
+Hecelchakán,"6,147",Hecelchakán,Total del Municipio,3166,20630,253,1700,8158,73
+Hopelchén,"9,421",Hopelchén,Total del Municipio,3863,26483,331,1912,9926,179
+Palizada,"2,911",Palizada,Total del Municipio,861,217,0,435,2427,66
+Tenabo,"3,747",Tenabo,Total del Municipio,1526,4757,20,758,3022,45
+Escárcega,"13,073",Escárcega,Total del Municipio,6514,7218,142,3389,15904,295
+Calakmul,"5,870",Calakmul,Total del Municipio,3052,12350,298,1714,7234,202
+Candelaria,"8,880",Candelaria,Total del Municipio,5263,5660,99,2505,12071,989
+Seybaplaya,n.d,Seybaplaya,Total del Municipio,2170,1256,16,1178,4225,42
+Abasolo,663,Abasolo,Total del Municipio,125,3,0,83,362,0
+Acuña,"43,942",Acuña,Total del Municipio,13646,1145,1,6307,46685,227
+Allende,"6,173",Allende,Total del Municipio,1827,27,0,1014,6824,12
+Arteaga,"14,283",Arteaga,Total del Municipio,2864,136,0,1268,8412,59
+Candela,745,Candela,Total del Municipio,202,0,0,89,468,2
+Castaños,"6,395",Castaños,Total del Municipio,3247,30,0,961,8338,46
+Cuatro Ciénegas,"4,430",Cuatro Ciénegas,Total del Municipio,1701,33,0,709,3719,103
+Escobedo,"1,468",Escobedo,Total del Municipio,281,1,0,158,904,6
+Francisco I. Madero,"24,964",Francisco I. Madero,Total del Municipio,6169,123,1,3076,15673,47
+Frontera,"16,755",Frontera,Total del Municipio,6649,126,0,3500,23243,56
+General Cepeda,"3,354",General Cepeda,Total del Municipio,1272,3,0,519,3348,23
+Guerrero,797,Guerrero,Total del Municipio,249,17,0,102,511,8
+Hidalgo,992,Hidalgo,Total del Municipio,215,0,0,52,488,6
+Jiménez,"4,640",Jiménez,Total del Municipio,974,6,0,454,2690,46
+Juárez,949,Juárez,Total del Municipio,256,0,0,157,481,4
+Lamadrid,798,Lamadrid,Total del Municipio,182,3,0,76,553,3
+Matamoros,"44,573",Matamoros,Total del Municipio,13540,164,8,6318,30638,79
+Monclova,"54,314",Monclova,Total del Municipio,26458,528,2,11954,69409,170
+Morelos,"2,878",Morelos,Total del Municipio,1057,4,0,346,2325,6
+Múzquiz,"18,159",Múzquiz,Total del Municipio,8425,251,0,4179,20263,148
+Nadadores,"1,867",Nadadores,Total del Municipio,1066,18,0,485,1964,8
+Nava,"7,337",Nava,Total del Municipio,2709,59,0,1467,9270,34
+Ocampo,"3,715",Ocampo,Total del Municipio,965,8,0,530,2622,131
+Parras,"11,624",Parras,Total del Municipio,6257,98,1,3168,12500,56
+Piedras Negras,"50,945",Piedras Negras,Total del Municipio,14111,649,0,6653,51237,119
+Progreso,"1,467",Progreso,Total del Municipio,529,0,0,256,971,1
+Ramos Arizpe,"31,205",Ramos Arizpe,Total del Municipio,8899,893,0,3509,34070,101
+Sabinas,"14,504",Sabinas,Total del Municipio,4972,203,1,2853,20071,47
+Sacramento,833,Sacramento,Total del Municipio,180,0,0,139,724,1
+Saltillo,"206,357",Saltillo,Total del Municipio,72000,4517,12,28720,240185,307
+San Buenaventura,"5,524",San Buenaventura,Total del Municipio,3339,35,0,1575,7584,37
+San Juan de Sabinas,"6,618",San Juan de Sabinas,Total del Municipio,4681,48,0,2162,13013,31
+San Pedro,"33,218",San Pedro,Total del Municipio,10524,351,0,6131,26144,110
+Sierra Mojada,"1,697",Sierra Mojada,Total del Municipio,878,28,0,298,1901,21
+Torreón,"192,153",Torreón,Total del Municipio,76730,1966,11,32722,212431,193
+Viesca,"7,196",Viesca,Total del Municipio,3102,20,0,1616,5194,27
+Villa Unión,"2,277",Villa Unión,Total del Municipio,823,3,0,429,1812,21
+Zaragoza,"5,115",Zaragoza,Total del Municipio,1439,20,0,781,3925,100
+Armería,"11,844",Armería,Total del Municipio,3664,204,0,1852,7725,70
+Colima,"58,415",Colima,Total del Municipio,19714,1265,32,9600,49239,242
+Comala,"8,645",Comala,Total del Municipio,3329,112,0,1515,6009,74
+Coquimatlán,"8,123",Coquimatlán,Total del Municipio,3029,281,14,1578,5865,87
+Cuauhtémoc,"11,769",Cuauhtémoc,Total del Municipio,4186,1766,30,1988,9129,38
+Ixtlahuacán,"2,838",Ixtlahuacán,Total del Municipio,804,49,0,397,1576,30
+Manzanillo,"66,405",Manzanillo,Total del Municipio,20911,2151,3,8579,58436,199
+Minatitlán,"4,620",Minatitlán,Total del Municipio,1016,53,0,429,2742,50
+Tecomán,"48,020",Tecomán,Total del Municipio,13423,3015,77,7454,30848,208
+Villa de Álvarez,"51,686",Villa de Álvarez,Total del Municipio,17249,874,2,6488,48409,123
+Acacoyagua,"4,228",Acacoyagua,Total del Municipio,1736,140,1,895,4239,94
+Acala,"2,591",Acala,Total del Municipio,2168,2411,240,1140,5085,60
+Acapetahua,"11,339",Acapetahua,Total del Municipio,2615,70,1,1863,6950,89
+Altamirano,832,Altamirano,Total del Municipio,1473,27951,2687,962,7220,254
+Amatán,"2,411",Amatán,Total del Municipio,1647,9634,383,1143,4217,275
+Amatenango de la Frontera,"5,453",Amatenango de la Frontera,Total del Municipio,2306,1407,3,1445,7043,97
+Amatenango del Valle,262,Amatenango del Valle,Total del Municipio,393,9263,996,317,2050,55
+Angel Albino Corzo,"3,778",Angel Albino Corzo,Total del Municipio,2423,2052,49,1155,6134,149
+Arriaga,"11,344",Arriaga,Total del Municipio,4696,515,0,2595,11963,151
+Bejucal de Ocampo,343,Bejucal de Ocampo,Total del Municipio,608,71,1,291,1461,12
+Bella Vista,"2,494",Bella Vista,Total del Municipio,1346,421,2,1088,3968,101
+Berriozábal,"19,356",Berriozábal,Total del Municipio,6341,4680,121,2681,14613,194
+Bochil,"4,410",Bochil,Total del Municipio,2012,19881,1811,1345,6557,58
+El Bosque,489,El Bosque,Total del Municipio,1077,23704,4513,624,4090,109
+Cacahoatán,"6,979",Cacahoatán,Total del Municipio,3975,3461,12,2091,11284,125
+Catazajá,"6,595",Catazajá,Total del Municipio,1862,797,20,1399,4348,103
+Cintalapa,"17,556",Cintalapa,Total del Municipio,8316,8231,400,4262,19982,387
+Coapilla,"1,473",Coapilla,Total del Municipio,952,2045,5,479,2166,19
+Comitán de Domínguez,"34,140",Comitán de Domínguez,Total del Municipio,13193,12050,109,6231,41650,250
+La Concordia,"11,449",La Concordia,Total del Municipio,4713,5251,190,2748,10847,318
+Copainalá,"4,393",Copainalá,Total del Municipio,2483,3830,10,1114,5428,120
+Chalchihuitán,246,Chalchihuitán,Total del Municipio,1151,21884,11978,553,2883,632
+Chamula,"3,096",Chamula,Total del Municipio,3394,101587,41120,2127,18050,301
+Chanal,110,Chanal,Total del Municipio,660,13611,3783,493,1592,66
+Chapultenango,684,Chapultenango,Total del Municipio,792,7050,117,452,1364,70
+Chenalhó,474,Chenalhó,Total del Municipio,994,47024,22543,694,6264,306
+Chiapa de Corzo,"23,327",Chiapa de Corzo,Total del Municipio,8087,7231,108,4375,27781,207
+Chiapilla,861,Chiapilla,Total del Municipio,666,367,0,322,1576,18
+Chicoasén,477,Chicoasén,Total del Municipio,603,695,2,344,1351,8
+Chicomuselo,"6,204",Chicomuselo,Total del Municipio,2755,482,4,1552,7466,177
+Chilón,"3,830",Chilón,Total del Municipio,6152,133849,36839,4178,20233,1680
+Escuintla,"7,220",Escuintla,Total del Municipio,2844,335,1,1531,7241,192
+Francisco León,961,Francisco León,Total del Municipio,684,6062,71,273,1187,25
+Frontera Comalapa,"16,129",Frontera Comalapa,Total del Municipio,8242,2699,51,4213,18463,248
+Frontera Hidalgo,"3,580",Frontera Hidalgo,Total del Municipio,1229,70,0,595,3337,64
+La Grandeza,527,La Grandeza,Total del Municipio,444,152,0,284,1425,10
+Huehuetán,"15,902",Huehuetán,Total del Municipio,3347,207,0,1556,8613,138
+Huixtán,399,Huixtán,Total del Municipio,1388,22415,3958,854,3617,133
+Huitiupán,"1,319",Huitiupán,Total del Municipio,2077,20532,1230,1128,4605,80
+Huixtla,"18,310",Huixtla,Total del Municipio,5219,495,6,2575,13004,197
+La Independencia,"3,421",La Independencia,Total del Municipio,2634,3290,29,1439,10207,76
+Ixhuatán,"1,543",Ixhuatán,Total del Municipio,1194,5652,454,830,2366,22
+Ixtacomitán,"3,567",Ixtacomitán,Total del Municipio,994,3608,12,604,2391,95
+Ixtapa,"2,418",Ixtapa,Total del Municipio,1942,8188,483,1256,5249,52
+Ixtapangajoya,"1,730",Ixtapangajoya,Total del Municipio,679,1148,35,285,1290,63
+Jiquipilas,"12,402",Jiquipilas,Total del Municipio,4404,3641,75,2449,10314,146
+Jitotol,924,Jitotol,Total del Municipio,1416,19046,1831,1056,4694,46
+Juárez,"11,177",Juárez,Total del Municipio,2350,1478,6,1499,5701,41
+Larráinzar,639,Larráinzar,Total del Municipio,1389,31072,10863,740,5572,66
+La Libertad,"2,743",La Libertad,Total del Municipio,750,256,4,442,1552,27
+Mapastepec,"12,735",Mapastepec,Total del Municipio,4405,418,0,2237,11881,168
+Las Margaritas,"5,608",Las Margaritas,Total del Municipio,6687,78843,7860,4315,24272,795
+Mazapa de Madero,"1,045",Mazapa de Madero,Total del Municipio,500,830,0,407,1549,19
+Mazatán,"12,464",Mazatán,Total del Municipio,2657,173,1,1424,6969,79
+Metapa,"1,608",Metapa,Total del Municipio,694,71,0,417,1421,19
+Mitontic,173,Mitontic,Total del Municipio,172,13567,6621,60,1978,21
+Motozintla,"9,805",Motozintla,Total del Municipio,4273,2895,6,2615,14880,166
+Nicolás Ruíz,117,Nicolás Ruíz,Total del Municipio,521,77,1,205,946,5
+Ocosingo,"11,814",Ocosingo,Total del Municipio,10701,198387,30195,6657,33546,3049
+Ocotepec,924,Ocotepec,Total del Municipio,616,13954,2210,383,2302,30
+Ocozocoautla de Espinosa,"17,525",Ocozocoautla de Espinosa,Total del Municipio,7891,20846,636,4482,20978,538
+Ostuacán,"8,818",Ostuacán,Total del Municipio,2395,1847,4,1331,4029,125
+Osumacinta,690,Osumacinta,Total del Municipio,414,581,2,203,992,6
+Oxchuc,658,Oxchuc,Total del Municipio,1904,54054,12354,1347,5823,1179
+Palenque,"33,797",Palenque,Total del Municipio,11696,70996,4609,6450,31707,604
+Pantelhó,382,Pantelhó,Total del Municipio,847,25482,10347,673,3877,157
+Pantepec,"1,275",Pantepec,Total del Municipio,1229,7712,59,625,2230,27
+Pichucalco,"11,318",Pichucalco,Total del Municipio,2960,1487,3,1986,8000,117
+Pijijiapan,"14,814",Pijijiapan,Total del Municipio,6049,829,35,2961,14007,168
+El Porvenir,336,El Porvenir,Total del Municipio,566,815,0,404,2157,18
+Villa Comaltitlán,"15,976",Villa Comaltitlán,Total del Municipio,3337,334,4,1537,7009,106
+Pueblo Nuevo Solistahuacán,"1,607",Pueblo Nuevo Solistahuacán,Total del Municipio,2800,12416,1376,2334,5132,74
+Rayón,"1,032",Rayón,Total del Municipio,1222,6211,23,769,2058,31
+Reforma,"15,630",Reforma,Total del Municipio,4978,621,3,3255,11757,83
+Las Rosas,"1,849",Las Rosas,Total del Municipio,2079,3872,24,1014,5721,112
+Sabanilla,"2,041",Sabanilla,Total del Municipio,1656,25953,1830,682,5340,132
+Salto de Agua,"8,572",Salto de Agua,Total del Municipio,3071,55785,9268,2344,12291,525
+San Cristóbal de las Casas,"39,697",San Cristóbal de las Casas,Total del Municipio,16783,103865,6765,6800,47580,257
+San Fernando,"12,524",San Fernando,Total del Municipio,4136,1989,9,2023,9958,83
+Siltepec,"1,082",Siltepec,Total del Municipio,1346,256,0,854,4465,97
+Simojovel,"1,872",Simojovel,Total del Municipio,2074,45155,12153,1251,8677,114
+Sitalá,372,Sitalá,Total del Municipio,495,15131,6672,217,2167,241
+Socoltenango,"3,792",Socoltenango,Total del Municipio,2075,2263,55,970,4311,35
+Solosuchiapa,"1,937",Solosuchiapa,Total del Municipio,344,2767,28,302,1805,29
+Soyaló,602,Soyaló,Total del Municipio,1189,4742,38,629,2353,39
+Suchiapa,"5,584",Suchiapa,Total del Municipio,1612,370,8,908,5953,94
+Suchiate,"13,583",Suchiate,Total del Municipio,3224,256,3,2075,9168,232
+Sunuapa,720,Sunuapa,Total del Municipio,358,59,0,212,495,15
+Tapachula,"80,690",Tapachula,Total del Municipio,29268,8516,70,16426,86228,799
+Tapalapa,837,Tapalapa,Total del Municipio,665,4374,89,313,907,14
+Tapilula,"3,052",Tapilula,Total del Municipio,1312,2437,4,892,3108,30
+Tecpatán,"3,548",Tecpatán,Total del Municipio,1731,6188,45,1231,5059,237
+Tenejapa,824,Tenejapa,Total del Municipio,2063,47893,17396,1275,7959,143
+Teopisca,"2,613",Teopisca,Total del Municipio,3189,26366,4453,1558,9296,200
+Tila,"1,372",Tila,Total del Municipio,4128,70819,11608,2044,10972,631
+Tonalá,"20,876",Tonalá,Total del Municipio,9570,841,0,5210,24634,219
+Totolapa,380,Totolapa,Total del Municipio,599,817,209,376,1552,26
+La Trinitaria,"8,582",La Trinitaria,Total del Municipio,5654,11918,332,3254,19570,271
+Tumbalá,"1,009",Tumbalá,Total del Municipio,3202,37593,8397,1498,7059,307
+Tuxtla Gutiérrez,"154,504",Tuxtla Gutiérrez,Total del Municipio,53619,26865,179,23497,161470,419
+Tuxtla Chico,"12,638",Tuxtla Chico,Total del Municipio,3364,229,0,1786,9516,138
+Tuzantán,"8,876",Tuzantán,Total del Municipio,2869,465,4,1553,7038,61
+Tzimol,"2,691",Tzimol,Total del Municipio,2028,430,22,809,4426,45
+Unión Juárez,"3,368",Unión Juárez,Total del Municipio,1184,484,2,725,3629,46
+Venustiano Carranza,"6,683",Venustiano Carranza,Total del Municipio,5957,20180,809,3205,15091,293
+Villa Corzo,"9,407",Villa Corzo,Total del Municipio,6632,6625,539,3629,15435,704
+Villaflores,"26,105",Villaflores,Total del Municipio,10504,3993,429,5569,27425,313
+Yajalón,"2,490",Yajalón,Total del Municipio,2445,32253,4669,1431,6674,224
+San Lucas,829,San Lucas,Total del Municipio,839,1601,9,460,1666,45
+Zinacantán,"1,233",Zinacantán,Total del Municipio,2355,45060,12170,1209,7872,55
+San Juan Cancuc,227,San Juan Cancuc,Total del Municipio,1274,37899,19374,877,4686,224
+Aldama,86,Aldama,Total del Municipio,391,8475,3710,250,1408,19
+Benemérito de las Américas,"5,317",Benemérito de las Américas,Total del Municipio,1435,8808,251,940,4844,138
+Maravilla Tenejapa,406,Maravilla Tenejapa,Total del Municipio,750,8132,251,514,2556,89
+Marqués de Comillas,"2,460",Marqués de Comillas,Total del Municipio,824,7082,287,555,2600,41
+Montecristo de Guerrero,572,Montecristo de Guerrero,Total del Municipio,508,226,4,305,1500,38
+San Andrés Duraznal,18,San Andrés Duraznal,Total del Municipio,277,5948,917,225,1205,15
+Santiago el Pinar,110,Santiago el Pinar,Total del Municipio,250,4959,1690,207,706,7
+Capitán Luis Ángel Vidal,328,Capitán Luis Ángel Vidal,Total del Municipio,284,28,0,121,578,19
+Rincón Chamula San Pedro,180,Rincón Chamula San Pedro,Total del Municipio,559,8161,2177,612,1362,23
+El Parral,"2,635",El Parral,Total del Municipio,1632,772,26,1061,4004,76
+Emiliano Zapata,"2,294",Emiliano Zapata,Total del Municipio,1370,2659,120,623,2583,37
+Mezcalapa,"4,347",Mezcalapa,Total del Municipio,2240,8066,341,1094,5003,184
+Honduras de la Sierra,n.d,Honduras de la Sierra,Total del Municipio,519,40,0,619,1852,47
+Ahumada,"4,459",Ahumada,Total del Municipio,1589,124,1,646,4154,18
+Aldama,"8,499",Aldama,Total del Municipio,3147,430,12,1403,8198,20
+Allende,"2,612",Allende,Total del Municipio,1084,260,0,524,2722,35
+Aquiles Serdán,"4,909",Aquiles Serdán,Total del Municipio,1793,493,0,704,6982,7
+Ascensión,"11,319",Ascensión,Total del Municipio,2127,855,19,948,7777,71
+Bachíniva,"4,076",Bachíniva,Total del Municipio,1059,307,10,384,1978,24
+Balleza,"5,156",Balleza,Total del Municipio,1224,9382,1076,639,3638,1013
+Batopilas,727,,,,,,,,
+Bocoyna,"3,919",Bocoyna,Total del Municipio,2274,3920,81,921,7124,902
+Buenaventura,"8,609",Buenaventura,Total del Municipio,3273,1362,77,1105,7737,24
+Camargo,"14,697",Camargo,Total del Municipio,3714,1261,32,1519,15589,60
+Carichí,"3,356",Carichí,Total del Municipio,885,4363,835,356,1791,385
+Casas Grandes,"4,944",Casas Grandes,Total del Municipio,1913,430,26,880,3658,91
+Coronado,"1,361",Coronado,Total del Municipio,374,18,0,144,668,10
+Coyame del Sotol,878,Coyame del Sotol,Total del Municipio,115,23,0,42,428,10
+La Cruz,"2,576",La Cruz,Total del Municipio,510,81,2,185,1162,9
+Cuauhtémoc,"64,961",Cuauhtémoc,Total del Municipio,19762,4659,55,7379,56513,105
+Cusihuiriachi,"2,871",Cusihuiriachi,Total del Municipio,582,390,16,301,1684,22
+Chihuahua,"278,154",Chihuahua,Total del Municipio,94463,17195,91,40102,298216,397
+Chínipas,"2,471",Chínipas,Total del Municipio,835,986,19,497,1264,353
+Delicias,"34,941",Delicias,Total del Municipio,15193,1418,19,7004,47428,89
+Dr. Belisario Domínguez,"1,386",Dr. Belisario Domínguez,Total del Municipio,409,157,9,239,940,14
+Galeana,"4,226",Galeana,Total del Municipio,770,534,36,256,1789,18
+Santa Isabel,"2,569",Santa Isabel,Total del Municipio,583,93,2,245,1281,8
+Gómez Farías,"3,303",Gómez Farías,Total del Municipio,1384,52,0,724,2530,7
+Gran Morelos,"1,588",Gran Morelos,Total del Municipio,494,91,0,129,899,5
+Guachochi,"10,542",Guachochi,Total del Municipio,4621,32340,3130,1714,10619,3369
+Guadalupe,"2,116",Guadalupe,Total del Municipio,662,4,0,253,1356,8
+Guadalupe y Calvo,"9,933",Guadalupe y Calvo,Total del Municipio,5572,21671,1712,2259,8212,3413
+Guazapares,"2,246",Guazapares,Total del Municipio,1030,2540,121,448,1679,331
+Guerrero,"13,627",Guerrero,Total del Municipio,5244,1595,26,2373,11507,380
+Hidalgo del Parral,"25,855",Hidalgo del Parral,Total del Municipio,13160,2099,11,6264,34077,96
+Huejotitán,484,Huejotitán,Total del Municipio,103,32,0,57,280,2
+Ignacio Zaragoza,"2,487",Ignacio Zaragoza,Total del Municipio,920,26,0,467,1935,14
+Janos,"5,862",Janos,Total del Municipio,849,623,60,417,3152,51
+Jiménez,"10,771",Jiménez,Total del Municipio,3741,721,7,1592,11703,42
+Juárez,"413,095",Juárez,Total del Municipio,154007,18371,50,64510,443910,525
+Julimes,"2,900",Julimes,Total del Municipio,704,49,0,369,1680,16
+López,"2,543",López,Total del Municipio,553,117,7,274,1254,17
+Madera,"7,639",Madera,Total del Municipio,4466,608,3,1700,7883,181
+Maguarichi,268,Maguarichi,Total del Municipio,121,287,10,42,328,152
+Manuel Benavides,833,Manuel Benavides,Total del Municipio,68,5,0,32,460,11
+Matachí,"1,482",Matachí,Total del Municipio,313,40,0,147,979,8
+Matamoros,"1,853",Matamoros,Total del Municipio,786,73,0,209,1358,19
+Meoqui,"13,483",Meoqui,Total del Municipio,5275,802,47,2268,13687,51
+Morelos,"1,236",Morelos,Total del Municipio,882,3300,91,328,1183,430
+Moris,"1,581",Moris,Total del Municipio,582,211,1,281,1189,77
+Namiquipa,"14,593",Namiquipa,Total del Municipio,3428,399,2,1372,7671,30
+Nonoava,"1,439",Nonoava,Total del Municipio,552,518,41,245,810,60
+Nuevo Casas Grandes,"19,834",Nuevo Casas Grandes,Total del Municipio,7891,874,66,3804,20853,66
+Ocampo,"3,676",Ocampo,Total del Municipio,1096,189,0,405,2272,176
+Ojinaga,"10,414",Ojinaga,Total del Municipio,2277,160,2,956,8149,27
+Praxedis G. Guerrero,"3,369",Praxedis G. Guerrero,Total del Municipio,645,12,0,320,1663,4
+Riva Palacio,"5,988",Riva Palacio,Total del Municipio,608,131,3,265,2166,8
+Rosales,"5,602",Rosales,Total del Municipio,2706,352,5,1032,5286,31
+Rosario,"1,195",Rosario,Total del Municipio,331,47,0,157,673,10
+San Francisco de Borja,"1,413",San Francisco de Borja,Total del Municipio,481,247,15,259,778,31
+San Francisco de Conchos,"1,949",San Francisco de Conchos,Total del Municipio,297,43,0,130,920,2
+San Francisco del Oro,"1,373",San Francisco del Oro,Total del Municipio,727,73,1,299,1538,24
+Santa Bárbara,"2,765",Santa Bárbara,Total del Municipio,1498,192,0,753,3396,28
+Satevó,"1,864",Satevó,Total del Municipio,529,119,0,224,1203,27
+Saucillo,"10,500",Saucillo,Total del Municipio,3437,252,16,1952,8993,31
+Temósachic,"2,673",Temósachic,Total del Municipio,769,493,0,312,1758,124
+El Tule,861,El Tule,Total del Municipio,168,69,1,84,467,5
+Urique,"6,271",Urique,Total del Municipio,1332,9705,456,815,3208,1603
+Uruachi,"1,137",Uruachi,Total del Municipio,768,1675,97,324,1272,488
+Valle de Zaragoza,"2,875",Valle de Zaragoza,Total del Municipio,729,94,1,340,1655,30
+Azcapotzalco,"90,250",Azcapotzalco,Total del Municipio,56564,7261,21,24000,133490,38
+Coyoacán,"130,681",Coyoacán,Total del Municipio,76689,15349,56,34446,190701,61
+Cuajimalpa de Morelos,"54,451",Cuajimalpa de Morelos,Total del Municipio,18693,4022,6,7684,59692,31
+Gustavo A. Madero,"250,347",Gustavo A. Madero,Total del Municipio,147274,33035,109,68712,338175,160
+Iztacalco,"96,882",Iztacalco,Total del Municipio,54311,10060,37,24447,117149,52
+Iztapalapa,"391,344",Iztapalapa,Total del Municipio,233756,73036,298,104424,500645,300
+La Magdalena Contreras,"52,354",La Magdalena Contreras,Total del Municipio,33389,6796,30,13859,67362,76
+Milpa Alta,"43,227",Milpa Alta,Total del Municipio,19860,13002,31,7725,38001,151
+Álvaro Obregón,"166,174",Álvaro Obregón,Total del Municipio,87395,18441,74,38175,217550,74
+Tláhuac,"88,051",Tláhuac,Total del Municipio,46854,13184,43,20931,104766,243
+Tlalpan,"178,223",Tlalpan,Total del Municipio,86112,28778,85,35488,200099,274
+Xochimilco,"95,747",Xochimilco,Total del Municipio,58091,25846,91,23115,114202,248
+Benito Juárez,"115,720",Benito Juárez,Total del Municipio,50356,5604,9,18216,175564,29
+Cuauhtémoc,"146,282",Cuauhtémoc,Total del Municipio,68992,18461,66,29124,195486,82
+Miguel Hidalgo,"107,341",Miguel Hidalgo,Total del Municipio,46381,6119,24,17769,144245,45
+Venustiano Carranza,"101,933",Venustiano Carranza,Total del Municipio,56501,10145,36,25474,134924,53
+Canatlán,"10,457",Canatlán,Total del Municipio,3768,127,0,2178,8513,224
+Canelas,"1,251",Canelas,Total del Municipio,446,3,0,241,964,72
+Coneto de Comonfort,"1,154",Coneto de Comonfort,Total del Municipio,554,9,0,351,1033,17
+Cuencamé,"13,195",Cuencamé,Total del Municipio,5203,68,0,2514,9079,60
+Durango,"184,327",Durango,Total del Municipio,78885,8173,35,38618,182657,594
+General Simón Bolívar,"4,740",General Simón Bolívar,Total del Municipio,1390,0,0,888,2567,18
+Gómez Palacio,"98,031",Gómez Palacio,Total del Municipio,46356,701,6,18303,101216,156
+Guadalupe Victoria,"13,258",Guadalupe Victoria,Total del Municipio,3904,95,2,1946,9899,49
+Guanaceví,"3,715",Guanaceví,Total del Municipio,1302,267,1,717,2666,190
+Hidalgo,"1,600",Hidalgo,Total del Municipio,699,14,0,266,1167,10
+Indé,"2,147",Indé,Total del Municipio,901,87,2,342,1419,17
+Lerdo,"49,394",Lerdo,Total del Municipio,17312,360,1,7559,43981,139
+Mapimí,"9,272",Mapimí,Total del Municipio,3707,93,1,1541,6791,50
+Mezquital,"3,541",Mezquital,Total del Municipio,3183,41259,6546,1406,4798,3848
+Nazas,"5,012",Nazas,Total del Municipio,1984,33,0,679,3436,30
+Nombre de Dios,"6,898",Nombre de Dios,Total del Municipio,2289,20,0,1280,5173,49
+Ocampo,"2,923",Ocampo,Total del Municipio,1222,219,0,524,2581,65
+El Oro,"4,996",El Oro,Total del Municipio,1910,103,1,752,3214,31
+Otáez,757,Otáez,Total del Municipio,582,0,0,470,924,55
+Pánuco de Coronado,"5,288",Pánuco de Coronado,Total del Municipio,1983,13,0,951,3554,23
+Peñón Blanco,"3,873",Peñón Blanco,Total del Municipio,1449,8,0,866,2965,29
+Poanas,"9,588",Poanas,Total del Municipio,3888,43,0,2094,6663,26
+Pueblo Nuevo,"10,803",Pueblo Nuevo,Total del Municipio,4749,4203,71,2684,10100,1013
+Rodeo,"4,157",Rodeo,Total del Municipio,1578,2,0,1090,3415,23
+San Bernardo,"1,260",San Bernardo,Total del Municipio,430,63,4,249,957,27
+San Dimas,"4,350",San Dimas,Total del Municipio,1700,33,0,733,4087,290
+San Juan de Guadalupe,"1,653",San Juan de Guadalupe,Total del Municipio,845,0,0,367,1423,20
+San Juan del Río,"3,782",San Juan del Río,Total del Municipio,1413,27,0,750,3064,13
+San Luis del Cordero,781,San Luis del Cordero,Total del Municipio,241,0,0,113,580,6
+San Pedro del Gallo,695,San Pedro del Gallo,Total del Municipio,310,0,0,154,482,8
+Santa Clara,"2,150",Santa Clara,Total del Municipio,1055,4,0,498,1837,9
+Santiago Papasquiaro,"18,814",Santiago Papasquiaro,Total del Municipio,6522,414,0,3063,13147,545
+Súchil,"1,922",Súchil,Total del Municipio,1173,788,40,553,1745,58
+Tamazula,"4,626",Tamazula,Total del Municipio,3060,194,0,1681,4175,747
+Tepehuanes,"3,366",Tepehuanes,Total del Municipio,1786,215,0,1219,3242,130
+Tlahualilo,"6,464",Tlahualilo,Total del Municipio,2562,26,0,1061,5564,37
+Topia,"1,962",Topia,Total del Municipio,1044,40,0,576,1806,173
+Vicente Guerrero,"7,728",Vicente Guerrero,Total del Municipio,2894,479,0,1109,6235,30
+Nuevo Ideal,"11,102",Nuevo Ideal,Total del Municipio,3571,103,16,1567,7319,40
+Abasolo,"37,215",Abasolo,Total del Municipio,11452,153,0,5376,21965,104
+Acámbaro,"32,546",Acámbaro,Total del Municipio,14341,219,1,7385,29509,125
+San Miguel de Allende,"66,664",San Miguel de Allende,Total del Municipio,13358,671,1,5717,43191,452
+Apaseo el Alto,"18,843",Apaseo el Alto,Total del Municipio,7113,260,0,3693,15713,86
+Apaseo el Grande,"33,095",Apaseo el Grande,Total del Municipio,10960,658,2,4892,28713,145
+Atarjea,"1,392",Atarjea,Total del Municipio,972,17,0,597,1512,50
+Celaya,"136,798",Celaya,Total del Municipio,48725,2608,11,20807,138491,464
+Manuel Doblado,"15,210",Manuel Doblado,Total del Municipio,5688,63,0,2740,11013,114
+Comonfort,"24,869",Comonfort,Total del Municipio,7979,232,0,3514,18195,270
+Coroneo,"4,349",Coroneo,Total del Municipio,1609,52,0,694,3079,25
+Cortazar,"23,787",Cortazar,Total del Municipio,8716,345,0,4300,24324,145
+Cuerámaro,"11,151",Cuerámaro,Total del Municipio,4082,55,0,2080,8017,55
+Doctor Mora,"12,543",Doctor Mora,Total del Municipio,1991,81,0,1092,6627,62
+Dolores Hidalgo Cuna de la Independencia Nacional,"60,090",Dolores Hidalgo Cuna de la Independencia Nacional,Total del Municipio,18879,600,32,8844,37251,584
+Guanajuato,"54,514",Guanajuato,Total del Municipio,18735,468,1,7940,50799,273
+Huanímaro,"8,077",Huanímaro,Total del Municipio,2618,30,0,1347,5335,23
+Irapuato,"160,554",Irapuato,Total del Municipio,44272,1811,8,21385,148865,279
+Jaral del Progreso,"7,982",Jaral del Progreso,Total del Municipio,5597,63,0,2541,9744,33
+Jerécuaro,"13,858",Jerécuaro,Total del Municipio,6156,87,0,3344,13491,169
+León,"403,703",León,Total del Municipio,168279,7043,53,75129,432607,971
+Moroleón,"15,957",Moroleón,Total del Municipio,3864,34,0,2037,14161,23
+Ocampo,"10,394",Ocampo,Total del Municipio,2927,58,0,1545,5934,103
+Pénjamo,"51,492",Pénjamo,Total del Municipio,19922,246,2,10826,38907,285
+Pueblo Nuevo,"5,495",Pueblo Nuevo,Total del Municipio,1083,20,0,650,3235,7
+Purísima del Rincón,"33,061",Purísima del Rincón,Total del Municipio,8971,332,3,4256,19491,86
+Romita,"18,880",Romita,Total del Municipio,6047,147,7,2915,15901,87
+Salamanca,"72,938",Salamanca,Total del Municipio,29664,558,0,13361,73802,158
+Salvatierra,"24,068",Salvatierra,Total del Municipio,10710,132,1,5647,24857,129
+San Diego de la Unión,"18,588",San Diego de la Unión,Total del Municipio,5185,81,0,2054,9653,98
+San Felipe,"36,828",San Felipe,Total del Municipio,14457,166,0,6069,27052,423
+San Francisco del Rincón,"40,572",San Francisco del Rincón,Total del Municipio,14385,607,18,7075,31655,102
+San José Iturbide,"36,232",San José Iturbide,Total del Municipio,7385,405,0,3062,22165,85
+San Luis de la Paz,"38,250",San Luis de la Paz,Total del Municipio,11833,4278,42,5329,28744,395
+Santa Catarina,"2,751",Santa Catarina,Total del Municipio,764,39,0,442,1487,50
+Santa Cruz de Juventino Rosas,"17,080",Santa Cruz de Juventino Rosas,Total del Municipio,7005,105,2,3059,18224,134
+Santiago Maravatío,"2,321",Santiago Maravatío,Total del Municipio,1201,3,0,643,1980,4
+Silao,"47,597",,,,,,,,
+Tarandacuao,"4,089",Tarandacuao,Total del Municipio,1651,13,0,860,3157,18
+Tarimoro,"10,427",Tarimoro,Total del Municipio,3742,57,0,1778,9834,54
+Tierra Blanca,"8,303",Tierra Blanca,Total del Municipio,1917,1517,2,976,4683,98
+Uriangato,"17,804",Uriangato,Total del Municipio,6618,267,0,2921,17124,50
+Valle de Santiago,"50,784",Valle de Santiago,Total del Municipio,14345,187,9,7586,36088,132
+Victoria,"7,611",Victoria,Total del Municipio,2153,142,0,1174,5099,129
+Villagrán,"15,121",Villagrán,Total del Municipio,6762,438,0,3177,15730,49
+Xichú,"2,742",Xichú,Total del Municipio,1392,13,0,644,2820,95
+Yuriria,"20,783",Yuriria,Total del Municipio,9176,123,0,4628,18567,86
+Acapulco de Juárez,"188,579",Acapulco de Juárez,Total del Municipio,101230,27495,150,49238,204965,869
+Ahuacuotzingo,"2,079",Ahuacuotzingo,Total del Municipio,3306,7290,498,1869,4533,204
+Ajuchitlán del Progreso,"13,901",Ajuchitlán del Progreso,Total del Municipio,4289,161,13,2669,7505,243
+Alcozauca de Guerrero,998,Alcozauca de Guerrero,Total del Municipio,1600,20071,5850,1159,3125,52
+Alpoyeca,"2,022",Alpoyeca,Total del Municipio,1203,2161,84,648,1811,12
+Apaxtla,"2,264",Apaxtla,Total del Municipio,1144,231,0,584,2572,54
+Arcelia,"9,030",Arcelia,Total del Municipio,4150,573,0,1985,7886,95
+Atenango del Río,"2,152",Atenango del Río,Total del Municipio,1250,1431,6,827,2147,43
+Atlamajalcingo del Monte,259,Atlamajalcingo del Monte,Total del Municipio,520,5687,930,349,699,60
+Atlixtac,927,Atlixtac,Total del Municipio,2298,20813,5846,1262,4746,265
+Atoyac de Álvarez,"20,290",Atoyac de Álvarez,Total del Municipio,8855,1882,3,3835,14859,264
+Ayutla de los Libres,"14,854",Ayutla de los Libres,Total del Municipio,6295,28779,5775,3210,12099,739
+Azoyú,"6,936",Azoyú,Total del Municipio,2524,2346,13,1285,3833,88
+Benito Juárez,"9,962",Benito Juárez,Total del Municipio,2759,223,1,1304,4709,77
+Buenavista de Cuéllar,"3,954",Buenavista de Cuéllar,Total del Municipio,2159,215,1,998,3878,20
+Coahuayutla de José María Izazaga,"3,339",Coahuayutla de José María Izazaga,Total del Municipio,1630,4,0,629,2554,111
+Cocula,"5,941",Cocula,Total del Municipio,1971,150,7,1002,3762,28
+Copala,"4,217",Copala,Total del Municipio,2337,934,13,1043,3719,70
+Copalillo,880,Copalillo,Total del Municipio,1468,13403,623,580,2325,100
+Copanatoyac,853,Copanatoyac,Total del Municipio,1731,21006,3273,1297,3421,121
+Coyuca de Benítez,"18,677",Coyuca de Benítez,Total del Municipio,7480,909,4,4205,18551,289
+Coyuca de Catalán,"15,291",Coyuca de Catalán,Total del Municipio,4945,111,0,2656,8362,357
+Cuajinicuilapa,"9,046",Cuajinicuilapa,Total del Municipio,3703,3009,29,1844,6648,128
+Cualác,"1,243",Cualác,Total del Municipio,1053,4238,19,499,1754,57
+Cuautepec,"3,825",Cuautepec,Total del Municipio,2362,462,2,971,3655,40
+Cuetzala del Progreso,"1,687",Cuetzala del Progreso,Total del Municipio,1399,570,3,651,2038,34
+Cutzamala de Pinzón,"10,234",Cutzamala de Pinzón,Total del Municipio,2917,39,0,1563,5654,102
+Chilapa de Álvarez,"23,419",Chilapa de Álvarez,Total del Municipio,11551,48876,6673,5514,23173,462
+Chilpancingo de los Bravo,"82,887",Chilpancingo de los Bravo,Total del Municipio,35124,17919,67,13305,64560,358
+Florencio Villarreal,"8,726",Florencio Villarreal,Total del Municipio,2197,653,2,1041,5035,53
+General Canuto A. Neri,903,General Canuto A. Neri,Total del Municipio,894,28,0,389,1289,42
+General Heliodoro Castillo,"2,185",General Heliodoro Castillo,Total del Municipio,3443,245,1,2008,4963,360
+Huamuxtitlán,"4,011",Huamuxtitlán,Total del Municipio,2607,4263,56,1444,4315,48
+Huitzuco de los Figueroa,"9,973",Huitzuco de los Figueroa,Total del Municipio,5412,3513,69,2796,9349,60
+Iguala de la Independencia,"44,727",Iguala de la Independencia,Total del Municipio,17377,6038,22,7670,37626,209
+Igualapa,"3,272",Igualapa,Total del Municipio,1297,4143,190,772,2410,86
+Ixcateopan de Cuauhtémoc,"1,416",Ixcateopan de Cuauhtémoc,Total del Municipio,942,222,0,435,1491,11
+Zihuatanejo de Azueta,"37,474",Zihuatanejo de Azueta,Total del Municipio,16567,4966,24,6834,34251,209
+Juan R. Escudero,"6,072",Juan R. Escudero,Total del Municipio,3684,749,4,1884,6632,52
+Leonardo Bravo,"2,440",Leonardo Bravo,Total del Municipio,3211,280,2,1564,4986,91
+Malinaltepec,"4,232",Malinaltepec,Total del Municipio,3202,28695,2241,2081,4097,435
+Mártir de Cuilapan,"2,365",Mártir de Cuilapan,Total del Municipio,2030,8868,658,914,3856,38
+Metlatónoc,382,Metlatónoc,Total del Municipio,1292,18584,5611,745,2716,227
+Mochitlán,"2,898",Mochitlán,Total del Municipio,1779,289,0,663,2616,68
+Olinalá,"3,672",Olinalá,Total del Municipio,3241,15314,419,2021,5524,194
+Ometepec,"21,076",Ometepec,Total del Municipio,7685,27449,4009,3525,14652,504
+Pedro Ascencio Alquisiras,705,Pedro Ascencio Alquisiras,Total del Municipio,804,35,0,458,1274,98
+Petatlán,"15,573",Petatlán,Total del Municipio,5971,554,2,3051,11614,147
+Pilcaya,"4,428",Pilcaya,Total del Municipio,2215,58,0,1181,3437,62
+Pungarabato,"15,985",Pungarabato,Total del Municipio,4081,310,1,2249,9516,43
+Quechultenango,"2,269",Quechultenango,Total del Municipio,3736,7973,40,2204,7000,138
+San Luis Acatlán,"6,277",San Luis Acatlán,Total del Municipio,4564,30524,3580,2557,6640,633
+San Marcos,"18,932",San Marcos,Total del Municipio,6337,1071,20,3473,12454,193
+San Miguel Totolapan,"3,513",San Miguel Totolapan,Total del Municipio,2657,154,0,1734,3727,275
+Taxco de Alarcón,"15,936",Taxco de Alarcón,Total del Municipio,17151,5224,25,7470,27884,141
+Tecoanapa,"8,017",Tecoanapa,Total del Municipio,4605,1363,40,2245,10186,203
+Técpan de Galeana,"33,364",Técpan de Galeana,Total del Municipio,9428,850,10,4814,17133,292
+Teloloapan,"16,861",Teloloapan,Total del Municipio,6890,1404,6,3006,12303,120
+Tepecoacuilco de Trujano,"6,417",Tepecoacuilco de Trujano,Total del Municipio,4685,7000,850,2586,7274,98
+Tetipac,"2,709",Tetipac,Total del Municipio,2280,43,0,1024,3391,67
+Tixtla de Guerrero,"12,608",Tixtla de Guerrero,Total del Municipio,5303,11561,258,2034,9071,72
+Tlacoachistlahuaca,"3,621",Tlacoachistlahuaca,Total del Municipio,1799,19679,5424,1297,3637,202
+Tlacoapa,724,Tlacoapa,Total del Municipio,1245,9298,1331,971,1301,398
+Tlalchapa,"6,484",Tlalchapa,Total del Municipio,1611,16,0,938,3197,41
+Tlalixtaquilla de Maldonado,"1,581",Tlalixtaquilla de Maldonado,Total del Municipio,1205,2241,171,646,1667,20
+Tlapa de Comonfort,"22,888",Tlapa de Comonfort,Total del Municipio,11472,70521,2894,5994,17966,354
+Tlapehuala,"6,431",Tlapehuala,Total del Municipio,2670,7,0,1461,5189,64
+La Unión de Isidoro Montes de Oca,"12,387",La Unión de Isidoro Montes de Oca,Total del Municipio,4265,120,1,1996,7173,108
+Xalpatláhuac,820,Xalpatláhuac,Total del Municipio,1394,11391,1438,671,2194,41
+Xochihuehuetlán,"1,843",Xochihuehuetlán,Total del Municipio,1157,368,2,708,1834,29
+Xochistlahuaca,"3,375",Xochistlahuaca,Total del Municipio,3878,28033,10625,2103,4880,431
+Zapotitlán Tablas,960,Zapotitlán Tablas,Total del Municipio,1636,11604,1380,1105,1727,196
+Zirándaro,"4,894",Zirándaro,Total del Municipio,2461,28,107,1453,3934,109
+Zitlala,"2,233",Zitlala,Total del Municipio,3016,13896,1468,1297,4396,73
+Eduardo Neri,"11,493",Eduardo Neri,Total del Municipio,6637,9507,507,3031,10781,115
+Acatepec,"1,573",Acatepec,Total del Municipio,4292,39297,12414,2186,3629,1168
+Marquelia,"4,637",Marquelia,Total del Municipio,2288,1264,11,1130,3336,59
+Cochoapa el Grande,117,Cochoapa el Grande,Total del Municipio,960,21135,9752,541,2272,471
+José Joaquin de Herrera,902,,,,,,,,
+Juchitán,"2,424",Juchitán,Total del Municipio,1129,687,5,622,1877,48
+Iliatenco,"2,934",Iliatenco,Total del Municipio,1464,11256,687,893,1755,190
+Acatlán,"14,139",Acatlán,Total del Municipio,2571,203,0,974,5752,60
+Acaxochitlán,"8,333",Acaxochitlán,Total del Municipio,4057,22570,828,1787,9271,166
+Actopan,"19,735",Actopan,Total del Municipio,8271,5180,18,2891,15850,168
+Agua Blanca de Iturbide,"3,830",Agua Blanca de Iturbide,Total del Municipio,1791,167,1,710,2760,109
+Ajacuba,"5,476",Ajacuba,Total del Municipio,2277,167,0,948,5065,47
+Alfajayucan,"10,397",Alfajayucan,Total del Municipio,3304,7187,49,1220,5359,92
+Almoloya,"4,026",Almoloya,Total del Municipio,1971,55,0,828,3413,42
+Apan,"14,342",Apan,Total del Municipio,7569,324,0,3218,12706,74
+El Arenal,"8,713",El Arenal,Total del Municipio,2619,708,4,1039,5109,79
+Atitalaquia,"8,834",Atitalaquia,Total del Municipio,4083,350,0,1435,8609,39
+Atlapexco,"7,282",Atlapexco,Total del Municipio,2823,16867,1587,1324,5020,56
+Atotonilco el Grande,"12,517",Atotonilco el Grande,Total del Municipio,4414,359,0,2019,8191,139
+Atotonilco de Tula,"19,110",Atotonilco de Tula,Total del Municipio,8558,2179,3,2901,17644,54
+Calnali,"4,507",Calnali,Total del Municipio,2912,6780,547,1122,4385,68
+Cardonal,"7,397",Cardonal,Total del Municipio,3157,15548,286,1446,4946,93
+Cuautepec de Hinojosa,"14,309",Cuautepec de Hinojosa,Total del Municipio,6058,686,2,2804,15633,137
+Chapantongo,"6,290",Chapantongo,Total del Municipio,2004,144,0,844,3802,144
+Chapulhuacán,"10,306",Chapulhuacán,Total del Municipio,2805,2713,22,1485,5792,126
+Chilcuautla,"9,079",Chilcuautla,Total del Municipio,2350,11966,134,1332,4918,106
+Eloxochitlán,"1,022",Eloxochitlán,Total del Municipio,381,45,0,274,824,6
+Emiliano Zapata,"4,029",Emiliano Zapata,Total del Municipio,2722,127,1,946,4039,37
+Epazoyucan,"6,416",Epazoyucan,Total del Municipio,2070,281,3,844,4736,68
+Francisco I. Madero,"12,205",Francisco I. Madero,Total del Municipio,4401,1824,4,1516,9487,63
+Huasca de Ocampo,"8,350",Huasca de Ocampo,Total del Municipio,2086,256,0,1025,4647,56
+Huautla,"6,362",Huautla,Total del Municipio,4266,18806,1277,1965,5147,76
+Huazalingo,"1,603",Huazalingo,Total del Municipio,2113,11729,925,922,2688,46
+Huehuetla,"5,311",Huehuetla,Total del Municipio,3914,15385,1284,1468,5634,204
+Huejutla de Reyes,"33,292",Huejutla de Reyes,Total del Municipio,14230,92509,6475,6858,29174,267
+Huichapan,"19,812",Huichapan,Total del Municipio,7315,1733,6,3485,12580,120
+Ixmiquilpan,"39,918",Ixmiquilpan,Total del Municipio,14330,60221,964,5544,25673,227
+Jacala de Ledezma,"6,081",Jacala de Ledezma,Total del Municipio,1460,189,0,846,3660,47
+Jaltocán,"2,087",Jaltocán,Total del Municipio,1277,9424,750,600,2536,30
+Juárez Hidalgo,926,Juárez Hidalgo,Total del Municipio,442,92,1,309,943,14
+Lolotla,"1,842",Lolotla,Total del Municipio,1559,3245,124,881,2421,47
+Metepec,"6,705",Metepec,Total del Municipio,1456,379,1,685,3168,46
+San Agustín Metzquititlán,"3,565",San Agustín Metzquititlán,Total del Municipio,938,96,0,613,2717,44
+Metztitlán,"9,188",Metztitlán,Total del Municipio,2649,3394,38,1517,5869,141
+Mineral del Chico,"3,758",Mineral del Chico,Total del Municipio,1396,167,0,552,2427,86
+Mineral del Monte,"4,062",Mineral del Monte,Total del Municipio,2039,90,0,1034,3625,9
+La Misión,"3,447",La Misión,Total del Municipio,1310,140,0,884,2796,43
+Mixquiahuala de Juárez,"20,464",Mixquiahuala de Juárez,Total del Municipio,7111,1598,6,2665,12418,105
+Molango de Escamilla,"3,210",Molango de Escamilla,Total del Municipio,1874,310,0,977,3168,76
+Nicolás Flores,"1,700",Nicolás Flores,Total del Municipio,895,5161,96,503,1655,39
+Nopala de Villagrán,"8,864",Nopala de Villagrán,Total del Municipio,3078,123,0,1469,5046,114
+Omitlán de Juárez,"4,039",Omitlán de Juárez,Total del Municipio,1374,77,0,477,2463,16
+San Felipe Orizatlán,"10,387",San Felipe Orizatlán,Total del Municipio,5860,28981,2064,2654,9453,92
+Pacula,"2,035",Pacula,Total del Municipio,642,247,1,432,1365,30
+Pachuca de Soto,"104,314",Pachuca de Soto,Total del Municipio,42355,25116,89,15372,91656,175
+Pisaflores,"6,916",Pisaflores,Total del Municipio,2665,525,0,1215,4531,97
+Progreso de Obregón,"9,235",Progreso de Obregón,Total del Municipio,3106,1069,7,1198,6169,64
+Mineral de la Reforma,"71,206",Mineral de la Reforma,Total del Municipio,28419,10947,6,8961,63445,96
+San Agustín Tlaxiaca,"17,057",San Agustín Tlaxiaca,Total del Municipio,6164,841,3,2516,10151,134
+San Bartolo Tutotepec,"5,348",San Bartolo Tutotepec,Total del Municipio,2772,9134,404,1259,4074,272
+San Salvador,"16,624",San Salvador,Total del Municipio,4577,14248,89,1926,9513,89
+Santiago de Anaya,"8,581",Santiago de Anaya,Total del Municipio,2787,14158,54,1061,4882,78
+Santiago Tulantepec de Lugo Guerrero,"13,576",Santiago Tulantepec de Lugo Guerrero,Total del Municipio,3021,1054,1,1382,10964,36
+Singuilucan,"6,614",Singuilucan,Total del Municipio,1607,109,0,689,4039,46
+Tasquillo,"7,477",Tasquillo,Total del Municipio,2528,10557,88,1205,4856,54
+Tecozautla,"20,507",Tecozautla,Total del Municipio,4653,6557,37,2237,9865,125
+Tenango de Doria,"5,459",Tenango de Doria,Total del Municipio,2076,7028,250,1044,4375,83
+Tepeapulco,"15,001",Tepeapulco,Total del Municipio,7846,748,1,3129,16350,39
+Tepehuacán de Guerrero,"5,055",Tepehuacán de Guerrero,Total del Municipio,3370,17477,850,1549,6436,210
+Tepeji del Río de Ocampo,"26,892",Tepeji del Río de Ocampo,Total del Municipio,10757,5513,18,4192,24287,168
+Tepetitlán,"5,275",Tepetitlán,Total del Municipio,1917,443,1,800,3167,68
+Tetepango,"3,159",Tetepango,Total del Municipio,1527,88,0,518,3047,19
+Villa de Tezontepec,"4,562",Villa de Tezontepec,Total del Municipio,1694,143,0,654,3396,9
+Tezontepec de Aldama,"16,251",Tezontepec de Aldama,Total del Municipio,5899,703,2,2768,14499,152
+Tianguistengo,"2,493",Tianguistengo,Total del Municipio,1814,6370,105,887,3641,97
+Tizayuca,"46,285",Tizayuca,Total del Municipio,25712,7415,16,8725,46853,104
+Tlahuelilpan,"5,937",Tlahuelilpan,Total del Municipio,2636,357,0,1031,4820,39
+Tlahuiltepa,"2,405",Tlahuiltepa,Total del Municipio,1361,118,1,979,2710,114
+Tlanalapa,"2,834",Tlanalapa,Total del Municipio,1672,47,0,553,3159,31
+Tlanchinol,"4,726",Tlanchinol,Total del Municipio,6005,24544,1156,2295,8504,120
+Tlaxcoapan,"6,737",Tlaxcoapan,Total del Municipio,2847,271,0,964,6905,34
+Tolcayuca,"7,946",Tolcayuca,Total del Municipio,3100,527,2,1203,5948,19
+Tula de Allende,"40,753",Tula de Allende,Total del Municipio,15987,1554,1,5987,32872,282
+Tulancingo de Bravo,"55,906",Tulancingo de Bravo,Total del Municipio,18156,11026,109,7306,45075,174
+Xochiatipan,"2,107",Xochiatipan,Total del Municipio,1733,17980,3133,989,3665,117
+Xochicoatlán,"2,086",Xochicoatlán,Total del Municipio,1265,228,0,555,2128,36
+Yahualica,"4,913",Yahualica,Total del Municipio,3481,22763,3816,1404,5880,114
+Zacualtipán de Ángeles,"9,750",Zacualtipán de Ángeles,Total del Municipio,3990,4017,17,1825,10311,100
+Zapotlán de Juárez,"6,038",Zapotlán de Juárez,Total del Municipio,3101,673,0,1198,5756,28
+Zempoala,"19,368",Zempoala,Total del Municipio,9041,1271,1,3061,17286,105
+Zimapán,"16,571",Zimapán,Total del Municipio,4815,8292,30,2056,10589,154
+Acatic,"9,664",Acatic,Total del Municipio,2088,40,0,995,6323,19
+Acatlán de Juárez,"8,386",Acatlán de Juárez,Total del Municipio,2349,70,1,1103,6325,17
+Ahualulco de Mercado,"7,524",Ahualulco de Mercado,Total del Municipio,2741,65,0,1302,6461,15
+Amacueca,"2,566",Amacueca,Total del Municipio,558,34,1,307,1531,7
+Amatitán,"5,991",Amatitán,Total del Municipio,1826,150,4,961,4146,14
+Ameca,"23,578",Ameca,Total del Municipio,7262,322,0,3438,17157,52
+San Juanito de Escobedo,"3,597",San Juanito de Escobedo,Total del Municipio,985,23,0,358,2621,10
+Arandas,"34,775",Arandas,Total del Municipio,6076,407,23,3461,22578,75
+El Arenal,"6,812",El Arenal,Total del Municipio,1820,223,2,1000,5636,21
+Atemajac de Brizuela,"1,752",Atemajac de Brizuela,Total del Municipio,687,14,0,263,1740,20
+Atengo,"2,621",Atengo,Total del Municipio,492,3,0,326,1472,24
+Atenguillo,"3,179",Atenguillo,Total del Municipio,531,13,0,257,1298,8
+Atotonilco el Alto,"22,195",Atotonilco el Alto,Total del Municipio,5785,200,1,3158,17146,19
+Atoyac,"4,176",Atoyac,Total del Municipio,1274,46,0,604,2361,19
+Autlán de Navarro,"21,113",Autlán de Navarro,Total del Municipio,6204,1256,16,3080,18364,97
+Ayotlán,"16,486",Ayotlán,Total del Municipio,4855,64,0,2284,10580,25
+Ayutla,"5,071",Ayutla,Total del Municipio,2190,17,0,760,3450,30
+La Barca,"20,037",La Barca,Total del Municipio,7063,155,2,4420,17491,19
+Bolaños,"2,266",Bolaños,Total del Municipio,625,4183,491,441,1168,308
+Cabo Corrientes,"4,503",Cabo Corrientes,Total del Municipio,1371,48,1,583,2985,100
+Casimiro Castillo,"7,099",Casimiro Castillo,Total del Municipio,2492,76,0,1371,6138,41
+Cihuatlán,"14,803",Cihuatlán,Total del Municipio,4235,987,40,1916,11102,46
+Zapotlán el Grande,"32,890",Zapotlán el Grande,Total del Municipio,10510,1026,7,5086,30996,50
+Cocula,"10,157",Cocula,Total del Municipio,3160,92,1,1767,7940,25
+Colotlán,"7,268",Colotlán,Total del Municipio,2530,706,2,1268,5661,28
+Concepción de Buenos Aires,"2,956",Concepción de Buenos Aires,Total del Municipio,725,26,0,316,1776,6
+Cuautitlán de García Barragán,"6,241",Cuautitlán de García Barragán,Total del Municipio,1858,465,11,954,3995,285
+Cuautla,"1,302",Cuautla,Total del Municipio,372,4,0,195,661,11
+Cuquío,"6,853",Cuquío,Total del Municipio,2192,6,0,1147,4804,18
+Chapala,"27,052",Chapala,Total del Municipio,5149,258,2,2428,16107,53
+Chimaltitán,921,Chimaltitán,Total del Municipio,608,122,1,379,822,80
+Chiquilistlán,"1,475",Chiquilistlán,Total del Municipio,491,8,0,213,1391,15
+Degollado,"12,496",Degollado,Total del Municipio,2217,90,0,1071,5879,19
+Ejutla,"1,321",Ejutla,Total del Municipio,284,0,0,172,649,8
+Encarnación de Díaz,"19,844",Encarnación de Díaz,Total del Municipio,5809,65,0,3188,14273,67
+Etzatlán,"6,478",Etzatlán,Total del Municipio,1554,13,0,1071,5322,10
+El Grullo,"10,164",El Grullo,Total del Municipio,3341,542,3,1557,7353,21
+Guachinango,"1,926",Guachinango,Total del Municipio,467,7,1,303,1237,19
+Guadalajara,"368,541",Guadalajara,Total del Municipio,145128,7689,35,73785,394284,189
+Hostotipaquillo,"2,595",Hostotipaquillo,Total del Municipio,793,59,0,410,2235,18
+Huejúcar,"2,801",Huejúcar,Total del Municipio,1217,19,0,543,1763,4
+Huejuquilla el Alto,"3,211",Huejuquilla el Alto,Total del Municipio,1161,1021,37,672,2601,63
+La Huerta,"11,551",La Huerta,Total del Municipio,3311,319,18,1833,6739,85
+Ixtlahuacán de los Membrillos,"17,744",Ixtlahuacán de los Membrillos,Total del Municipio,7426,694,1,3351,19559,73
+Ixtlahuacán del Río,"9,529",Ixtlahuacán del Río,Total del Municipio,2683,34,0,1222,5608,45
+Jalostotitlán,"13,490",Jalostotitlán,Total del Municipio,2517,45,0,1402,8861,27
+Jamay,"7,333",Jamay,Total del Municipio,2458,195,0,1422,6123,10
+Jesús María,"9,200",Jesús María,Total del Municipio,2724,76,0,1505,5372,36
+Jilotlán de los Dolores,"4,196",Jilotlán de los Dolores,Total del Municipio,1005,68,13,612,2412,77
+Jocotepec,"18,730",Jocotepec,Total del Municipio,4533,409,5,2279,10747,35
+Juanacatlán,"8,603",Juanacatlán,Total del Municipio,3272,93,0,1201,8634,20
+Juchitlán,"2,377",Juchitlán,Total del Municipio,704,26,0,280,1589,9
+Lagos de Moreno,"55,820",Lagos de Moreno,Total del Municipio,15894,301,0,7758,44514,150
+El Limón,"2,707",El Limón,Total del Municipio,892,5,0,561,1768,3
+Magdalena,"7,036",Magdalena,Total del Municipio,2142,62,0,1111,5816,24
+Santa María del Oro,756,Santa María del Oro,Total del Municipio,187,0,0,165,528,24
+La Manzanilla de la Paz,"2,294",La Manzanilla de la Paz,Total del Municipio,401,13,0,224,1229,1
+Mascota,"5,633",Mascota,Total del Municipio,2228,72,13,1121,4251,56
+Mazamitla,"6,493",Mazamitla,Total del Municipio,1469,78,0,575,3565,14
+Mexticacán,"1,911",Mexticacán,Total del Municipio,844,0,0,413,1608,7
+Mezquitic,"3,795",Mezquitic,Total del Municipio,2949,16776,4537,1482,2711,1393
+Mixtlán,"2,511",Mixtlán,Total del Municipio,644,7,0,245,1049,10
+Ocotlán,"30,770",Ocotlán,Total del Municipio,12596,334,1,6053,28627,77
+Ojuelos de Jalisco,"11,300",Ojuelos de Jalisco,Total del Municipio,3374,60,0,1801,8126,91
+Pihuamo,"5,123",Pihuamo,Total del Municipio,1534,29,0,794,3404,44
+Poncitlán,"16,937",Poncitlán,Total del Municipio,4879,89,0,2450,11999,88
+Puerto Vallarta,"90,244",Puerto Vallarta,Total del Municipio,29035,6928,38,12531,85155,202
+Villa Purificación,"4,880",Villa Purificación,Total del Municipio,1548,81,0,786,3292,87
+Quitupan,"3,292",Quitupan,Total del Municipio,706,7,0,458,2330,30
+El Salto,"57,645",El Salto,Total del Municipio,23766,2739,5,10873,57568,111
+San Cristóbal de la Barranca,"1,522",San Cristóbal de la Barranca,Total del Municipio,333,124,1,241,785,5
+San Diego de Alejandría,"3,557",San Diego de Alejandría,Total del Municipio,887,22,0,391,1961,8
+San Juan de los Lagos,"27,258",San Juan de los Lagos,Total del Municipio,6613,118,0,3120,18503,37
+San Julián,"8,248",San Julián,Total del Municipio,2269,23,0,1549,4745,12
+San Marcos,"1,458",San Marcos,Total del Municipio,447,14,0,306,1009,10
+San Martín de Bolaños,"1,501",San Martín de Bolaños,Total del Municipio,343,226,3,239,825,39
+San Martín Hidalgo,"11,384",San Martín Hidalgo,Total del Municipio,3790,56,0,1868,8025,37
+San Miguel el Alto,"14,343",San Miguel el Alto,Total del Municipio,4415,105,0,2290,8747,45
+Gómez Farías,"6,876",Gómez Farías,Total del Municipio,1689,181,4,742,3695,14
+San Sebastián del Oeste,"2,257",San Sebastián del Oeste,Total del Municipio,735,19,0,374,1509,27
+Santa María de los Ángeles,"1,356",Santa María de los Ángeles,Total del Municipio,431,7,0,306,1062,10
+Sayula,"13,238",Sayula,Total del Municipio,3733,352,4,1416,9107,34
+Tala,"26,016",Tala,Total del Municipio,10107,2081,12,4406,24667,101
+Talpa de Allende,"5,759",Talpa de Allende,Total del Municipio,1871,62,0,829,4260,77
+Tamazula de Gordiano,"14,301",Tamazula de Gordiano,Total del Municipio,5137,162,1,2230,11346,123
+Tapalpa,"9,332",Tapalpa,Total del Municipio,1542,215,13,837,4628,17
+Tecalitlán,"6,969",Tecalitlán,Total del Municipio,1385,32,0,843,4668,131
+Tecolotlán,"5,630",Tecolotlán,Total del Municipio,1542,46,0,877,4912,18
+Techaluta de Montenegro,"1,686",Techaluta de Montenegro,Total del Municipio,422,21,0,197,1061,2
+Tenamaxtlán,"3,437",Tenamaxtlán,Total del Municipio,997,41,0,583,2229,5
+Teocaltiche,"15,428",Teocaltiche,Total del Municipio,4321,116,0,2317,10892,38
+Teocuitatlán de Corona,"4,951",Teocuitatlán de Corona,Total del Municipio,1511,28,0,837,3170,19
+Tepatitlán de Morelos,"44,723",Tepatitlán de Morelos,Total del Municipio,9853,374,1,5335,40600,94
+Tequila,"13,886",Tequila,Total del Municipio,4351,151,0,2142,10878,151
+Teuchitlán,"4,500",Teuchitlán,Total del Municipio,1751,19,1,683,2689,15
+Tizapán el Alto,"9,548",Tizapán el Alto,Total del Municipio,2835,72,0,1557,6187,34
+Tlajomulco de Zúñiga,"196,805",Tlajomulco de Zúñiga,Total del Municipio,67700,9052,19,25325,210596,244
+Tlaquepaque,"182,386",,,,,,,,
+Tolimán,"4,941",Tolimán,Total del Municipio,962,160,23,541,2407,55
+Tomatlán,"15,309",Tomatlán,Total del Municipio,5199,875,107,2646,9936,177
+Tonalá,"161,824",Tonalá,Total del Municipio,56114,2974,18,23641,146065,172
+Tonaya,"2,870",Tonaya,Total del Municipio,713,2,0,321,1796,1
+Tonila,"2,409",Tonila,Total del Municipio,644,77,0,392,2103,5
+Totatiche,"2,216",Totatiche,Total del Municipio,524,51,0,224,1305,21
+Tototlán,"8,786",Tototlán,Total del Municipio,2870,27,0,1284,6382,16
+Tuxcacuesco,"2,943",Tuxcacuesco,Total del Municipio,539,73,15,410,1233,16
+Tuxcueca,"2,638",Tuxcueca,Total del Municipio,555,14,0,314,1722,10
+Tuxpan,"12,298",Tuxpan,Total del Municipio,3320,476,3,1476,9202,64
+Unión de San Antonio,"10,462",Unión de San Antonio,Total del Municipio,2445,9,0,1289,4852,41
+Unión de Tula,"5,336",Unión de Tula,Total del Municipio,1812,60,2,1012,4043,11
+Valle de Guadalupe,"2,983",Valle de Guadalupe,Total del Municipio,413,0,0,295,1850,2
+Valle de Juárez,"3,066",Valle de Juárez,Total del Municipio,866,16,0,453,1849,14
+San Gabriel,"6,972",San Gabriel,Total del Municipio,1950,150,12,904,3998,23
+Villa Corona,"6,361",Villa Corona,Total del Municipio,2501,46,0,1079,5006,15
+Villa Guerrero,"2,286",Villa Guerrero,Total del Municipio,650,408,4,454,1566,65
+Villa Hidalgo,"10,121",Villa Hidalgo,Total del Municipio,1806,28,0,762,5546,14
+Cañadas de Obregón,"2,336",Cañadas de Obregón,Total del Municipio,599,18,0,454,1380,19
+Yahualica de González Gallo,"8,974",Yahualica de González Gallo,Total del Municipio,3256,24,0,1407,6853,48
+Zacoalco de Torres,"8,840",Zacoalco de Torres,Total del Municipio,2982,89,2,1513,7372,29
+Zapopan,"459,843",Zapopan,Total del Municipio,125681,26955,69,54121,408563,286
+Zapotiltic,"13,297",Zapotiltic,Total del Municipio,3621,482,36,1510,8805,49
+Zapotitlán de Vadillo,"2,582",Zapotitlán de Vadillo,Total del Municipio,815,40,0,352,1687,88
+Zapotlán del Rey,"8,104",Zapotlán del Rey,Total del Municipio,2479,18,0,1328,5071,26
+Zapotlanejo,"31,570",Zapotlanejo,Total del Municipio,8067,144,0,3707,17751,90
+San Ignacio Cerro Gordo,"8,559",San Ignacio Cerro Gordo,Total del Municipio,1578,93,0,671,4845,16
+Acambay,"19,572",,,,,,,,
+Acolman,"54,246",Acolman,Total del Municipio,17390,5216,16,7305,44294,95
+Aculco,"18,742",Aculco,Total del Municipio,5398,6817,67,2324,12772,325
+Almoloya de Alquisiras,"5,167",Almoloya de Alquisiras,Total del Municipio,1801,2,0,708,4060,54
+Almoloya de Juárez,"45,891",Almoloya de Juárez,Total del Municipio,16665,2600,2,6994,40769,488
+Almoloya del Río,"2,981",Almoloya del Río,Total del Municipio,1111,226,0,599,2787,10
+Amanalco,"5,596",Amanalco,Total del Municipio,1915,3580,9,960,5752,144
+Amatepec,"7,321",Amatepec,Total del Municipio,3844,10,0,1880,6445,114
+Amecameca,"9,796",Amecameca,Total del Municipio,5483,335,1,1938,12496,58
+Apaxco,"8,758",Apaxco,Total del Municipio,4037,309,0,1569,8038,24
+Atenco,"15,908",Atenco,Total del Municipio,8668,3771,13,3711,17773,78
+Atizapán,"3,517",Atizapán,Total del Municipio,1327,366,1,478,2669,18
+Atizapán de Zaragoza,"113,778",Atizapán de Zaragoza,Total del Municipio,52740,17248,45,21320,148635,61
+Atlacomulco,"31,911",Atlacomulco,Total del Municipio,10265,31042,243,3931,27183,282
+Atlautla,"4,551",Atlautla,Total del Municipio,2916,162,1,1046,6804,72
+Axapusco,"7,071",Axapusco,Total del Municipio,2706,443,0,1290,7596,35
+Ayapango,"3,476",Ayapango,Total del Municipio,1222,81,0,413,2521,9
+Calimaya,"12,806",Calimaya,Total del Municipio,5535,596,1,1978,16862,48
+Capulhuac,"9,538",Capulhuac,Total del Municipio,3898,310,0,1339,8097,20
+Coacalco de Berriozábal,"68,467",Coacalco de Berriozábal,Total del Municipio,40548,4094,12,14160,89220,29
+Coatepec Harinas,"15,244",Coatepec Harinas,Total del Municipio,3302,108,0,1471,8841,92
+Cocotitlán,"3,720",Cocotitlán,Total del Municipio,1808,472,1,702,3718,23
+Coyotepec,"6,871",Coyotepec,Total del Municipio,3127,1308,2,1256,9498,27
+Cuautitlán,"42,356",Cuautitlán,Total del Municipio,19586,3556,3,6594,51685,18
+Chalco,"83,907",Chalco,Total del Municipio,44538,18740,58,16394,99405,298
+Chapa de Mota,"7,527",Chapa de Mota,Total del Municipio,4344,11861,63,1675,7618,141
+Chapultepec,"2,881",Chapultepec,Total del Municipio,1091,197,1,368,3332,9
+Chiautla,"7,237",Chiautla,Total del Municipio,3360,774,3,1135,7603,16
+Chicoloapan,"39,565",Chicoloapan,Total del Municipio,24802,5904,18,9520,53838,133
+Chiconcuac,"7,563",Chiconcuac,Total del Municipio,2880,1526,1,983,5997,10
+Chimalhuacán,"117,568",Chimalhuacán,Total del Municipio,76603,56631,258,33884,173041,353
+Donato Guerra,"5,704",Donato Guerra,Total del Municipio,3056,9922,243,1323,7497,260
+Ecatepec de Morelos,"388,229",Ecatepec de Morelos,Total del Municipio,217430,64680,250,85662,441858,311
+Ecatzingo,"2,282",Ecatzingo,Total del Municipio,813,85,0,348,2516,23
+Huehuetoca,"34,816",Huehuetoca,Total del Municipio,17554,6921,14,6310,46134,63
+Hueypoxtla,"11,427",Hueypoxtla,Total del Municipio,6240,411,2,2325,11332,23
+Huixquilucan,"77,759",Huixquilucan,Total del Municipio,25266,9919,47,9515,80989,97
+Isidro Fabela,"5,170",Isidro Fabela,Total del Municipio,856,389,0,550,2910,14
+Ixtapaluca,"106,681",Ixtapaluca,Total del Municipio,65679,27717,153,24992,142106,284
+Ixtapan de la Sal,"10,554",Ixtapan de la Sal,Total del Municipio,4600,152,1,2171,9488,56
+Ixtapan del Oro,"1,242",Ixtapan del Oro,Total del Municipio,457,411,0,222,1589,43
+Ixtlahuaca,"25,464",Ixtlahuaca,Total del Municipio,20197,60545,355,7607,36722,348
+Xalatlaco,"5,980",Xalatlaco,Total del Municipio,2064,670,3,885,6759,29
+Jaltenco,"6,052",Jaltenco,Total del Municipio,4070,462,0,1450,7466,6
+Jilotepec,"25,974",Jilotepec,Total del Municipio,10937,1139,2,4974,22534,513
+Jilotzingo,"6,027",Jilotzingo,Total del Municipio,2404,418,1,984,4920,34
+Jiquipilco,"18,331",Jiquipilco,Total del Municipio,7065,14886,73,3519,18114,245
+Jocotitlán,"16,853",Jocotitlán,Total del Municipio,8249,6326,19,3100,17358,254
+Joquicingo,"3,022",Joquicingo,Total del Municipio,1875,198,1,777,3354,24
+Juchitepec,"4,670",Juchitepec,Total del Municipio,3130,148,0,1160,6427,36
+Lerma,"36,612",Lerma,Total del Municipio,15924,7055,41,5638,41644,134
+Malinalco,"8,433",Malinalco,Total del Municipio,2863,130,0,1481,7092,64
+Melchor Ocampo,"12,037",Melchor Ocampo,Total del Municipio,6646,2844,6,2509,14812,34
+Metepec,"50,264",Metepec,Total del Municipio,24059,2373,4,8439,67523,64
+Mexicaltzingo,"4,101",Mexicaltzingo,Total del Municipio,861,176,1,393,3239,4
+Morelos,"5,371",Morelos,Total del Municipio,3563,11174,99,1654,7682,279
+Naucalpan de Juárez,"190,650",Naucalpan de Juárez,Total del Municipio,87908,45329,139,34584,237792,185
+Nezahualcóyotl,"231,374",Nezahualcóyotl,Total del Municipio,140417,32303,108,59560,295616,182
+Nextlalpan,"12,706",Nextlalpan,Total del Municipio,7402,2225,7,2468,15488,31
+Nicolás Romero,"91,524",Nicolás Romero,Total del Municipio,53183,26471,89,19742,112255,164
+Nopaltepec,"2,707",Nopaltepec,Total del Municipio,1013,68,0,425,2841,8
+Ocoyoacac,"20,027",Ocoyoacac,Total del Municipio,8729,3424,10,2609,16996,57
+Ocuilan,"10,128",Ocuilan,Total del Municipio,4433,3927,21,1966,8376,74
+El Oro,"10,394",El Oro,Total del Municipio,2983,10338,30,1479,8935,107
+Otumba,"10,252",Otumba,Total del Municipio,3222,343,1,1436,9104,54
+Otzoloapan,"1,627",Otzoloapan,Total del Municipio,451,5,0,206,1248,2
+Otzolotepec,"17,396",Otzolotepec,Total del Municipio,7906,13009,80,2883,19742,80
+Ozumba,"7,591",Ozumba,Total del Municipio,2975,225,3,1163,6651,38
+Papalotla,"1,422",Papalotla,Total del Municipio,613,79,0,223,1208,1
+La Paz,"61,897",La Paz,Total del Municipio,38672,26891,110,16263,74542,208
+Polotitlán,"5,120",Polotitlán,Total del Municipio,1832,98,0,925,3943,31
+Rayón,"2,146",Rayón,Total del Municipio,1288,162,0,630,3694,14
+San Antonio la Isla,"5,960",San Antonio la Isla,Total del Municipio,3282,381,1,1119,8376,24
+San Felipe del Progreso,"28,402",San Felipe del Progreso,Total del Municipio,13741,85454,725,6452,31433,724
+San Martín de las Pirámides,"10,302",San Martín de las Pirámides,Total del Municipio,2652,735,1,1256,7442,21
+San Mateo Atenco,"16,843",San Mateo Atenco,Total del Municipio,8959,1131,3,3231,22627,63
+San Simón de Guerrero,"2,370",San Simón de Guerrero,Total del Municipio,791,36,0,381,1637,30
+Santo Tomás,"3,871",Santo Tomás,Total del Municipio,486,13,0,241,2577,11
+Soyaniquilpan de Juárez,"4,517",Soyaniquilpan de Juárez,Total del Municipio,1971,73,0,800,3919,70
+Sultepec,"5,629",Sultepec,Total del Municipio,2676,424,0,1288,5746,111
+Tecámac,"130,980",Tecámac,Total del Municipio,63569,13231,27,20988,162629,98
+Tejupilco,"21,013",Tejupilco,Total del Municipio,8474,202,0,4416,18775,156
+Temamatla,"3,751",Temamatla,Total del Municipio,1348,683,1,559,3604,53
+Temascalapa,"11,085",Temascalapa,Total del Municipio,4062,947,2,1860,11144,62
+Temascalcingo,"17,953",Temascalcingo,Total del Municipio,6996,19924,139,3436,16806,167
+Temascaltepec,"9,305",Temascaltepec,Total del Municipio,3199,3555,20,1703,8143,127
+Temoaya,"27,197",Temoaya,Total del Municipio,9322,53658,432,3346,22785,206
+Tenancingo,"25,514",Tenancingo,Total del Municipio,9294,460,1,4339,24838,142
+Tenango del Aire,"2,566",Tenango del Aire,Total del Municipio,895,180,0,458,2806,15
+Tenango del Valle,"14,690",Tenango del Valle,Total del Municipio,8976,1001,1,3578,19901,152
+Teoloyucan,"14,395",Teoloyucan,Total del Municipio,6192,725,1,2503,15743,32
+Teotihuacán,"15,593",Teotihuacán,Total del Municipio,5400,2236,3,1997,15496,35
+Tepetlaoxtoc,"9,925",Tepetlaoxtoc,Total del Municipio,4280,727,2,1529,8180,26
+Tepetlixpa,"4,909",Tepetlixpa,Total del Municipio,1938,181,2,805,4660,24
+Tepotzotlán,"24,282",Tepotzotlán,Total del Municipio,12277,2926,8,4346,26386,75
+Tequixquiac,"10,545",Tequixquiac,Total del Municipio,4893,522,1,1663,10522,47
+Texcaltitlán,"5,112",Texcaltitlán,Total del Municipio,1810,42,0,937,4399,75
+Texcalyacac,"1,189",Texcalyacac,Total del Municipio,431,156,0,162,1419,6
+Texcoco,"68,199",Texcoco,Total del Municipio,33177,14697,70,12077,70015,162
+Tezoyuca,"10,750",Tezoyuca,Total del Municipio,4698,3040,9,1936,11612,20
+Tianguistenco,"21,914",Tianguistenco,Total del Municipio,9100,2574,5,3200,19223,106
+Timilpan,"6,824",Timilpan,Total del Municipio,1873,2110,11,989,4427,45
+Tlalmanalco,"9,699",Tlalmanalco,Total del Municipio,5552,353,0,1951,12451,29
+Tlalnepantla de Baz,"141,223",Tlalnepantla de Baz,Total del Municipio,75657,20681,69,30733,197727,130
+Tlatlaya,"10,461",Tlatlaya,Total del Municipio,3495,71,1,1861,7924,93
+Toluca,"181,786",Toluca,Total del Municipio,92942,68785,444,32451,235792,762
+Tonatico,"4,563",Tonatico,Total del Municipio,1788,77,1,752,3514,7
+Tultepec,"36,515",Tultepec,Total del Municipio,17725,3977,5,6428,42092,40
+Tultitlán,"103,148",Tultitlán,Total del Municipio,62947,13553,37,22814,144015,76
+Valle de Bravo,"18,694",Valle de Bravo,Total del Municipio,5076,861,1,2111,15530,124
+Villa de Allende,"10,956",Villa de Allende,Total del Municipio,4515,7048,25,2102,11786,298
+Villa del Carbón,"15,082",Villa del Carbón,Total del Municipio,5756,3164,6,2960,12292,366
+Villa Guerrero,"22,744",Villa Guerrero,Total del Municipio,7178,132,0,3495,16567,143
+Villa Victoria,"27,325",Villa Victoria,Total del Municipio,8990,19197,106,4100,22819,520
+Xonacatlán,"12,971",Xonacatlán,Total del Municipio,6258,2473,6,2302,12824,47
+Zacazonapan,"1,842",Zacazonapan,Total del Municipio,290,12,0,184,1363,10
+Zacualpan,"3,076",Zacualpan,Total del Municipio,1556,3,0,652,3252,89
+Zinacantepec,"34,654",Zinacantepec,Total del Municipio,15823,2466,1,5860,47497,199
+Zumpahuacán,"3,759",Zumpahuacán,Total del Municipio,1863,93,0,863,4153,58
+Zumpango,"63,908",Zumpango,Total del Municipio,38268,8898,18,13358,77167,168
+Cuautitlán Izcalli,"119,117",Cuautitlán Izcalli,Total del Municipio,69449,11341,18,25006,159234,69
+Valle de Chalco Solidaridad,"69,325",Valle de Chalco Solidaridad,Total del Municipio,52883,29470,110,21314,100376,133
+Luvianos,"5,254",Luvianos,Total del Municipio,3653,66,0,2339,6785,129
+San José del Rincón,"17,506",San José del Rincón,Total del Municipio,6723,29134,177,3535,20706,372
+Tonanitla,"4,177",Tonanitla,Total del Municipio,1832,615,2,500,3890,7
+Acuitzio,"4,197",Acuitzio,Total del Municipio,1133,66,0,688,2625,37
+Aguililla,"4,472",Aguililla,Total del Municipio,1460,156,5,874,3925,94
+Álvaro Obregón,"7,531",Álvaro Obregón,Total del Municipio,2664,53,0,1448,5669,22
+Angamacutiro,"7,624",Angamacutiro,Total del Municipio,2511,28,0,1302,4092,20
+Angangueo,"3,339",Angangueo,Total del Municipio,1255,26,0,552,2462,17
+Apatzingán,"53,156",Apatzingán,Total del Municipio,13933,1980,240,6909,30569,199
+Aporo,"1,263",Aporo,Total del Municipio,500,5,0,178,841,2
+Aquila,"11,923",Aquila,Total del Municipio,2137,10892,25,1339,3668,584
+Ario,"13,189",Ario,Total del Municipio,4105,151,0,1880,8371,35
+Arteaga,"8,672",Arteaga,Total del Municipio,2475,36,0,1155,5066,125
+Briseñas,"4,493",Briseñas,Total del Municipio,1243,19,0,738,3084,5
+Buenavista,"19,436",Buenavista,Total del Municipio,4352,1888,145,2416,11341,71
+Carácuaro,"2,991",Carácuaro,Total del Municipio,760,15,0,366,2189,60
+Coahuayana,"7,303",Coahuayana,Total del Municipio,1434,370,19,805,4414,39
+Coalcomán de Vázquez Pallares,"6,761",Coalcomán de Vázquez Pallares,Total del Municipio,1917,181,0,1047,4803,169
+Coeneo,"10,360",Coeneo,Total del Municipio,2891,4472,29,1513,5554,34
+Contepec,"13,243",Contepec,Total del Municipio,4870,99,1,2525,8896,88
+Copándaro,"2,649",Copándaro,Total del Municipio,1027,17,0,484,2291,16
+Cotija,"9,360",Cotija,Total del Municipio,2319,95,1,1603,5751,30
+Cuitzeo,"8,231",Cuitzeo,Total del Municipio,3749,46,0,1737,7024,28
+Charapan,"2,157",Charapan,Total del Municipio,1503,7529,327,606,2971,45
+Charo,"10,662",Charo,Total del Municipio,3038,101,0,1255,5327,43
+Chavinda,"4,125",Chavinda,Total del Municipio,1473,128,0,819,2958,10
+Cherán,"3,471",Cherán,Total del Municipio,1334,8586,86,820,3835,48
+Chilchota,"10,561",Chilchota,Total del Municipio,2860,24569,897,1544,8263,84
+Chinicuila,"2,061",Chinicuila,Total del Municipio,449,190,0,287,1133,52
+Chucándiro,"2,325",Chucándiro,Total del Municipio,723,0,0,412,1419,6
+Churintzio,"2,609",Churintzio,Total del Municipio,889,16,0,589,1674,6
+Churumuco,"3,761",Churumuco,Total del Municipio,1654,8,0,948,2526,80
+Ecuandureo,"5,979",Ecuandureo,Total del Municipio,1935,12,0,915,3618,9
+Epitacio Huerta,"7,535",Epitacio Huerta,Total del Municipio,2778,77,0,1685,4457,59
+Erongarícuaro,"4,941",Erongarícuaro,Total del Municipio,1664,6360,21,686,3772,23
+Gabriel Zamora,"7,848",Gabriel Zamora,Total del Municipio,1735,61,0,1026,5795,35
+Hidalgo,"31,592",Hidalgo,Total del Municipio,14185,329,0,6975,29195,225
+La Huacana,"9,984",La Huacana,Total del Municipio,3708,116,0,2411,7301,83
+Huandacareo,"4,744",Huandacareo,Total del Municipio,2047,21,0,1026,3334,10
+Huaniqueo,"3,561",Huaniqueo,Total del Municipio,1666,9,0,723,2418,11
+Huetamo,"15,652",Huetamo,Total del Municipio,5837,122,1,2395,11160,178
+Huiramba,"3,219",Huiramba,Total del Municipio,865,55,0,422,2174,13
+Indaparapeo,"5,128",Indaparapeo,Total del Municipio,2626,23,0,1264,4258,39
+Irimbo,"5,211",Irimbo,Total del Municipio,1920,19,0,1059,3924,41
+Ixtlán,"6,775",Ixtlán,Total del Municipio,2329,19,0,1035,3863,16
+Jacona,"23,088",Jacona,Total del Municipio,6444,1525,8,3486,17585,52
+Jiménez,"5,809",Jiménez,Total del Municipio,2209,31,0,977,3860,23
+Jiquilpan,"14,230",Jiquilpan,Total del Municipio,4907,135,0,2586,10412,37
+Juárez,"4,625",Juárez,Total del Municipio,1663,14,0,793,3908,19
+Jungapeo,"9,193",Jungapeo,Total del Municipio,1363,48,0,789,4762,26
+Lagunillas,"1,493",Lagunillas,Total del Municipio,656,15,0,257,1454,7
+Madero,"4,917",Madero,Total del Municipio,1978,57,0,900,3983,200
+Maravatío,"27,035",Maravatío,Total del Municipio,10639,410,1,5075,21899,247
+Marcos Castellanos,"7,650",Marcos Castellanos,Total del Municipio,2032,45,0,969,4146,11
+Lázaro Cárdenas,"59,836",Lázaro Cárdenas,Total del Municipio,23298,3590,15,10504,53339,227
+Morelia,"281,363",Morelia,Total del Municipio,102660,11580,25,41447,238066,502
+Morelos,"3,857",Morelos,Total del Municipio,1273,17,0,571,2196,14
+Múgica,"16,527",Múgica,Total del Municipio,4947,326,6,3092,11065,74
+Nahuatzen,"5,881",Nahuatzen,Total del Municipio,2898,15029,1170,1475,5292,64
+Nocupétaro,"2,778",Nocupétaro,Total del Municipio,654,10,0,338,1936,79
+Nuevo Parangaricutiro,"6,898",Nuevo Parangaricutiro,Total del Municipio,1447,743,2,792,4475,13
+Nuevo Urecho,"4,300",Nuevo Urecho,Total del Municipio,1148,59,0,554,2418,25
+Numarán,"3,055",Numarán,Total del Municipio,683,7,0,516,2395,7
+Ocampo,"4,997",Ocampo,Total del Municipio,2211,121,0,1139,5605,61
+Pajacuarán,"6,153",Pajacuarán,Total del Municipio,2525,88,0,1511,5452,28
+Panindícuaro,"6,471",Panindícuaro,Total del Municipio,1888,20,0,1177,4062,17
+Parácuaro,"9,048",Parácuaro,Total del Municipio,2577,289,4,1437,6551,47
+Paracho,"10,309",Paracho,Total del Municipio,3912,16538,557,1914,8033,56
+Pátzcuaro,"29,591",Pátzcuaro,Total del Municipio,11201,10413,26,4909,22158,169
+Penjamillo,"7,713",Penjamillo,Total del Municipio,2298,16,0,1147,4772,19
+Peribán,"16,267",Peribán,Total del Municipio,2867,420,0,1187,7202,37
+La Piedad,"39,040",La Piedad,Total del Municipio,11286,563,3,6188,29331,68
+Purépero,"5,926",Purépero,Total del Municipio,2115,87,0,1067,4347,13
+Puruándiro,"23,401",Puruándiro,Total del Municipio,9611,208,0,5064,18187,45
+Queréndaro,"3,936",Queréndaro,Total del Municipio,2035,65,0,1439,3450,42
+Quiroga,"7,797",Quiroga,Total del Municipio,2303,9563,378,1537,6315,39
+Cojumatlán de Régules,"3,673",Cojumatlán de Régules,Total del Municipio,1144,12,0,792,2890,8
+Los Reyes,"28,683",Los Reyes,Total del Municipio,7485,18185,1216,3579,19608,134
+Sahuayo,"35,174",Sahuayo,Total del Municipio,8855,179,0,4984,21310,31
+San Lucas,"7,272",San Lucas,Total del Municipio,2022,73,0,1418,4796,61
+Santa Ana Maya,"4,686",Santa Ana Maya,Total del Municipio,1948,17,0,879,3273,20
+Salvador Escalante,"16,432",Salvador Escalante,Total del Municipio,4810,81,0,1996,10301,66
+Senguio,"8,196",Senguio,Total del Municipio,2459,54,0,1178,4794,54
+Susupuato,"3,032",Susupuato,Total del Municipio,1078,365,0,688,2162,58
+Tacámbaro,"37,663",Tacámbaro,Total del Municipio,5860,235,0,3074,19194,110
+Tancítaro,"26,606",Tancítaro,Total del Municipio,2699,701,21,1306,7605,71
+Tangamandapio,"9,101",Tangamandapio,Total del Municipio,2665,14926,198,1608,6058,44
+Tangancícuaro,"15,587",Tangancícuaro,Total del Municipio,4201,2517,10,2182,9010,53
+Tanhuato,"8,895",Tanhuato,Total del Municipio,1600,91,1,740,4131,5
+Taretan,"6,123",Taretan,Total del Municipio,2043,90,0,983,4100,15
+Tarímbaro,"40,842",Tarímbaro,Total del Municipio,14267,1111,0,5540,32648,68
+Tepalcatepec,"16,241",Tepalcatepec,Total del Municipio,3086,140,0,1788,6889,21
+Tingambato,"3,942",Tingambato,Total del Municipio,1357,1513,22,641,3185,19
+Tingüindín,"7,459",Tingüindín,Total del Municipio,2194,1295,30,872,3971,18
+Tiquicheo de Nicolás Romero,"5,602",Tiquicheo de Nicolás Romero,Total del Municipio,1529,18,0,747,3079,81
+Tlalpujahua,"10,289",Tlalpujahua,Total del Municipio,3104,86,0,1511,6897,66
+Tlazazalca,"3,357",Tlazazalca,Total del Municipio,814,16,0,537,2016,8
+Tocumbo,"5,898",Tocumbo,Total del Municipio,1666,82,0,907,3537,60
+Tumbiscatío,"2,640",Tumbiscatío,Total del Municipio,949,19,0,518,1499,52
+Turicato,"9,434",Turicato,Total del Municipio,3135,697,27,1648,6332,142
+Tuxpan,"10,326",Tuxpan,Total del Municipio,2372,68,0,1048,6604,80
+Tuzantla,"4,758",Tuzantla,Total del Municipio,1803,14,0,1091,3564,58
+Tzintzuntzan,"4,244",Tzintzuntzan,Total del Municipio,1895,3223,42,921,3471,24
+Tzitzio,"2,797",Tzitzio,Total del Municipio,1480,21,0,607,1876,148
+Uruapan,"113,545",Uruapan,Total del Municipio,41671,26978,1911,17321,88958,294
+Venustiano Carranza,"7,163",Venustiano Carranza,Total del Municipio,3189,52,0,1763,6404,19
+Villamar,"8,704",Villamar,Total del Municipio,2157,40,0,1032,4547,10
+Vista Hermosa,"8,721",Vista Hermosa,Total del Municipio,1712,44,0,1033,5323,13
+Yurécuaro,"14,804",Yurécuaro,Total del Municipio,2680,1081,50,1633,8170,35
+Zacapu,"20,192",Zacapu,Total del Municipio,10983,2426,1,4670,20280,91
+Zamora,"58,877",Zamora,Total del Municipio,23587,2965,14,10740,57338,156
+Zináparo,"1,868",Zináparo,Total del Municipio,413,6,0,221,995,4
+Zinapécuaro,"19,286",Zinapécuaro,Total del Municipio,6699,61,0,3229,12731,52
+Ziracuaretiro,"6,757",Ziracuaretiro,Total del Municipio,1408,213,0,640,4051,23
+Zitácuaro,"43,312",Zitácuaro,Total del Municipio,14932,9359,69,6617,36883,306
+José Sixto Verduzco,"10,878",José Sixto Verduzco,Total del Municipio,4472,32,0,2127,7047,26
+Amacuzac,"4,722",Amacuzac,Total del Municipio,2184,123,0,1047,4738,33
+Atlatlahucan,"9,997",Atlatlahucan,Total del Municipio,3576,1964,9,1599,6501,75
+Axochiapan,"9,102",Axochiapan,Total del Municipio,5355,1471,54,2782,9056,69
+Ayala,"25,723",Ayala,Total del Municipio,13527,6415,195,5945,23405,209
+Coatlán del Río,"3,436",Coatlán del Río,Total del Municipio,1145,22,0,530,2877,20
+Cuautla,"48,324",Cuautla,Total del Municipio,23037,12461,109,9918,50291,164
+Cuernavaca,"101,671",Cuernavaca,Total del Municipio,51870,10396,35,20298,113019,143
+Emiliano Zapata,"24,248",Emiliano Zapata,Total del Municipio,14269,2365,5,5571,30255,90
+Huitzilac,"10,549",Huitzilac,Total del Municipio,3377,1376,6,1325,6454,68
+Jantetelco,"4,627",Jantetelco,Total del Municipio,1861,435,2,987,4892,54
+Jiutepec,"45,874",Jiutepec,Total del Municipio,26594,4573,38,10821,60365,105
+Jojutla,"10,317",Jojutla,Total del Municipio,6499,1074,3,3302,16244,83
+Jonacatepec,"2,566",,,,,,,,
+Mazatepec,"3,244",Mazatepec,Total del Municipio,1190,52,0,463,2821,17
+Miacatlán,"5,367",Miacatlán,Total del Municipio,2379,132,1,1057,4425,27
+Ocuituco,"4,297",Ocuituco,Total del Municipio,2395,198,0,1039,4674,40
+Puente de Ixtla,"8,244",Puente de Ixtla,Total del Municipio,5741,296,10,2674,10785,70
+Temixco,"26,187",Temixco,Total del Municipio,17368,6556,164,7263,33516,144
+Tepalcingo,"7,276",Tepalcingo,Total del Municipio,4476,276,1,1854,7292,70
+Tepoztlán,"24,937",Tepoztlán,Total del Municipio,7646,6007,32,3117,14752,110
+Tetecala,"2,061",Tetecala,Total del Municipio,834,48,0,403,2322,9
+Tetela del Volcán,"2,126",Tetela del Volcán,Total del Municipio,1607,1092,1,634,3469,28
+Tlalnepantla,"2,117",Tlalnepantla,Total del Municipio,900,240,0,348,1979,6
+Tlaltizapán,"10,805",,,,,,,,
+Tlaquiltenango,"7,830",Tlaquiltenango,Total del Municipio,4266,614,2,2138,9507,58
+Tlayacapan,"8,475",Tlayacapan,Total del Municipio,2410,2394,41,1025,4765,44
+Totolapan,"3,277",Totolapan,Total del Municipio,2094,628,4,884,3361,40
+Xochitepec,"15,112",Xochitepec,Total del Municipio,8441,2413,13,3850,18502,91
+Yautepec,"28,235",Yautepec,Total del Municipio,13699,2621,51,5908,29186,124
+Yecapixtla,"11,499",Yecapixtla,Total del Municipio,6834,1658,10,2760,13780,98
+Zacatepec,"6,724",Zacatepec,Total del Municipio,4908,369,2,2233,10223,30
+Zacualpan,"2,369",Zacualpan,Total del Municipio,1202,302,1,636,1796,199
+Temoac,"2,456",Temoac,Total del Municipio,1272,270,0,605,3958,11
+Coatetelco,"1,561",Coatetelco,Total del Municipio,1502,144,0,702,2331,26
+Xoxocotla,"3,989",Xoxocotla,Total del Municipio,2579,6450,16,955,4573,55
+Hueyapan,904,Hueyapan,Total del Municipio,826,5519,7,326,1631,16
+Acaponeta,"13,363",Acaponeta,Total del Municipio,5195,1570,4,2214,10403,142
+Ahuacatlán,"9,595",Ahuacatlán,Total del Municipio,2146,61,0,1097,4749,25
+Amatlán de Cañas,"6,325",Amatlán de Cañas,Total del Municipio,2051,76,0,1149,3589,18
+Compostela,"32,791",Compostela,Total del Municipio,9266,1674,27,4241,22734,225
+Huajicori,"2,092",Huajicori,Total del Municipio,1499,3340,32,510,2150,576
+Ixtlán del Río,"12,878",Ixtlán del Río,Total del Municipio,2714,490,1,1398,8451,35
+Jala,"4,007",Jala,Total del Municipio,2794,244,0,1044,4751,71
+Xalisco,"28,403",Xalisco,Total del Municipio,6634,1187,18,2560,18462,63
+Del Nayar,"4,644",Del Nayar,Total del Municipio,3610,42587,9055,1913,4864,2765
+Rosamorada,"14,102",Rosamorada,Total del Municipio,5195,2889,7,2460,9848,156
+Ruíz,"9,267",Ruíz,Total del Municipio,2770,3553,155,1269,6588,223
+San Blas,"21,512",San Blas,Total del Municipio,5828,1252,12,2512,12573,127
+San Pedro Lagunillas,"3,410",San Pedro Lagunillas,Total del Municipio,1289,32,0,561,2423,8
+Santa María del Oro,"12,983",Santa María del Oro,Total del Municipio,3683,2165,18,1546,6921,113
+Santiago Ixcuintla,"65,448",Santiago Ixcuintla,Total del Municipio,13350,1626,53,6656,28449,158
+Tecuala,"20,225",Tecuala,Total del Municipio,5764,221,0,2936,11450,76
+Tepic,"160,051",Tepic,Total del Municipio,58019,16347,126,22858,124233,599
+Tuxpan,"14,347",Tuxpan,Total del Municipio,4328,324,3,2432,9262,39
+La Yesca,"3,667",La Yesca,Total del Municipio,1460,6170,372,689,2500,419
+Bahía de Banderas,"73,232",Bahía de Banderas,Total del Municipio,19146,4045,22,8171,53966,309
+Abasolo,"1,274",Abasolo,Total del Municipio,269,23,0,140,792,3
+Agualeguas,"2,168",Agualeguas,Total del Municipio,491,5,0,244,1269,11
+Los Aldamas,"1,025",Los Aldamas,Total del Municipio,237,0,0,127,540,2
+Allende,"9,853",Allende,Total del Municipio,2945,346,1,1160,10624,7
+Anáhuac,"7,888",Anáhuac,Total del Municipio,2246,34,0,1239,5384,96
+Apodaca,"179,117",Apodaca,Total del Municipio,56848,8925,9,18736,180890,51
+Aramberri,"5,127",Aramberri,Total del Municipio,2289,4,0,981,3793,115
+Bustamante,"1,500",Bustamante,Total del Municipio,485,9,0,204,1137,12
+Cadereyta Jiménez,"45,874",Cadereyta Jiménez,Total del Municipio,10173,3303,2,4177,37099,68
+Carmen,"27,245",,,,,,,,
+Cerralvo,"4,370",Cerralvo,Total del Municipio,1104,26,0,453,2442,37
+Ciénega de Flores,"21,098",Ciénega de Flores,Total del Municipio,6062,4674,4,1841,20340,30
+China,"5,772",China,Total del Municipio,916,15,0,474,3237,118
+Dr. Arroyo,"13,124",,,,,,,,
+Dr. Coss,965,,,,,,,,
+Dr. González,"1,723",,,,,,,,
+Galeana,"16,741",Galeana,Total del Municipio,5418,72,0,2605,10671,135
+García,"125,361",García,Total del Municipio,33450,28537,52,11686,113867,154
+San Pedro Garza García,"52,065",San Pedro Garza García,Total del Municipio,9726,2170,11,4117,36210,21
+Gral. Bravo,"3,505",,,,,,,,
+Gral. Escobedo,"134,588",,,,,,,,
+Gral. Terán,"8,637",,,,,,,,
+Gral. Treviño,"1,093",,,,,,,,
+Gral. Zaragoza,"1,733",,,,,,,,
+Gral. Zuazua,"27,646",,,,,,,,
+Guadalupe,"207,696",Guadalupe,Total del Municipio,69221,7051,13,29618,181378,128
+Los Herreras,"1,435",Los Herreras,Total del Municipio,314,3,0,139,725,8
+Higueras,671,Higueras,Total del Municipio,192,43,1,89,417,12
+Hualahuises,"3,087",Hualahuises,Total del Municipio,975,10,0,381,2147,9
+Iturbide,"1,620",Iturbide,Total del Municipio,500,10,0,206,883,27
+Juárez,"147,621",Juárez,Total del Municipio,38203,19160,65,13641,133048,133
+Lampazos de Naranjo,"3,082",Lampazos de Naranjo,Total del Municipio,487,4,0,232,1658,15
+Linares,"30,588",Linares,Total del Municipio,8194,146,1,4156,24035,158
+Marín,"2,512",Marín,Total del Municipio,532,366,0,249,1431,0
+Melchor Ocampo,890,Melchor Ocampo,Total del Municipio,139,3,0,56,459,2
+Mier y Noriega,"2,388",Mier y Noriega,Total del Municipio,989,13,0,472,1830,40
+Mina,"2,513",Mina,Total del Municipio,622,39,0,310,1658,22
+Montemorelos,"24,636",Montemorelos,Total del Municipio,6416,381,0,2492,20528,97
+Monterrey,"378,781",Monterrey,Total del Municipio,114912,20231,53,51002,323338,240
+Parás,629,Parás,Total del Municipio,119,5,0,58,330,3
+Pesquería,"44,002",Pesquería,Total del Municipio,10976,13511,23,3877,43430,86
+Los Ramones,"3,430",Los Ramones,Total del Municipio,844,41,0,437,1834,10
+Rayones,"1,313",Rayones,Total del Municipio,274,5,0,189,730,14
+Sabinas Hidalgo,"12,409",Sabinas Hidalgo,Total del Municipio,4591,115,0,1710,10719,27
+Salinas Victoria,"26,119",Salinas Victoria,Total del Municipio,7719,5769,7,2758,25053,49
+San Nicolás de los Garza,"114,252",San Nicolás de los Garza,Total del Municipio,41569,3371,7,17800,121014,44
+Hidalgo,"4,177",Hidalgo,Total del Municipio,1486,51,0,744,4554,16
+Santa Catarina,"85,018",Santa Catarina,Total del Municipio,31479,8232,17,11374,81352,82
+Santiago,"17,990",Santiago,Total del Municipio,4664,1503,4,1766,13990,45
+Vallecillo,"1,053",Vallecillo,Total del Municipio,332,25,0,174,560,3
+Villaldama,"2,028",Villaldama,Total del Municipio,455,4,0,279,1255,5
+Abejones,52,Abejones,Total del Municipio,82,815,49,43,182,4
+Acatlán de Pérez Figueroa,"11,000",Acatlán de Pérez Figueroa,Total del Municipio,6700,8548,199,3467,11881,208
+Asunción Cacalotepec,191,Asunción Cacalotepec,Total del Municipio,490,2504,497,121,589,30
+Asunción Cuyotepeji,275,Asunción Cuyotepeji,Total del Municipio,123,3,0,114,318,4
+Asunción Ixtaltepec,"6,819",Asunción Ixtaltepec,Total del Municipio,2430,10406,101,1178,4786,76
+Asunción Nochixtlán,"2,760",Asunción Nochixtlán,Total del Municipio,3521,4961,53,1247,4635,195
+Asunción Ocotlán,380,Asunción Ocotlán,Total del Municipio,342,2362,265,235,350,18
+Asunción Tlacolulita,176,Asunción Tlacolulita,Total del Municipio,187,119,1,87,238,5
+Ayotzintepec,280,Ayotzintepec,Total del Municipio,717,5672,218,407,1778,32
+El Barrio de la Soledad,"6,029",El Barrio de la Soledad,Total del Municipio,2081,1550,2,872,4256,32
+Calihualá,209,Calihualá,Total del Municipio,224,682,65,140,299,6
+Candelaria Loxicha,"1,496",Candelaria Loxicha,Total del Municipio,1045,8863,439,628,1831,215
+Ciénega de Zimatlán,702,Ciénega de Zimatlán,Total del Municipio,449,59,0,267,796,8
+Ciudad Ixtepec,"9,404",Ciudad Ixtepec,Total del Municipio,4838,11435,55,2627,8161,89
+Coatecas Altas,249,Coatecas Altas,Total del Municipio,537,3425,162,526,931,20
+Coicoyán de las Flores,59,Coicoyán de las Flores,Total del Municipio,357,9544,3262,185,1014,128
+La Compañía,481,La Compañía,Total del Municipio,635,57,0,426,884,22
+Concepción Buenavista,147,Concepción Buenavista,Total del Municipio,123,30,0,123,220,9
+Concepción Pápalo,106,Concepción Pápalo,Total del Municipio,539,1881,13,323,695,4
+Constancia del Rosario,796,Constancia del Rosario,Total del Municipio,366,3257,635,332,859,32
+Cosolapa,"3,432",Cosolapa,Total del Municipio,1963,1204,13,906,3778,56
+Cosoltepec,105,Cosoltepec,Total del Municipio,197,261,0,94,281,8
+Cuilápam de Guerrero,"8,682",Cuilápam de Guerrero,Total del Municipio,3085,4922,29,1318,6132,344
+Cuyamecalco Villa de Zaragoza,169,Cuyamecalco Villa de Zaragoza,Total del Municipio,656,1505,18,330,908,25
+Chahuites,"3,425",Chahuites,Total del Municipio,1747,1284,6,1053,3083,24
+Chalcatongo de Hidalgo,"1,166",Chalcatongo de Hidalgo,Total del Municipio,1408,5951,71,676,2116,45
+Chiquihuitlán de Benito Juárez,195,Chiquihuitlán de Benito Juárez,Total del Municipio,517,1738,68,213,664,20
+Heroica Ciudad de Ejutla de Crespo,"6,887",Heroica Ciudad de Ejutla de Crespo,Total del Municipio,3633,1039,4,1989,4637,103
+Eloxochitlán de Flores Magón,304,Eloxochitlán de Flores Magón,Total del Municipio,886,4118,643,351,947,41
+El Espinal,"2,926",El Espinal,Total del Municipio,1088,5935,24,424,2512,34
+Tamazulápam del Espíritu Santo,400,Tamazulápam del Espíritu Santo,Total del Municipio,1584,6945,1215,597,1644,47
+Fresnillo de Trujano,224,Fresnillo de Trujano,Total del Municipio,159,2,0,100,307,4
+Guadalupe Etla,"1,372",Guadalupe Etla,Total del Municipio,395,362,2,182,743,7
+Guadalupe de Ramírez,355,Guadalupe de Ramírez,Total del Municipio,231,49,0,254,377,1
+Guelatao de Juárez,166,Guelatao de Juárez,Total del Municipio,96,210,0,15,160,0
+Guevea de Humboldt,914,Guevea de Humboldt,Total del Municipio,836,4127,51,335,1348,41
+Mesones Hidalgo,534,Mesones Hidalgo,Total del Municipio,789,2153,84,357,987,49
+Villa Hidalgo,327,Villa Hidalgo,Total del Municipio,300,1826,80,112,445,11
+Heroica Ciudad de Huajuapan de León,"24,656",Heroica Ciudad de Huajuapan de León,Total del Municipio,10015,10439,114,4581,19163,181
+Huautepec,141,Huautepec,Total del Municipio,883,6356,1464,554,1393,96
+Huautla de Jiménez,"3,204",Huautla de Jiménez,Total del Municipio,5663,30898,5276,2236,6353,286
+Ixtlán de Juárez,"1,034",Ixtlán de Juárez,Total del Municipio,835,5767,121,566,1897,15
+Heroica Ciudad de Juchitán de Zaragoza,"35,101",,,,,,,,
+Loma Bonita,"5,957",Loma Bonita,Total del Municipio,7618,3201,35,3948,11937,143
+Magdalena Apasco,"2,378",Magdalena Apasco,Total del Municipio,812,525,1,334,2116,8
+Magdalena Jaltepec,393,Magdalena Jaltepec,Total del Municipio,571,445,1,298,852,14
+Santa Magdalena Jicotlán,20,Santa Magdalena Jicotlán,Total del Municipio,30,1,0,6,29,0
+Magdalena Mixtepec,62,Magdalena Mixtepec,Total del Municipio,71,187,0,43,180,9
+Magdalena Ocotlán,247,Magdalena Ocotlán,Total del Municipio,134,278,2,65,218,4
+Magdalena Peñasco,287,Magdalena Peñasco,Total del Municipio,596,3641,358,214,827,27
+Magdalena Teitipac,271,Magdalena Teitipac,Total del Municipio,499,4691,183,145,784,9
+Magdalena Tequisistlán,"1,520",Magdalena Tequisistlán,Total del Municipio,778,483,3,435,1678,79
+Magdalena Tlacotepec,450,Magdalena Tlacotepec,Total del Municipio,194,448,3,88,407,1
+Magdalena Zahuatlán,43,Magdalena Zahuatlán,Total del Municipio,79,10,0,65,112,3
+Mariscala de Juárez,996,Mariscala de Juárez,Total del Municipio,575,37,0,440,1050,6
+Mártires de Tacubaya,459,Mártires de Tacubaya,Total del Municipio,155,78,0,147,366,6
+Matías Romero Avendaño,"8,962",Matías Romero Avendaño,Total del Municipio,6557,9545,128,3243,10845,148
+Mazatlán Villa de Flores,369,Mazatlán Villa de Flores,Total del Municipio,1857,12402,1030,1152,2121,121
+Miahuatlán de Porfirio Díaz,"13,076",Miahuatlán de Porfirio Díaz,Total del Municipio,5773,9594,138,3116,10732,190
+Mixistlán de la Reforma,218,Mixistlán de la Reforma,Total del Municipio,331,2487,277,168,511,37
+Monjas,661,Monjas,Total del Municipio,281,163,0,276,641,17
+Natividad,160,Natividad,Total del Municipio,89,246,0,38,141,1
+Nazareno Etla,"1,249",Nazareno Etla,Total del Municipio,509,99,0,307,1102,11
+Nejapa de Madero,"2,375",Nejapa de Madero,Total del Municipio,1212,2740,12,559,1998,70
+Ixpantepec Nieves,142,Ixpantepec Nieves,Total del Municipio,267,1022,89,156,309,7
+Santiago Niltepec,"1,378",Santiago Niltepec,Total del Municipio,851,142,1,508,1662,43
+Oaxaca de Juárez,"101,037",Oaxaca de Juárez,Total del Municipio,34664,50012,284,13826,70110,384
+Ocotlán de Morelos,"8,928",Ocotlán de Morelos,Total del Municipio,3201,1943,6,1459,4917,68
+La Pe,312,La Pe,Total del Municipio,267,29,0,207,649,8
+Pinotepa de Don Luis,581,Pinotepa de Don Luis,Total del Municipio,637,6092,732,559,1397,40
+Pluma Hidalgo,696,Pluma Hidalgo,Total del Municipio,389,293,2,189,677,48
+San José del Progreso,"1,348",San José del Progreso,Total del Municipio,957,1223,5,522,1783,26
+Putla Villa de Guerrero,"5,278",Putla Villa de Guerrero,Total del Municipio,5465,13835,952,3022,8008,179
+Santa Catarina Quioquitani,10,Santa Catarina Quioquitani,Total del Municipio,126,453,5,24,123,1
+Reforma de Pineda,523,Reforma de Pineda,Total del Municipio,576,166,0,311,949,9
+La Reforma,854,La Reforma,Total del Municipio,787,103,0,321,768,27
+Reyes Etla,"1,847",Reyes Etla,Total del Municipio,777,358,2,213,1005,13
+Rojas de Cuauhtémoc,709,Rojas de Cuauhtémoc,Total del Municipio,191,46,0,132,360,2
+Salina Cruz,"34,001",Salina Cruz,Total del Municipio,9978,9656,36,4854,24766,220
+San Agustín Amatengo,378,San Agustín Amatengo,Total del Municipio,324,27,0,215,422,11
+San Agustín Atenango,490,San Agustín Atenango,Total del Municipio,341,1586,40,289,547,17
+San Agustín Chayuco,833,San Agustín Chayuco,Total del Municipio,855,2802,185,455,1017,48
+San Agustín de las Juntas,"4,540",San Agustín de las Juntas,Total del Municipio,1055,2395,19,393,2680,14
+San Agustín Etla,"1,318",San Agustín Etla,Total del Municipio,481,201,1,269,1149,6
+San Agustín Loxicha,985,San Agustín Loxicha,Total del Municipio,2072,25566,3328,1110,2661,421
+San Agustín Tlacotepec,127,San Agustín Tlacotepec,Total del Municipio,246,858,22,155,278,14
+San Agustín Yatareni,896,San Agustín Yatareni,Total del Municipio,633,1502,8,218,1281,5
+San Andrés Cabecera Nueva,285,San Andrés Cabecera Nueva,Total del Municipio,409,197,0,357,689,40
+San Andrés Dinicuiti,273,San Andrés Dinicuiti,Total del Municipio,157,90,0,245,589,2
+San Andrés Huaxpaltepec,"1,137",San Andrés Huaxpaltepec,Total del Municipio,840,3030,78,479,1581,39
+San Andrés Huayápam,"2,178",San Andrés Huayápam,Total del Municipio,722,1265,5,263,1732,5
+San Andrés Ixtlahuaca,658,San Andrés Ixtlahuaca,Total del Municipio,272,524,12,154,446,13
+San Andrés Lagunas,61,San Andrés Lagunas,Total del Municipio,78,5,0,62,168,3
+San Andrés Nuxiño,66,San Andrés Nuxiño,Total del Municipio,365,932,3,235,553,11
+San Andrés Paxtlán,235,San Andrés Paxtlán,Total del Municipio,317,4063,19,149,725,24
+San Andrés Sinaxtla,192,San Andrés Sinaxtla,Total del Municipio,148,54,0,65,210,2
+San Andrés Solaga,279,San Andrés Solaga,Total del Municipio,218,1708,87,61,393,3
+San Andrés Teotilálpam,363,San Andrés Teotilálpam,Total del Municipio,840,3172,57,613,940,43
+San Andrés Tepetlapa,12,San Andrés Tepetlapa,Total del Municipio,48,1,0,67,98,0
+San Andrés Yaá,51,San Andrés Yaá,Total del Municipio,122,393,83,22,125,3
+San Andrés Zabache,101,San Andrés Zabache,Total del Municipio,112,246,2,95,145,4
+San Andrés Zautla,"1,964",San Andrés Zautla,Total del Municipio,995,776,6,377,1283,46
+San Antonino Castillo Velasco,"1,580",San Antonino Castillo Velasco,Total del Municipio,721,1918,3,386,1139,3
+San Antonino el Alto,231,San Antonino el Alto,Total del Municipio,365,1832,5,160,567,26
+San Antonino Monte Verde,441,San Antonino Monte Verde,Total del Municipio,856,7588,496,417,1679,25
+San Antonio Acutla,61,San Antonio Acutla,Total del Municipio,73,32,1,18,81,0
+San Antonio de la Cal,"7,946",San Antonio de la Cal,Total del Municipio,2934,5508,26,1028,5617,25
+San Antonio Huitepec,214,San Antonio Huitepec,Total del Municipio,556,1897,46,295,652,32
+San Antonio Nanahuatípam,381,San Antonio Nanahuatípam,Total del Municipio,257,205,0,91,305,10
+San Antonio Sinicahua,61,San Antonio Sinicahua,Total del Municipio,345,1606,199,186,353,23
+San Antonio Tepetlapa,276,San Antonio Tepetlapa,Total del Municipio,339,4519,366,276,900,30
+San Baltazar Chichicápam,205,San Baltazar Chichicápam,Total del Municipio,332,2538,199,236,764,16
+San Baltazar Loxicha,398,San Baltazar Loxicha,Total del Municipio,354,1111,7,249,764,9
+San Baltazar Yatzachi el Bajo,110,San Baltazar Yatzachi el Bajo,Total del Municipio,155,656,28,63,214,1
+San Bartolo Coyotepec,"3,696",San Bartolo Coyotepec,Total del Municipio,1310,965,4,502,2651,26
+San Bartolomé Ayautla,108,San Bartolomé Ayautla,Total del Municipio,785,4102,704,346,915,29
+San Bartolomé Loxicha,327,San Bartolomé Loxicha,Total del Municipio,379,1986,130,81,557,42
+San Bartolomé Quialana,515,San Bartolomé Quialana,Total del Municipio,348,2356,166,202,566,12
+San Bartolomé Yucuañe,72,San Bartolomé Yucuañe,Total del Municipio,188,696,25,95,162,3
+San Bartolomé Zoogocho,44,San Bartolomé Zoogocho,Total del Municipio,72,288,6,15,96,1
+San Bartolo Soyaltepec,203,San Bartolo Soyaltepec,Total del Municipio,134,318,0,82,195,4
+San Bartolo Yautepec,59,San Bartolo Yautepec,Total del Municipio,128,310,0,55,148,3
+San Bernardo Mixtepec,459,San Bernardo Mixtepec,Total del Municipio,368,199,1,314,651,17
+San Blas Atempa,"4,519",San Blas Atempa,Total del Municipio,1681,19252,1348,890,2996,202
+San Carlos Yautepec,783,San Carlos Yautepec,Total del Municipio,1539,7260,139,734,2135,202
+San Cristóbal Amatlán,328,San Cristóbal Amatlán,Total del Municipio,602,5037,616,302,1026,49
+San Cristóbal Amoltepec,52,San Cristóbal Amoltepec,Total del Municipio,278,1176,36,77,310,34
+San Cristóbal Lachirioag,316,San Cristóbal Lachirioag,Total del Municipio,167,1259,73,93,451,1
+San Cristóbal Suchixtlahuaca,82,San Cristóbal Suchixtlahuaca,Total del Municipio,79,25,0,20,110,0
+San Dionisio del Mar,812,San Dionisio del Mar,Total del Municipio,666,3745,8,447,1482,79
+San Dionisio Ocotepec,624,San Dionisio Ocotepec,Total del Municipio,1288,11263,758,782,2086,76
+San Dionisio Ocotlán,375,San Dionisio Ocotlán,Total del Municipio,151,139,0,120,336,8
+San Esteban Atatlahuca,192,San Esteban Atatlahuca,Total del Municipio,576,3795,61,239,843,103
+San Felipe Jalapa de Díaz,788,San Felipe Jalapa de Díaz,Total del Municipio,2667,27820,3112,1818,5503,105
+San Felipe Tejalápam,"1,609",San Felipe Tejalápam,Total del Municipio,1249,361,0,541,1768,23
+San Felipe Usila,"1,223",San Felipe Usila,Total del Municipio,1988,11976,1559,970,2410,48
+San Francisco Cahuacuá,180,San Francisco Cahuacuá,Total del Municipio,464,92,0,232,664,67
+San Francisco Cajonos,72,San Francisco Cajonos,Total del Municipio,81,426,20,33,145,0
+San Francisco Chapulapa,57,San Francisco Chapulapa,Total del Municipio,304,418,1,157,470,13
+San Francisco Chindúa,101,San Francisco Chindúa,Total del Municipio,123,9,0,70,205,2
+San Francisco del Mar,"2,276",San Francisco del Mar,Total del Municipio,1367,2544,6,657,2230,305
+San Francisco Huehuetlán,14,San Francisco Huehuetlán,Total del Municipio,225,834,151,106,250,2
+San Francisco Ixhuatán,"2,174",San Francisco Ixhuatán,Total del Municipio,1700,1739,2,727,2827,46
+San Francisco Jaltepetongo,91,San Francisco Jaltepetongo,Total del Municipio,199,228,1,134,326,15
+San Francisco Lachigoló,"1,317",San Francisco Lachigoló,Total del Municipio,614,1680,2,268,1396,35
+San Francisco Logueche,173,San Francisco Logueche,Total del Municipio,257,2773,212,73,521,5
+San Francisco Nuxaño,45,San Francisco Nuxaño,Total del Municipio,68,0,0,43,112,2
+San Francisco Ozolotepec,168,San Francisco Ozolotepec,Total del Municipio,224,2099,174,159,439,30
+San Francisco Sola,472,San Francisco Sola,Total del Municipio,255,61,0,110,359,15
+San Francisco Telixtlahuaca,"2,135",San Francisco Telixtlahuaca,Total del Municipio,1534,629,0,664,3031,55
+San Francisco Teopan,0,San Francisco Teopan,Total del Municipio,49,0,0,43,89,2
+San Francisco Tlapancingo,153,San Francisco Tlapancingo,Total del Municipio,311,1820,246,204,448,18
+San Gabriel Mixtepec,912,San Gabriel Mixtepec,Total del Municipio,527,235,1,264,1168,22
+San Ildefonso Amatlán,256,San Ildefonso Amatlán,Total del Municipio,296,1184,37,183,603,16
+San Ildefonso Sola,127,San Ildefonso Sola,Total del Municipio,145,37,0,56,208,18
+San Ildefonso Villa Alta,919,San Ildefonso Villa Alta,Total del Municipio,568,2962,158,191,988,7
+San Jacinto Amilpas,"7,758",San Jacinto Amilpas,Total del Municipio,1973,2562,13,784,4564,9
+San Jacinto Tlacotepec,435,San Jacinto Tlacotepec,Total del Municipio,400,176,0,212,483,14
+San Jerónimo Coatlán,440,San Jerónimo Coatlán,Total del Municipio,587,316,2,365,962,83
+San Jerónimo Silacayoapilla,401,San Jerónimo Silacayoapilla,Total del Municipio,204,8,0,132,442,6
+San Jerónimo Sosola,425,San Jerónimo Sosola,Total del Municipio,454,94,0,254,748,28
+San Jerónimo Taviche,157,San Jerónimo Taviche,Total del Municipio,184,619,2,134,398,17
+San Jerónimo Tecóatl,145,San Jerónimo Tecóatl,Total del Municipio,311,1471,155,132,385,6
+San Jorge Nuchita,308,San Jorge Nuchita,Total del Municipio,471,2366,99,252,726,11
+San José Ayuquila,230,San José Ayuquila,Total del Municipio,352,30,0,199,438,8
+San José Chiltepec,"4,393",San José Chiltepec,Total del Municipio,2030,6243,148,904,2852,51
+San José del Peñasco,500,San José del Peñasco,Total del Municipio,198,127,0,97,405,17
+San José Estancia Grande,340,San José Estancia Grande,Total del Municipio,93,68,1,75,250,20
+San José Independencia,362,San José Independencia,Total del Municipio,611,4079,684,447,551,70
+San José Lachiguiri,126,San José Lachiguiri,Total del Municipio,419,3664,585,457,625,43
+San José Tenango,519,San José Tenango,Total del Municipio,3397,17818,4334,1628,2254,570
+San Juan Achiutla,54,San Juan Achiutla,Total del Municipio,88,40,0,41,135,2
+San Juan Atepec,144,San Juan Atepec,Total del Municipio,169,1394,28,184,369,2
+Ánimas Trujano,"1,256",Ánimas Trujano,Total del Municipio,667,529,1,281,1151,9
+San Juan Bautista Atatlahuca,113,San Juan Bautista Atatlahuca,Total del Municipio,263,892,19,154,359,9
+San Juan Bautista Coixtlahuaca,389,San Juan Bautista Coixtlahuaca,Total del Municipio,501,326,3,281,737,48
+San Juan Bautista Cuicatlán,"2,092",San Juan Bautista Cuicatlán,Total del Municipio,2038,2943,20,922,2596,31
+San Juan Bautista Guelache,"2,619",San Juan Bautista Guelache,Total del Municipio,658,919,0,307,1687,9
+San Juan Bautista Jayacatlán,159,San Juan Bautista Jayacatlán,Total del Municipio,267,37,0,144,343,7
+San Juan Bautista Lo de Soto,990,San Juan Bautista Lo de Soto,Total del Municipio,336,110,0,220,694,12
+San Juan Bautista Suchitepec,71,San Juan Bautista Suchitepec,Total del Municipio,84,16,0,61,146,4
+San Juan Bautista Tlacoatzintepec,134,San Juan Bautista Tlacoatzintepec,Total del Municipio,483,2140,394,189,463,10
+San Juan Bautista Tlachichilco,220,San Juan Bautista Tlachichilco,Total del Municipio,245,270,0,176,353,2
+San Juan Bautista Tuxtepec,"44,990",San Juan Bautista Tuxtepec,Total del Municipio,25542,46091,519,11552,44481,454
+San Juan Cacahuatepec,"1,678",San Juan Cacahuatepec,Total del Municipio,1195,729,3,604,2110,38
+San Juan Cieneguilla,82,San Juan Cieneguilla,Total del Municipio,103,0,0,65,158,1
+San Juan Coatzóspam,114,San Juan Coatzóspam,Total del Municipio,298,1749,198,131,487,19
+San Juan Colorado,"1,242",San Juan Colorado,Total del Municipio,1191,7649,1147,1083,1941,153
+San Juan Comaltepec,84,San Juan Comaltepec,Total del Municipio,354,3093,257,217,539,70
+San Juan Cotzocón,"5,456",San Juan Cotzocón,Total del Municipio,3509,14889,1030,1390,5431,153
+San Juan Chicomezúchil,50,San Juan Chicomezúchil,Total del Municipio,44,64,0,23,74,0
+San Juan Chilateca,548,San Juan Chilateca,Total del Municipio,154,33,0,66,418,0
+San Juan del Estado,607,San Juan del Estado,Total del Municipio,416,57,0,246,614,6
+San Juan del Río,295,San Juan del Río,Total del Municipio,221,1352,34,91,435,2
+San Juan Diuxi,54,San Juan Diuxi,Total del Municipio,277,1049,49,159,326,7
+San Juan Evangelista Analco,38,San Juan Evangelista Analco,Total del Municipio,72,273,0,59,117,0
+San Juan Guelavía,551,San Juan Guelavía,Total del Municipio,484,3002,32,275,898,12
+San Juan Guichicovi,"6,361",San Juan Guichicovi,Total del Municipio,4350,25775,3197,2514,8407,252
+San Juan Ihualtepec,28,San Juan Ihualtepec,Total del Municipio,100,74,0,77,131,2
+San Juan Juquila Mixes,548,San Juan Juquila Mixes,Total del Municipio,605,3567,710,186,819,15
+San Juan Juquila Vijanos,198,San Juan Juquila Vijanos,Total del Municipio,122,1875,127,94,400,8
+San Juan Lachao,"1,119",San Juan Lachao,Total del Municipio,610,2998,126,220,977,21
+San Juan Lachigalla,275,San Juan Lachigalla,Total del Municipio,404,61,0,244,663,17
+San Juan Lajarcia,106,San Juan Lajarcia,Total del Municipio,91,12,0,59,188,3
+San Juan Lalana,"1,773",San Juan Lalana,Total del Municipio,2857,15140,1242,2079,3705,186
+San Juan de los Cués,493,San Juan de los Cués,Total del Municipio,474,1302,18,245,642,17
+San Juan Mazatlán,"3,466",San Juan Mazatlán,Total del Municipio,2520,13906,1125,1359,4163,187
+San Juan Mixtepec - Dto. 08,846,,,,,,,,
+San Juan Mixtepec - Dto. 26,22,,,,,,,,
+San Juan Ñumí,309,San Juan Ñumí,Total del Municipio,1021,5752,443,485,1337,46
+San Juan Ozolotepec,131,San Juan Ozolotepec,Total del Municipio,258,2698,169,165,604,43
+San Juan Petlapa,206,San Juan Petlapa,Total del Municipio,408,3104,680,154,600,14
+San Juan Quiahije,739,San Juan Quiahije,Total del Municipio,555,4165,787,164,796,22
+San Juan Quiotepec,265,San Juan Quiotepec,Total del Municipio,292,2009,117,163,494,7
+San Juan Sayultepec,317,San Juan Sayultepec,Total del Municipio,138,57,0,120,215,5
+San Juan Tabaá,95,San Juan Tabaá,Total del Municipio,131,1232,54,57,241,0
+San Juan Tamazola,157,San Juan Tamazola,Total del Municipio,738,2109,34,338,642,100
+San Juan Teita,16,San Juan Teita,Total del Municipio,72,501,15,77,157,4
+San Juan Teitipac,304,San Juan Teitipac,Total del Municipio,500,653,1,144,615,7
+San Juan Tepeuxila,113,San Juan Tepeuxila,Total del Municipio,487,2241,31,187,699,14
+San Juan Teposcolula,364,San Juan Teposcolula,Total del Municipio,294,59,0,97,391,16
+San Juan Yaeé,72,San Juan Yaeé,Total del Municipio,181,1421,154,66,402,7
+San Juan Yatzona,22,San Juan Yatzona,Total del Municipio,42,440,16,28,130,0
+San Juan Yucuita,166,San Juan Yucuita,Total del Municipio,133,20,0,70,182,1
+San Lorenzo,786,San Lorenzo,Total del Municipio,700,5012,704,567,1339,97
+San Lorenzo Albarradas,523,San Lorenzo Albarradas,Total del Municipio,348,621,4,151,814,11
+San Lorenzo Cacaotepec,"6,569",San Lorenzo Cacaotepec,Total del Municipio,2104,1723,5,932,4703,59
+San Lorenzo Cuaunecuiltitla,15,San Lorenzo Cuaunecuiltitla,Total del Municipio,133,808,81,26,181,1
+San Lorenzo Texmelúcan,193,San Lorenzo Texmelúcan,Total del Municipio,662,9002,2882,467,1055,47
+San Lorenzo Victoria,272,San Lorenzo Victoria,Total del Municipio,247,60,0,143,282,2
+San Lucas Camotlán,24,San Lucas Camotlán,Total del Municipio,360,3182,681,75,567,77
+San Lucas Ojitlán,"2,332",San Lucas Ojitlán,Total del Municipio,3173,21247,1142,1465,3819,294
+San Lucas Quiaviní,261,San Lucas Quiaviní,Total del Municipio,179,1708,213,115,374,2
+San Lucas Zoquiápam,176,San Lucas Zoquiápam,Total del Municipio,1490,7094,834,641,1348,85
+San Luis Amatlán,612,San Luis Amatlán,Total del Municipio,468,37,0,573,1006,22
+San Marcial Ozolotepec,84,San Marcial Ozolotepec,Total del Municipio,254,1360,141,100,246,47
+San Marcos Arteaga,545,San Marcos Arteaga,Total del Municipio,259,97,1,138,433,1
+San Martín de los Cansecos,160,San Martín de los Cansecos,Total del Municipio,169,41,0,114,215,4
+San Martín Huamelúlpam,217,San Martín Huamelúlpam,Total del Municipio,236,65,0,139,290,8
+San Martín Itunyoso,68,San Martín Itunyoso,Total del Municipio,410,2681,414,259,392,10
+San Martín Lachilá,177,San Martín Lachilá,Total del Municipio,170,31,0,152,280,4
+San Martín Peras,229,San Martín Peras,Total del Municipio,1243,12356,3895,742,1792,74
+San Martín Tilcajete,865,San Martín Tilcajete,Total del Municipio,231,46,0,168,438,3
+San Martín Toxpalan,666,San Martín Toxpalan,Total del Municipio,751,2087,39,304,908,23
+San Martín Zacatepec,173,San Martín Zacatepec,Total del Municipio,242,26,2,159,341,1
+San Mateo Cajonos,60,San Mateo Cajonos,Total del Municipio,61,598,30,70,153,0
+Capulálpam de Méndez,510,Capulálpam de Méndez,Total del Municipio,297,297,0,118,402,0
+San Mateo del Mar,"1,408",San Mateo del Mar,Total del Municipio,1438,15538,1802,781,2014,612
+San Mateo Yoloxochitlán,168,San Mateo Yoloxochitlán,Total del Municipio,827,3690,200,262,799,22
+San Mateo Etlatongo,301,San Mateo Etlatongo,Total del Municipio,215,49,0,105,305,0
+San Mateo Nejápam,115,San Mateo Nejápam,Total del Municipio,151,24,0,89,271,4
+San Mateo Peñasco,162,San Mateo Peñasco,Total del Municipio,324,2234,165,133,474,26
+San Mateo Piñas,221,San Mateo Piñas,Total del Municipio,383,378,1,267,439,114
+San Mateo Río Hondo,386,San Mateo Río Hondo,Total del Municipio,350,201,0,226,716,38
+San Mateo Sindihui,143,San Mateo Sindihui,Total del Municipio,277,81,0,85,437,3
+San Mateo Tlapiltepec,21,San Mateo Tlapiltepec,Total del Municipio,43,14,0,18,67,3
+San Melchor Betaza,84,San Melchor Betaza,Total del Municipio,140,1043,147,60,281,4
+San Miguel Achiutla,57,San Miguel Achiutla,Total del Municipio,165,32,0,98,197,8
+San Miguel Ahuehuetitlán,156,San Miguel Ahuehuetitlán,Total del Municipio,423,1782,160,266,464,6
+San Miguel Aloápam,265,San Miguel Aloápam,Total del Municipio,373,2187,173,235,445,3
+San Miguel Amatitlán,"1,711",San Miguel Amatitlán,Total del Municipio,1007,1806,12,491,1507,35
+San Miguel Amatlán,209,San Miguel Amatlán,Total del Municipio,144,215,0,68,263,3
+San Miguel Coatlán,280,San Miguel Coatlán,Total del Municipio,535,961,6,216,653,29
+San Miguel Chicahua,174,San Miguel Chicahua,Total del Municipio,289,2013,77,90,517,32
+San Miguel Chimalapa,"1,278",San Miguel Chimalapa,Total del Municipio,1042,3516,11,533,1720,74
+San Miguel del Puerto,"4,407",San Miguel del Puerto,Total del Municipio,978,1067,5,569,2012,130
+San Miguel del Río,41,San Miguel del Río,Total del Municipio,56,222,0,14,69,1
+San Miguel Ejutla,357,San Miguel Ejutla,Total del Municipio,147,82,0,74,276,5
+San Miguel el Grande,"1,075",San Miguel el Grande,Total del Municipio,619,3499,74,222,1026,61
+San Miguel Huautla,40,San Miguel Huautla,Total del Municipio,185,759,4,131,302,25
+San Miguel Mixtepec,36,San Miguel Mixtepec,Total del Municipio,277,3119,69,129,503,36
+San Miguel Panixtlahuaca,182,San Miguel Panixtlahuaca,Total del Municipio,550,6134,710,244,948,31
+San Miguel Peras,104,San Miguel Peras,Total del Municipio,570,1499,17,313,550,52
+San Miguel Piedras,62,San Miguel Piedras,Total del Municipio,248,1001,3,110,254,16
+San Miguel Quetzaltepec,236,San Miguel Quetzaltepec,Total del Municipio,802,7272,1618,343,1716,78
+San Miguel Santa Flor,45,San Miguel Santa Flor,Total del Municipio,159,572,7,81,189,7
+Villa Sola de Vega,"1,662",Villa Sola de Vega,Total del Municipio,1190,1130,4,717,2083,136
+San Miguel Soyaltepec,"6,085",San Miguel Soyaltepec,Total del Municipio,6139,31169,1615,3372,8665,231
+San Miguel Suchixtepec,234,San Miguel Suchixtepec,Total del Municipio,340,2696,44,187,617,9
+Villa Talea de Castro,225,Villa Talea de Castro,Total del Municipio,380,1533,11,260,615,1
+San Miguel Tecomatlán,78,San Miguel Tecomatlán,Total del Municipio,96,43,0,51,115,1
+San Miguel Tenango,42,San Miguel Tenango,Total del Municipio,119,43,0,43,202,11
+San Miguel Tequixtepec,150,San Miguel Tequixtepec,Total del Municipio,217,7,0,88,294,2
+San Miguel Tilquiápam,34,San Miguel Tilquiápam,Total del Municipio,268,3134,141,178,539,26
+San Miguel Tlacamama,"1,107",San Miguel Tlacamama,Total del Municipio,413,1604,16,297,891,26
+San Miguel Tlacotepec,683,San Miguel Tlacotepec,Total del Municipio,528,830,30,334,818,17
+San Miguel Tulancingo,13,San Miguel Tulancingo,Total del Municipio,90,57,0,58,98,1
+San Miguel Yotao,14,San Miguel Yotao,Total del Municipio,62,582,40,44,140,0
+San Nicolás,211,San Nicolás,Total del Municipio,162,15,0,156,329,5
+San Nicolás Hidalgo,317,San Nicolás Hidalgo,Total del Municipio,224,10,1,130,259,2
+San Pablo Coatlán,374,San Pablo Coatlán,Total del Municipio,504,153,0,354,959,30
+San Pablo Cuatro Venados,22,San Pablo Cuatro Venados,Total del Municipio,171,259,0,70,265,9
+San Pablo Etla,"7,843",San Pablo Etla,Total del Municipio,2677,1828,3,782,4900,23
+San Pablo Huitzo,"2,050",San Pablo Huitzo,Total del Municipio,1039,454,3,521,1793,19
+San Pablo Huixtepec,"2,857",San Pablo Huixtepec,Total del Municipio,1342,414,1,663,2380,30
+San Pablo Macuiltianguis,79,San Pablo Macuiltianguis,Total del Municipio,149,887,3,126,293,1
+San Pablo Tijaltepec,68,San Pablo Tijaltepec,Total del Municipio,152,2704,260,41,449,71
+San Pablo Villa de Mitla,"2,974",San Pablo Villa de Mitla,Total del Municipio,2133,7960,62,914,3164,43
+San Pablo Yaganiza,99,San Pablo Yaganiza,Total del Municipio,81,1102,70,52,295,1
+San Pedro Amuzgos,710,San Pedro Amuzgos,Total del Municipio,793,5735,589,600,1614,62
+San Pedro Apóstol,508,San Pedro Apóstol,Total del Municipio,287,92,0,202,335,8
+San Pedro Atoyac,239,San Pedro Atoyac,Total del Municipio,445,3813,403,162,899,32
+San Pedro Cajonos,172,San Pedro Cajonos,Total del Municipio,233,1072,43,62,278,0
+San Pedro Coxcaltepec Cántaros,32,San Pedro Coxcaltepec Cántaros,Total del Municipio,151,104,0,46,188,3
+San Pedro Comitancillo,"1,763",San Pedro Comitancillo,Total del Municipio,806,3445,9,371,1389,20
+San Pedro el Alto,245,San Pedro el Alto,Total del Municipio,371,4398,182,238,787,56
+San Pedro Huamelula,"5,382",San Pedro Huamelula,Total del Municipio,1186,2437,10,537,2828,111
+San Pedro Huilotepec,683,San Pedro Huilotepec,Total del Municipio,452,2767,12,168,696,18
+San Pedro Ixcatlán,976,San Pedro Ixcatlán,Total del Municipio,1429,9958,1092,618,1961,93
+San Pedro Ixtlahuaca,"6,592",San Pedro Ixtlahuaca,Total del Municipio,1707,5221,51,835,3020,268
+San Pedro Jaltepetongo,16,San Pedro Jaltepetongo,Total del Municipio,53,474,38,66,82,1
+San Pedro Jicayán,"1,735",San Pedro Jicayán,Total del Municipio,1354,10982,935,1041,2239,67
+San Pedro Jocotipac,54,San Pedro Jocotipac,Total del Municipio,140,647,14,80,215,5
+San Pedro Juchatengo,359,San Pedro Juchatengo,Total del Municipio,218,94,0,146,428,4
+San Pedro Mártir,653,San Pedro Mártir,Total del Municipio,262,1646,9,148,186,4
+San Pedro Mártir Quiechapa,67,San Pedro Mártir Quiechapa,Total del Municipio,96,226,0,106,170,7
+San Pedro Mártir Yucuxaco,159,San Pedro Mártir Yucuxaco,Total del Municipio,225,67,0,173,360,19
+San Pedro Mixtepec - Dto. 22,"14,520",,,,,,,,
+San Pedro Mixtepec - Dto. 26,42,,,,,,,,
+San Pedro Molinos,64,San Pedro Molinos,Total del Municipio,219,659,22,51,182,3
+San Pedro Nopala,24,San Pedro Nopala,Total del Municipio,105,0,0,43,177,2
+San Pedro Ocopetatillo,20,San Pedro Ocopetatillo,Total del Municipio,138,786,115,64,186,3
+San Pedro Ocotepec,148,San Pedro Ocotepec,Total del Municipio,200,2392,380,185,495,14
+San Pedro Pochutla,"23,679",San Pedro Pochutla,Total del Municipio,4670,7926,74,2222,10789,418
+San Pedro Quiatoni,415,San Pedro Quiatoni,Total del Municipio,1203,11886,1601,841,2387,122
+San Pedro Sochiápam,154,San Pedro Sochiápam,Total del Municipio,787,4989,663,413,1053,45
+San Pedro Tapanatepec,"6,126",San Pedro Tapanatepec,Total del Municipio,2110,1269,1,1313,4142,87
+San Pedro Taviche,72,San Pedro Taviche,Total del Municipio,98,0,0,55,300,5
+San Pedro Teozacoalco,84,San Pedro Teozacoalco,Total del Municipio,185,68,0,139,250,13
+San Pedro Teutila,274,San Pedro Teutila,Total del Municipio,825,1810,18,504,1057,34
+San Pedro Tidaá,87,San Pedro Tidaá,Total del Municipio,197,531,0,159,284,7
+San Pedro Topiltepec,31,San Pedro Topiltepec,Total del Municipio,108,16,0,45,120,1
+San Pedro Totolápam,"1,259",San Pedro Totolápam,Total del Municipio,458,554,4,313,847,13
+Villa de Tututepec de Melchor Ocampo,"16,628",,,,,,,,
+San Pedro Yaneri,50,San Pedro Yaneri,Total del Municipio,110,863,20,27,189,2
+San Pedro Yólox,231,San Pedro Yólox,Total del Municipio,275,1662,93,179,457,4
+San Pedro y San Pablo Ayutla,804,San Pedro y San Pablo Ayutla,Total del Municipio,944,5267,775,517,1034,68
+Villa de Etla,"4,593",Villa de Etla,Total del Municipio,1041,2059,14,440,2539,33
+San Pedro y San Pablo Teposcolula,"1,428",San Pedro y San Pablo Teposcolula,Total del Municipio,525,278,0,302,1147,23
+San Pedro y San Pablo Tequixtepec,191,San Pedro y San Pablo Tequixtepec,Total del Municipio,412,440,12,251,554,21
+San Pedro Yucunama,49,San Pedro Yucunama,Total del Municipio,32,4,0,21,61,5
+San Raymundo Jalpan,"1,927",San Raymundo Jalpan,Total del Municipio,510,510,2,162,1172,11
+San Sebastián Abasolo,659,San Sebastián Abasolo,Total del Municipio,397,1006,0,164,510,10
+San Sebastián Coatlán,288,San Sebastián Coatlán,Total del Municipio,299,71,0,213,734,16
+San Sebastián Ixcapa,"1,244",San Sebastián Ixcapa,Total del Municipio,574,709,8,267,1097,18
+San Sebastián Nicananduta,89,San Sebastián Nicananduta,Total del Municipio,318,1271,25,223,435,4
+San Sebastián Río Hondo,239,San Sebastián Río Hondo,Total del Municipio,306,911,2,209,882,18
+San Sebastián Tecomaxtlahuaca,"1,631",San Sebastián Tecomaxtlahuaca,Total del Municipio,1520,3554,178,683,1850,62
+San Sebastián Teitipac,920,San Sebastián Teitipac,Total del Municipio,395,1096,1,180,555,15
+San Sebastián Tutla,"7,767",San Sebastián Tutla,Total del Municipio,1436,2137,5,502,4906,2
+San Simón Almolongas,506,San Simón Almolongas,Total del Municipio,418,41,0,268,775,22
+San Simón Zahuatlán,17,San Simón Zahuatlán,Total del Municipio,191,4919,1153,256,583,10
+Santa Ana,373,Santa Ana,Total del Municipio,418,32,0,170,552,14
+Santa Ana Ateixtlahuaca,3,Santa Ana Ateixtlahuaca,Total del Municipio,108,470,84,31,116,5
+Santa Ana Cuauhtémoc,33,Santa Ana Cuauhtémoc,Total del Municipio,136,486,2,92,210,5
+Santa Ana del Valle,550,Santa Ana del Valle,Total del Municipio,325,2083,53,186,530,4
+Santa Ana Tavela,151,Santa Ana Tavela,Total del Municipio,204,36,0,126,229,8
+Santa Ana Tlapacoyan,567,Santa Ana Tlapacoyan,Total del Municipio,306,24,0,199,543,13
+Santa Ana Yareni,47,Santa Ana Yareni,Total del Municipio,120,635,39,80,145,1
+Santa Ana Zegache,864,Santa Ana Zegache,Total del Municipio,607,1987,3,168,966,18
+Santa Catalina Quierí,43,Santa Catalina Quierí,Total del Municipio,97,819,29,36,207,14
+Santa Catarina Cuixtla,376,Santa Catarina Cuixtla,Total del Municipio,234,489,0,123,384,14
+Santa Catarina Ixtepeji,476,Santa Catarina Ixtepeji,Total del Municipio,396,308,1,159,660,7
+Santa Catarina Juquila,"3,287",Santa Catarina Juquila,Total del Municipio,1854,7300,738,908,3462,95
+Santa Catarina Lachatao,218,Santa Catarina Lachatao,Total del Municipio,263,688,0,77,310,7
+Santa Catarina Loxicha,99,Santa Catarina Loxicha,Total del Municipio,355,751,4,223,728,34
+Santa Catarina Mechoacán,232,Santa Catarina Mechoacán,Total del Municipio,518,4523,503,252,984,22
+Santa Catarina Minas,668,Santa Catarina Minas,Total del Municipio,222,44,0,195,475,5
+Santa Catarina Quiané,953,Santa Catarina Quiané,Total del Municipio,277,91,0,112,544,7
+Santa Catarina Tayata,109,Santa Catarina Tayata,Total del Municipio,159,129,3,56,175,5
+Santa Catarina Ticuá,24,Santa Catarina Ticuá,Total del Municipio,241,852,15,87,293,12
+Santa Catarina Yosonotú,82,Santa Catarina Yosonotú,Total del Municipio,288,1218,147,133,399,10
+Santa Catarina Zapoquila,20,Santa Catarina Zapoquila,Total del Municipio,54,7,0,23,99,5
+Santa Cruz Acatepec,80,Santa Cruz Acatepec,Total del Municipio,285,1627,120,119,236,12
+Santa Cruz Amilpas,"3,370",Santa Cruz Amilpas,Total del Municipio,1063,4016,21,419,3385,11
+Santa Cruz de Bravo,79,Santa Cruz de Bravo,Total del Municipio,66,16,0,39,95,1
+Santa Cruz Itundujia,"1,093",Santa Cruz Itundujia,Total del Municipio,1877,2205,5,1164,2314,199
+Santa Cruz Mixtepec,619,Santa Cruz Mixtepec,Total del Municipio,428,1083,48,253,819,20
+Santa Cruz Nundaco,266,Santa Cruz Nundaco,Total del Municipio,309,2825,65,154,571,21
+Santa Cruz Papalutla,838,Santa Cruz Papalutla,Total del Municipio,414,1208,9,160,591,2
+Santa Cruz Tacache de Mina,944,Santa Cruz Tacache de Mina,Total del Municipio,412,14,0,265,774,2
+Santa Cruz Tacahua,91,Santa Cruz Tacahua,Total del Municipio,147,713,26,83,316,9
+Santa Cruz Tayata,43,Santa Cruz Tayata,Total del Municipio,76,18,0,58,129,2
+Santa Cruz Xitla,430,Santa Cruz Xitla,Total del Municipio,662,3954,54,429,858,16
+Santa Cruz Xoxocotlán,"31,658",Santa Cruz Xoxocotlán,Total del Municipio,12834,21064,165,4615,24928,250
+Santa Cruz Zenzontepec,804,Santa Cruz Zenzontepec,Total del Municipio,1433,14664,1770,946,2559,189
+Santa Gertrudis,642,Santa Gertrudis,Total del Municipio,362,32,0,248,789,2
+Santa Inés del Monte,114,Santa Inés del Monte,Total del Municipio,279,84,0,103,541,34
+Santa Inés Yatzeche,230,Santa Inés Yatzeche,Total del Municipio,30,903,21,31,190,1
+Santa Lucía del Camino,"20,581",Santa Lucía del Camino,Total del Municipio,5279,12080,59,2209,13708,24
+Santa Lucía Miahuatlán,57,Santa Lucía Miahuatlán,Total del Municipio,207,3361,569,124,576,46
+Santa Lucía Monteverde,217,Santa Lucía Monteverde,Total del Municipio,1014,5027,206,467,1329,116
+Santa Lucía Ocotlán,400,Santa Lucía Ocotlán,Total del Municipio,356,4026,60,217,863,8
+Santa María Alotepec,379,Santa María Alotepec,Total del Municipio,683,2731,268,270,676,20
+Santa María Apazco,84,Santa María Apazco,Total del Municipio,325,1552,150,212,399,30
+Santa María la Asunción,117,Santa María la Asunción,Total del Municipio,844,3200,1031,252,788,25
+Heroica Ciudad de Tlaxiaco,"14,014",Heroica Ciudad de Tlaxiaco,Total del Municipio,5278,17379,427,2084,8706,151
+Ayoquezco de Aldama,982,Ayoquezco de Aldama,Total del Municipio,726,833,0,375,1197,14
+Santa María Atzompa,"15,594",Santa María Atzompa,Total del Municipio,5150,11163,55,2055,10372,220
+Santa María Camotlán,580,Santa María Camotlán,Total del Municipio,284,18,0,205,508,13
+Santa María Colotepec,"17,290",Santa María Colotepec,Total del Municipio,2666,4291,57,1274,6366,211
+Santa María Cortijo,233,Santa María Cortijo,Total del Municipio,189,103,0,125,302,9
+Santa María Coyotepec,863,Santa María Coyotepec,Total del Municipio,323,616,3,119,1016,15
+Santa María Chachoápam,222,Santa María Chachoápam,Total del Municipio,151,28,0,96,236,0
+Villa de Chilapa de Díaz,554,Villa de Chilapa de Díaz,Total del Municipio,205,455,2,106,510,5
+Santa María Chilchotla,922,Santa María Chilchotla,Total del Municipio,3815,21119,3400,1427,3165,365
+Santa María Chimalapa,"1,319",Santa María Chimalapa,Total del Municipio,1191,4937,430,542,1755,66
+Santa María del Rosario,59,Santa María del Rosario,Total del Municipio,125,131,1,54,126,3
+Santa María del Tule,"2,489",Santa María del Tule,Total del Municipio,1178,1283,5,399,2443,5
+Santa María Ecatepec,160,Santa María Ecatepec,Total del Municipio,556,2060,5,207,801,23
+Santa María Guelacé,276,Santa María Guelacé,Total del Municipio,158,346,0,78,219,2
+Santa María Guienagati,553,Santa María Guienagati,Total del Municipio,581,1523,3,376,762,55
+Santa María Huatulco,"19,663",Santa María Huatulco,Total del Municipio,4813,5118,14,1964,13525,371
+Santa María Huazolotitlán,"3,160",Santa María Huazolotitlán,Total del Municipio,1734,5125,203,898,3331,70
+Santa María Ipalapa,984,Santa María Ipalapa,Total del Municipio,711,1504,5,287,1202,21
+Santa María Ixcatlán,16,Santa María Ixcatlán,Total del Municipio,103,31,0,71,115,1
+Santa María Jacatepec,"2,111",Santa María Jacatepec,Total del Municipio,1152,7462,341,697,2279,30
+Santa María Jalapa del Marqués,"4,013",Santa María Jalapa del Marqués,Total del Municipio,1083,1132,8,623,3219,105
+Santa María Jaltianguis,88,Santa María Jaltianguis,Total del Municipio,109,444,0,77,157,2
+Santa María Lachixío,79,Santa María Lachixío,Total del Municipio,188,1634,102,64,289,16
+Santa María Mixtequilla,"1,304",Santa María Mixtequilla,Total del Municipio,711,193,0,296,1390,25
+Santa María Nativitas,51,Santa María Nativitas,Total del Municipio,144,298,0,71,190,3
+Santa María Nduayaco,15,Santa María Nduayaco,Total del Municipio,91,13,0,41,118,5
+Santa María Ozolotepec,143,Santa María Ozolotepec,Total del Municipio,630,1434,2,186,759,31
+Santa María Pápalo,72,Santa María Pápalo,Total del Municipio,394,2047,102,246,535,14
+Santa María Peñoles,148,Santa María Peñoles,Total del Municipio,810,8750,515,629,1231,127
+Santa María Petapa,"5,506",Santa María Petapa,Total del Municipio,2006,7246,55,1013,4213,61
+Santa María Quiegolani,37,Santa María Quiegolani,Total del Municipio,203,2100,177,153,447,20
+Santa María Sola,173,Santa María Sola,Total del Municipio,170,77,0,138,358,15
+Santa María Tataltepec,41,Santa María Tataltepec,Total del Municipio,39,91,1,43,74,1
+Santa María Tecomavaca,625,Santa María Tecomavaca,Total del Municipio,290,528,2,170,413,2
+Santa María Temaxcalapa,74,Santa María Temaxcalapa,Total del Municipio,80,893,45,44,284,1
+Santa María Temaxcaltepec,219,Santa María Temaxcaltepec,Total del Municipio,152,2579,372,79,499,38
+Santa María Teopoxco,77,Santa María Teopoxco,Total del Municipio,591,3969,231,365,964,6
+Santa María Tepantlali,348,Santa María Tepantlali,Total del Municipio,609,3490,706,359,672,33
+Santa María Texcatitlán,60,Santa María Texcatitlán,Total del Municipio,185,891,77,68,250,7
+Santa María Tlahuitoltepec,698,Santa María Tlahuitoltepec,Total del Municipio,1193,9464,1627,394,1714,77
+Santa María Tlalixtac,84,Santa María Tlalixtac,Total del Municipio,246,1294,19,111,379,8
+Santa María Tonameca,"9,115",Santa María Tonameca,Total del Municipio,3069,13051,455,1467,4867,315
+Santa María Totolapilla,108,Santa María Totolapilla,Total del Municipio,196,434,5,101,278,5
+Santa María Xadani,"1,206",Santa María Xadani,Total del Municipio,985,9133,1074,534,2104,33
+Santa María Yalina,12,Santa María Yalina,Total del Municipio,37,231,1,13,74,0
+Santa María Yavesía,80,Santa María Yavesía,Total del Municipio,36,202,2,27,135,1
+Santa María Yolotepec,26,Santa María Yolotepec,Total del Municipio,119,363,0,46,143,5
+Santa María Yosoyúa,102,Santa María Yosoyúa,Total del Municipio,351,1670,106,72,333,4
+Santa María Yucuhiti,541,Santa María Yucuhiti,Total del Municipio,1053,5873,415,631,1435,21
+Santa María Zacatepec,"2,241",Santa María Zacatepec,Total del Municipio,2639,5777,221,1771,3808,121
+Santa María Zaniza,40,Santa María Zaniza,Total del Municipio,197,1426,1,77,283,15
+Santa María Zoquitlán,583,Santa María Zoquitlán,Total del Municipio,453,34,0,312,877,17
+Santiago Amoltepec,161,Santiago Amoltepec,Total del Municipio,577,11661,331,562,988,200
+Santiago Apoala,32,Santiago Apoala,Total del Municipio,85,952,58,108,279,9
+Santiago Apóstol,317,Santiago Apóstol,Total del Municipio,532,4145,120,308,588,10
+Santiago Astata,"1,796",Santiago Astata,Total del Municipio,652,754,1,279,1158,58
+Santiago Atitlán,216,Santiago Atitlán,Total del Municipio,593,3520,573,264,660,29
+Santiago Ayuquililla,325,Santiago Ayuquililla,Total del Municipio,459,41,0,270,704,11
+Santiago Cacaloxtepec,458,Santiago Cacaloxtepec,Total del Municipio,274,846,26,150,469,3
+Santiago Camotlán,144,Santiago Camotlán,Total del Municipio,223,3141,135,228,685,11
+Santiago Comaltepec,113,Santiago Comaltepec,Total del Municipio,272,1118,39,157,324,2
+Santiago Chazumba,877,,,,,,,,
+Santiago Choápam,190,Santiago Choápam,Total del Municipio,817,3679,110,292,1107,58
+Santiago del Río,35,Santiago del Río,Total del Municipio,31,181,11,98,156,6
+Santiago Huajolotitlán,"1,669",Santiago Huajolotitlán,Total del Municipio,566,55,0,276,1186,14
+Santiago Huauclilla,34,Santiago Huauclilla,Total del Municipio,117,24,0,81,167,4
+Santiago Ihuitlán Plumas,5,Santiago Ihuitlán Plumas,Total del Municipio,34,11,0,36,106,0
+Santiago Ixcuintepec,53,Santiago Ixcuintepec,Total del Municipio,265,1578,42,145,326,13
+Santiago Ixtayutla,389,Santiago Ixtayutla,Total del Municipio,992,12114,5142,738,1867,236
+Santiago Jamiltepec,"6,415",Santiago Jamiltepec,Total del Municipio,3406,7442,189,1989,4900,127
+Santiago Jocotepec,"1,794",Santiago Jocotepec,Total del Municipio,1341,12411,772,814,2776,73
+Santiago Juxtlahuaca,"4,812",Santiago Juxtlahuaca,Total del Municipio,3817,26538,2891,2265,5685,305
+Santiago Lachiguiri,765,Santiago Lachiguiri,Total del Municipio,821,3411,99,393,1162,80
+Santiago Lalopa,27,Santiago Lalopa,Total del Municipio,147,409,15,32,116,1
+Santiago Laollaga,761,Santiago Laollaga,Total del Municipio,369,659,1,220,1064,8
+Santiago Laxopa,60,Santiago Laxopa,Total del Municipio,133,1284,14,100,314,1
+Santiago Llano Grande,"1,157",Santiago Llano Grande,Total del Municipio,521,147,1,457,960,26
+Santiago Matatlán,913,Santiago Matatlán,Total del Municipio,1343,9840,952,674,2097,48
+Santiago Miltepec,62,Santiago Miltepec,Total del Municipio,55,10,0,51,138,3
+Santiago Minas,233,Santiago Minas,Total del Municipio,131,153,23,136,301,5
+Santiago Nacaltepec,118,Santiago Nacaltepec,Total del Municipio,280,53,0,218,490,9
+Santiago Nejapilla,1,Santiago Nejapilla,Total del Municipio,29,6,0,55,66,1
+Santiago Nundiche,92,Santiago Nundiche,Total del Municipio,258,1325,66,93,320,48
+Santiago Nuyoó,172,Santiago Nuyoó,Total del Municipio,477,1867,179,206,493,10
+Santiago Pinotepa Nacional,"19,731",Santiago Pinotepa Nacional,Total del Municipio,6374,19473,261,3680,13972,293
+Santiago Suchilquitongo,"1,862",Santiago Suchilquitongo,Total del Municipio,1182,326,0,603,2631,48
+Santiago Tamazola,"1,080",Santiago Tamazola,Total del Municipio,787,616,6,421,1079,20
+Santiago Tapextla,433,Santiago Tapextla,Total del Municipio,339,97,0,179,683,24
+Villa Tejúpam de la Unión,789,Villa Tejúpam de la Unión,Total del Municipio,419,59,0,151,649,9
+Santiago Tenango,211,Santiago Tenango,Total del Municipio,312,57,0,163,438,31
+Santiago Tepetlapa,23,Santiago Tepetlapa,Total del Municipio,28,4,0,16,39,0
+Santiago Tetepec,673,Santiago Tetepec,Total del Municipio,638,1770,132,378,1140,34
+Santiago Texcalcingo,38,Santiago Texcalcingo,Total del Municipio,388,2959,289,191,697,5
+Santiago Textitlán,145,Santiago Textitlán,Total del Municipio,352,2440,10,281,650,17
+Santiago Tilantongo,79,Santiago Tilantongo,Total del Municipio,596,2168,19,343,760,51
+Santiago Tillo,116,Santiago Tillo,Total del Municipio,109,30,0,52,164,1
+Santiago Tlazoyaltepec,84,Santiago Tlazoyaltepec,Total del Municipio,603,6048,479,491,955,41
+Santiago Xanica,151,Santiago Xanica,Total del Municipio,348,2152,11,253,621,68
+Santiago Xiacuí,459,Santiago Xiacuí,Total del Municipio,339,424,1,227,476,2
+Santiago Yaitepec,81,Santiago Yaitepec,Total del Municipio,351,4202,1117,191,813,9
+Santiago Yaveo,"1,534",Santiago Yaveo,Total del Municipio,1041,3411,48,565,1775,72
+Santiago Yolomécatl,538,Santiago Yolomécatl,Total del Municipio,372,180,0,85,501,3
+Santiago Yosondúa,778,Santiago Yosondúa,Total del Municipio,1067,3366,29,565,1977,100
+Santiago Yucuyachi,283,Santiago Yucuyachi,Total del Municipio,237,257,2,144,303,3
+Santiago Zacatepec,326,Santiago Zacatepec,Total del Municipio,522,5052,970,290,717,67
+Santiago Zoochila,56,Santiago Zoochila,Total del Municipio,94,392,18,113,115,0
+Nuevo Zoquiápam,272,Nuevo Zoquiápam,Total del Municipio,289,1310,9,152,279,1
+Santo Domingo Ingenio,"1,610",Santo Domingo Ingenio,Total del Municipio,1348,733,6,639,2454,21
+Santo Domingo Albarradas,43,Santo Domingo Albarradas,Total del Municipio,123,791,21,84,199,2
+Santo Domingo Armenta,317,Santo Domingo Armenta,Total del Municipio,568,176,1,274,822,32
+Santo Domingo Chihuitán,688,Santo Domingo Chihuitán,Total del Municipio,279,328,1,201,511,10
+Santo Domingo de Morelos,"1,392",Santo Domingo de Morelos,Total del Municipio,1174,10852,1167,584,1984,65
+Santo Domingo Ixcatlán,85,Santo Domingo Ixcatlán,Total del Municipio,144,265,0,78,147,10
+Santo Domingo Nuxaá,79,Santo Domingo Nuxaá,Total del Municipio,579,2712,21,323,767,62
+Santo Domingo Ozolotepec,51,Santo Domingo Ozolotepec,Total del Municipio,143,828,6,76,217,5
+Santo Domingo Petapa,"1,571",Santo Domingo Petapa,Total del Municipio,1061,5451,26,850,2294,107
+Santo Domingo Roayaga,35,Santo Domingo Roayaga,Total del Municipio,105,923,46,31,99,10
+Santo Domingo Tehuantepec,"21,168",Santo Domingo Tehuantepec,Total del Municipio,9864,12201,101,4366,17179,385
+Santo Domingo Teojomulco,652,Santo Domingo Teojomulco,Total del Municipio,698,173,0,343,1062,25
+Santo Domingo Tepuxtepec,506,Santo Domingo Tepuxtepec,Total del Municipio,682,5824,1055,308,848,98
+Santo Domingo Tlatayápam,17,Santo Domingo Tlatayápam,Total del Municipio,30,0,0,26,37,0
+Santo Domingo Tomaltepec,639,Santo Domingo Tomaltepec,Total del Municipio,422,1236,3,161,792,5
+Santo Domingo Tonalá,"2,327",Santo Domingo Tonalá,Total del Municipio,1257,2500,318,922,1887,30
+Santo Domingo Tonaltepec,0,Santo Domingo Tonaltepec,Total del Municipio,43,43,0,25,69,2
+Santo Domingo Xagacía,94,Santo Domingo Xagacía,Total del Municipio,116,1202,72,98,262,10
+Santo Domingo Yanhuitlán,609,Santo Domingo Yanhuitlán,Total del Municipio,336,107,0,135,454,3
+Santo Domingo Yodohino,7,Santo Domingo Yodohino,Total del Municipio,46,0,0,13,81,0
+Santo Domingo Zanatepec,"3,629",Santo Domingo Zanatepec,Total del Municipio,1754,497,0,950,3586,48
+Santos Reyes Nopala,"3,680",Santos Reyes Nopala,Total del Municipio,1509,10795,981,866,3786,143
+Santos Reyes Pápalo,37,Santos Reyes Pápalo,Total del Municipio,162,2479,58,95,511,5
+Santos Reyes Tepejillo,73,Santos Reyes Tepejillo,Total del Municipio,192,893,120,135,268,2
+Santos Reyes Yucuná,30,Santos Reyes Yucuná,Total del Municipio,160,1446,245,98,229,3
+Santo Tomás Jalieza,988,Santo Tomás Jalieza,Total del Municipio,412,1233,4,266,818,18
+Santo Tomás Mazaltepec,270,Santo Tomás Mazaltepec,Total del Municipio,403,2202,7,163,603,8
+Santo Tomás Ocotepec,106,Santo Tomás Ocotepec,Total del Municipio,460,4019,223,278,800,38
+Santo Tomás Tamazulapan,838,Santo Tomás Tamazulapan,Total del Municipio,336,591,14,192,677,18
+San Vicente Coatlán,134,San Vicente Coatlán,Total del Municipio,698,3330,578,271,678,13
+San Vicente Lachixío,80,San Vicente Lachixío,Total del Municipio,416,3210,274,137,596,11
+San Vicente Nuñú,96,San Vicente Nuñú,Total del Municipio,90,7,0,55,142,1
+Silacayoápam,"1,139",Silacayoápam,Total del Municipio,1241,1628,132,721,1722,24
+Sitio de Xitlapehua,147,Sitio de Xitlapehua,Total del Municipio,83,26,0,94,189,1
+Soledad Etla,"1,787",Soledad Etla,Total del Municipio,803,453,2,298,1585,65
+Villa de Tamazulápam del Progreso,"1,415",Villa de Tamazulápam del Progreso,Total del Municipio,1305,430,0,345,1991,48
+Tanetze de Zaragoza,206,Tanetze de Zaragoza,Total del Municipio,208,1498,34,125,379,2
+Taniche,179,Taniche,Total del Municipio,194,16,0,65,234,4
+Tataltepec de Valdés,250,Tataltepec de Valdés,Total del Municipio,684,4858,53,384,1427,102
+Teococuilco de Marcos Pérez,126,Teococuilco de Marcos Pérez,Total del Municipio,170,992,6,116,208,2
+Teotitlán de Flores Magón,"2,095",Teotitlán de Flores Magón,Total del Municipio,1321,3294,28,425,2456,47
+Teotitlán del Valle,"1,283",Teotitlán del Valle,Total del Municipio,1205,5418,166,436,1254,6
+Teotongo,339,Teotongo,Total del Municipio,175,32,0,86,295,4
+Tepelmeme Villa de Morelos,209,Tepelmeme Villa de Morelos,Total del Municipio,384,64,0,234,534,44
+Tezoatlán de Segura y Luna,"2,650",,,,,,,,
+San Jerónimo Tlacochahuaya,"1,672",San Jerónimo Tlacochahuaya,Total del Municipio,1117,4278,17,533,1387,32
+Tlacolula de Matamoros,"10,380",Tlacolula de Matamoros,Total del Municipio,4772,10659,154,1889,7241,136
+Tlacotepec Plumas,24,Tlacotepec Plumas,Total del Municipio,80,4,0,34,128,2
+Tlalixtac de Cabrera,"4,839",Tlalixtac de Cabrera,Total del Municipio,1301,2576,7,477,2762,21
+Totontepec Villa de Morelos,371,Totontepec Villa de Morelos,Total del Municipio,804,5748,585,528,1224,28
+Trinidad Zaachila,953,Trinidad Zaachila,Total del Municipio,345,100,1,181,797,9
+La Trinidad Vista Hermosa,56,La Trinidad Vista Hermosa,Total del Municipio,71,14,0,16,87,5
+Unión Hidalgo,"5,748",Unión Hidalgo,Total del Municipio,2184,12518,118,1038,4167,39
+Valerio Trujano,334,Valerio Trujano,Total del Municipio,291,439,1,129,382,9
+San Juan Bautista Valle Nacional,"3,677",San Juan Bautista Valle Nacional,Total del Municipio,3252,16355,716,1570,5528,90
+Villa Díaz Ordaz,567,Villa Díaz Ordaz,Total del Municipio,1051,6180,247,511,1411,21
+Yaxe,335,Yaxe,Total del Municipio,367,86,1,182,661,35
+Magdalena Yodocono de Porfirio Díaz,297,Magdalena Yodocono de Porfirio Díaz,Total del Municipio,287,20,0,108,440,3
+Yogana,184,Yogana,Total del Municipio,188,0,0,151,301,8
+Yutanduchi de Guerrero,75,Yutanduchi de Guerrero,Total del Municipio,251,1165,17,252,326,8
+Villa de Zaachila,"15,821",Villa de Zaachila,Total del Municipio,5373,11480,78,2110,8734,414
+San Mateo Yucutindó,265,,,,,,,,
+Zapotitlán Lagunas,609,Zapotitlán Lagunas,Total del Municipio,636,37,0,449,731,9
+Zapotitlán Palmas,492,Zapotitlán Palmas,Total del Municipio,230,478,2,224,463,9
+Santa Inés de Zaragoza,164,Santa Inés de Zaragoza,Total del Municipio,328,822,5,195,453,9
+Zimatlán de Álvarez,"5,933",Zimatlán de Álvarez,Total del Municipio,2591,2064,6,1435,4655,92
+Acajete,"7,099",Acajete,Total del Municipio,7133,9853,74,3024,14655,218
+Acateno,"2,442",Acateno,Total del Municipio,1180,532,0,754,2212,73
+Acatlán,"8,589",Acatlán,Total del Municipio,6022,1049,4,3443,9563,85
+Acatzingo,"6,789",Acatzingo,Total del Municipio,4768,482,2,2292,12947,130
+Acteopan,311,Acteopan,Total del Municipio,393,1455,8,228,732,11
+Ahuacatlán,"2,327",Ahuacatlán,Total del Municipio,963,13553,1442,483,2739,34
+Ahuatlán,489,Ahuatlán,Total del Municipio,431,158,0,187,759,8
+Ahuazotepec,"3,677",Ahuazotepec,Total del Municipio,1458,184,1,618,2798,12
+Ahuehuetitla,668,Ahuehuetitla,Total del Municipio,349,29,0,283,596,11
+Ajalpan,"11,073",Ajalpan,Total del Municipio,5789,44762,5956,2883,11874,272
+Albino Zertuche,426,Albino Zertuche,Total del Municipio,159,58,0,106,483,11
+Aljojuca,818,Aljojuca,Total del Municipio,1156,27,0,514,1624,9
+Altepexi,"2,681",Altepexi,Total del Municipio,1981,19423,143,917,4420,17
+Amixtlán,736,Amixtlán,Total del Municipio,619,4271,307,310,1109,32
+Amozoc,"20,393",Amozoc,Total del Municipio,11265,7313,21,3945,30359,137
+Aquixtla,"2,140",Aquixtla,Total del Municipio,1355,731,4,608,2255,58
+Atempan,"2,718",Atempan,Total del Municipio,1832,18544,92,976,6328,73
+Atexcal,831,Atexcal,Total del Municipio,644,104,1,342,1010,19
+Atlixco,"34,130",Atlixco,Total del Municipio,15876,9715,55,6764,35933,201
+Atoyatempan,643,Atoyatempan,Total del Municipio,741,1610,1,418,1703,5
+Atzala,525,Atzala,Total del Municipio,235,19,0,110,375,1
+Atzitzihuacán,"1,474",Atzitzihuacán,Total del Municipio,1550,214,0,789,2957,30
+Atzitzintla,629,Atzitzintla,Total del Municipio,717,8,0,504,1908,26
+Axutla,315,Axutla,Total del Municipio,141,18,0,138,295,4
+Ayotoxco de Guerrero,"1,484",Ayotoxco de Guerrero,Total del Municipio,995,3742,44,412,2039,68
+Calpan,"2,252",Calpan,Total del Municipio,2232,4308,38,963,3267,23
+Caltepec,722,Caltepec,Total del Municipio,921,184,1,596,1085,72
+Camocuautla,245,Camocuautla,Total del Municipio,214,2741,355,84,628,14
+Caxhuacan,261,Caxhuacan,Total del Municipio,642,3622,329,316,865,25
+Coatepec,207,Coatepec,Total del Municipio,90,760,112,24,207,2
+Coatzingo,544,Coatzingo,Total del Municipio,407,3,0,283,738,12
+Cohetzala,340,Cohetzala,Total del Municipio,191,170,0,163,389,3
+Cohuecan,895,Cohuecan,Total del Municipio,613,925,0,285,1202,16
+Coronango,"6,354",Coronango,Total del Municipio,3421,1101,6,1171,10941,38
+Coxcatlán,"2,199",Coxcatlán,Total del Municipio,2485,9189,280,1202,4266,43
+Coyomeapan,627,Coyomeapan,Total del Municipio,1534,14653,1905,606,2894,71
+Coyotepec,646,Coyotepec,Total del Municipio,441,188,0,307,721,7
+Cuapiaxtla de Madero,"1,507",Cuapiaxtla de Madero,Total del Municipio,733,145,0,311,2236,14
+Cuautempan,"1,371",Cuautempan,Total del Municipio,1210,9068,156,692,2499,60
+Cuautinchán,"2,320",Cuautinchán,Total del Municipio,1471,645,3,675,2728,64
+Cuautlancingo,"18,591",Cuautlancingo,Total del Municipio,10860,4355,10,3724,40568,30
+Cuayuca de Andrade,616,Cuayuca de Andrade,Total del Municipio,493,13,0,252,887,13
+Cuetzalan del Progreso,"9,529",Cuetzalan del Progreso,Total del Municipio,5628,40036,2370,2230,11337,468
+Cuyoaco,"4,016",Cuyoaco,Total del Municipio,1902,672,0,714,3962,38
+Chalchicomula de Sesma,"6,445",Chalchicomula de Sesma,Total del Municipio,5635,254,0,2375,11290,54
+Chapulco,959,Chapulco,Total del Municipio,892,339,1,434,1776,18
+Chiautla,"4,118",Chiautla,Total del Municipio,2141,154,1,1533,5364,65
+Chiautzingo,"2,256",Chiautzingo,Total del Municipio,2138,608,2,965,4535,35
+Chiconcuautla,979,Chiconcuautla,Total del Municipio,1701,14318,868,842,3014,32
+Chichiquila,"2,853",Chichiquila,Total del Municipio,2297,12553,49,1348,4031,65
+Chietla,"6,815",Chietla,Total del Municipio,4412,204,0,2592,9497,84
+Chigmecatitlán,146,Chigmecatitlán,Total del Municipio,293,1137,62,185,358,3
+Chignahuapan,"15,504",Chignahuapan,Total del Municipio,6226,1045,3,2997,16394,172
+Chignautla,"5,325",Chignautla,Total del Municipio,3076,10791,47,1207,7309,107
+Chila,980,Chila,Total del Municipio,780,65,0,475,1309,23
+Chila de la Sal,446,Chila de la Sal,Total del Municipio,222,5,0,155,417,1
+Honey,950,Honey,Total del Municipio,741,906,10,345,1610,33
+Chilchotla,"1,119",Chilchotla,Total del Municipio,1654,4273,14,938,3997,61
+Chinantla,849,Chinantla,Total del Municipio,520,60,0,353,761,21
+Domingo Arenas,798,Domingo Arenas,Total del Municipio,725,609,0,276,1690,18
+Eloxochitlán,579,Eloxochitlán,Total del Municipio,1226,14320,1780,704,2205,91
+Epatlán,"1,679",Epatlán,Total del Municipio,579,150,0,314,1212,9
+Esperanza,"1,617",Esperanza,Total del Municipio,1969,62,0,952,3577,24
+Francisco Z. Mena,"5,293",Francisco Z. Mena,Total del Municipio,2640,3043,21,1089,4349,100
+General Felipe Ángeles,"2,427",General Felipe Ángeles,Total del Municipio,2172,189,0,977,5061,31
+Guadalupe,"1,917",Guadalupe,Total del Municipio,897,47,0,716,1778,19
+Guadalupe Victoria,"2,759",Guadalupe Victoria,Total del Municipio,2831,376,0,1390,4487,37
+Hermenegildo Galeana,"1,050",Hermenegildo Galeana,Total del Municipio,611,5794,507,498,1687,30
+Huaquechula,"6,082",Huaquechula,Total del Municipio,3321,384,1,1690,6687,70
+Huatlatlauca,979,Huatlatlauca,Total del Municipio,1140,5202,128,721,1712,26
+Huauchinango,"15,794",Huauchinango,Total del Municipio,9424,35434,406,4223,25242,120
+Huehuetla,"2,252",Huehuetla,Total del Municipio,1726,16055,2937,834,3453,174
+Huehuetlán el Chico,859,Huehuetlán el Chico,Total del Municipio,1027,41,0,564,2417,55
+Huejotzingo,"26,047",Huejotzingo,Total del Municipio,10230,3576,10,3571,21491,63
+Hueyapan,955,Hueyapan,Total del Municipio,1041,12492,196,421,2743,33
+Hueytamalco,"5,323",Hueytamalco,Total del Municipio,2770,3933,14,1240,6758,194
+Hueytlalpan,518,Hueytlalpan,Total del Municipio,526,5668,572,236,1200,96
+Huitzilan de Serdán,"1,149",Huitzilan de Serdán,Total del Municipio,731,13545,898,464,3348,85
+Huitziltepec,"1,444",Huitziltepec,Total del Municipio,645,147,0,436,1493,13
+Atlequizayan,297,Atlequizayan,Total del Municipio,243,2607,540,151,646,10
+Ixcamilpa de Guerrero,806,Ixcamilpa de Guerrero,Total del Municipio,545,215,1,325,997,25
+Ixcaquixtla,"2,044",Ixcaquixtla,Total del Municipio,1146,206,0,597,2269,25
+Ixtacamaxtitlán,"6,091",Ixtacamaxtitlán,Total del Municipio,3674,5366,17,1882,5824,135
+Ixtepec,433,Ixtepec,Total del Municipio,613,6834,1081,203,1467,76
+Izúcar de Matamoros,"13,873",Izúcar de Matamoros,Total del Municipio,11918,1364,8,6157,20570,118
+Jalpan,"3,928",Jalpan,Total del Municipio,1467,2738,9,742,2765,98
+Jolalpan,"1,611",Jolalpan,Total del Municipio,1645,1352,14,705,2781,82
+Jonotla,752,Jonotla,Total del Municipio,595,3406,105,248,1168,40
+Jopala,"1,857",Jopala,Total del Municipio,1316,9120,392,771,2838,39
+Juan C. Bonilla,"3,814",Juan C. Bonilla,Total del Municipio,2067,653,2,817,5685,17
+Juan Galindo,"1,602",Juan Galindo,Total del Municipio,1105,2306,39,527,2702,2
+Juan N. Méndez,"1,008",Juan N. Méndez,Total del Municipio,809,159,1,394,1362,19
+Lafragua,791,Lafragua,Total del Municipio,907,171,1,564,1839,11
+Libres,"7,825",Libres,Total del Municipio,4016,1621,3,1773,8653,75
+La Magdalena Tlatlauquitepec,66,La Magdalena Tlatlauquitepec,Total del Municipio,66,32,0,25,165,0
+Mazapiltepec de Juárez,801,Mazapiltepec de Juárez,Total del Municipio,374,28,0,208,759,7
+Mixtla,879,Mixtla,Total del Municipio,310,289,2,107,588,6
+Molcaxac,"1,605",Molcaxac,Total del Municipio,667,834,3,396,1747,27
+Cañada Morelos,"2,704",Cañada Morelos,Total del Municipio,2486,204,1,1552,5008,56
+Naupan,921,Naupan,Total del Municipio,1477,9152,269,811,1998,23
+Nauzontla,708,Nauzontla,Total del Municipio,459,1191,1,227,943,20
+Nealtican,"1,933",Nealtican,Total del Municipio,1127,2712,4,430,3029,13
+Nicolás Bravo,"1,123",Nicolás Bravo,Total del Municipio,773,192,1,374,1418,32
+Nopalucan,"4,354",Nopalucan,Total del Municipio,2393,207,0,992,7042,55
+Ocotepec,"1,324",Ocotepec,Total del Municipio,786,400,0,365,1289,25
+Ocoyucan,"9,258",Ocoyucan,Total del Municipio,2875,2962,15,1184,10411,43
+Olintla,"1,048",Olintla,Total del Municipio,1156,11795,2163,580,2332,133
+Oriental,"3,097",Oriental,Total del Municipio,2967,283,0,1180,4619,37
+Pahuatlán,"2,605",Pahuatlán,Total del Municipio,2342,11316,757,1232,4736,122
+Palmar de Bravo,"6,167",Palmar de Bravo,Total del Municipio,3820,284,2,2120,11518,160
+Pantepec,"3,194",Pantepec,Total del Municipio,3137,10032,342,1122,4410,162
+Petlalcingo,"1,197",Petlalcingo,Total del Municipio,1527,604,2,1077,2434,31
+Piaxtla,"1,246",Piaxtla,Total del Municipio,786,131,2,617,1372,15
+Puebla,"358,513",Puebla,Total del Municipio,173326,109912,764,67248,470837,1017
+Quecholac,"2,916",Quecholac,Total del Municipio,4027,229,0,2213,12902,112
+Quimixtlán,"2,784",Quimixtlán,Total del Municipio,2093,1591,4,1041,4228,40
+Rafael Lara Grajales,"2,290",Rafael Lara Grajales,Total del Municipio,1435,98,0,614,3637,10
+Los Reyes de Juárez,"2,897",Los Reyes de Juárez,Total del Municipio,2175,170,0,1048,6177,44
+San Andrés Cholula,"43,344",San Andrés Cholula,Total del Municipio,14006,9628,42,4566,43660,31
+San Antonio Cañada,675,San Antonio Cañada,Total del Municipio,523,3344,14,304,1242,35
+San Diego la Mesa Tochimiltzingo,237,San Diego la Mesa Tochimiltzingo,Total del Municipio,158,20,0,85,352,1
+San Felipe Teotlalcingo,"1,324",San Felipe Teotlalcingo,Total del Municipio,937,268,0,410,2389,16
+San Felipe Tepatlán,553,San Felipe Tepatlán,Total del Municipio,521,3264,125,244,799,28
+San Gabriel Chilac,"1,793",San Gabriel Chilac,Total del Municipio,1707,12359,160,885,3358,24
+San Gregorio Atzompa,"2,453",San Gregorio Atzompa,Total del Municipio,1021,107,1,354,2402,1
+San Jerónimo Tecuanipan,"1,100",San Jerónimo Tecuanipan,Total del Municipio,888,270,0,227,1390,14
+San Jerónimo Xayacatlán,"1,258",San Jerónimo Xayacatlán,Total del Municipio,752,2645,53,491,1096,15
+San José Chiapa,"1,662",San José Chiapa,Total del Municipio,830,71,0,377,2469,15
+San José Miahuatlán,"1,979",San José Miahuatlán,Total del Municipio,1569,13453,448,743,3105,19
+San Juan Atenco,973,San Juan Atenco,Total del Municipio,558,12,0,266,931,7
+San Juan Atzompa,119,San Juan Atzompa,Total del Municipio,160,15,0,96,272,0
+San Martín Texmelucan,"22,945",San Martín Texmelucan,Total del Municipio,17680,1964,4,6611,36984,64
+San Martín Totoltepec,221,San Martín Totoltepec,Total del Municipio,135,84,0,72,181,1
+San Matías Tlalancaleca,"4,054",San Matías Tlalancaleca,Total del Municipio,2361,145,0,965,4955,17
+San Miguel Ixitlán,95,San Miguel Ixitlán,Total del Municipio,96,15,0,98,172,1
+San Miguel Xoxtla,"1,609",San Miguel Xoxtla,Total del Municipio,1489,230,0,516,2806,2
+San Nicolás Buenos Aires,951,San Nicolás Buenos Aires,Total del Municipio,1348,83,0,624,2384,22
+San Nicolás de los Ranchos,"1,436",San Nicolás de los Ranchos,Total del Municipio,1431,289,1,715,2389,7
+San Pablo Anicano,936,San Pablo Anicano,Total del Municipio,564,46,1,423,975,17
+San Pedro Cholula,"29,889",San Pedro Cholula,Total del Municipio,13057,3963,10,4873,35772,73
+San Pedro Yeloixtlahuaca,"1,069",San Pedro Yeloixtlahuaca,Total del Municipio,587,57,0,373,1010,27
+San Salvador el Seco,"3,155",San Salvador el Seco,Total del Municipio,4399,156,0,1849,7131,45
+San Salvador el Verde,"5,277",San Salvador el Verde,Total del Municipio,2667,372,0,1109,8127,48
+San Salvador Huixcolotla,"2,856",San Salvador Huixcolotla,Total del Municipio,1269,246,0,502,3262,24
+San Sebastián Tlacotepec,841,San Sebastián Tlacotepec,Total del Municipio,2030,12912,928,915,2234,162
+Santa Catarina Tlaltempan,141,Santa Catarina Tlaltempan,Total del Municipio,164,640,18,106,243,4
+Santa Inés Ahuatempan,909,Santa Inés Ahuatempan,Total del Municipio,945,861,3,529,1530,29
+Santa Isabel Cholula,"1,938",Santa Isabel Cholula,Total del Municipio,995,465,0,405,2453,21
+Santiago Miahuatlán,"4,604",Santiago Miahuatlán,Total del Municipio,2451,5743,41,1175,6275,169
+Huehuetlán el Grande,"1,103",Huehuetlán el Grande,Total del Municipio,687,390,5,360,1650,18
+Santo Tomás Hueyotlipan,787,Santo Tomás Hueyotlipan,Total del Municipio,770,179,0,408,2143,23
+Soltepec,"1,961",Soltepec,Total del Municipio,1343,88,0,553,2843,44
+Tecali de Herrera,"4,838",Tecali de Herrera,Total del Municipio,2627,360,1,1035,5766,39
+Tecamachalco,"16,941",Tecamachalco,Total del Municipio,6296,685,0,2823,19262,98
+Tecomatlán,"1,894",Tecomatlán,Total del Municipio,915,774,2,499,1749,13
+Tehuacán,"68,186",Tehuacán,Total del Municipio,41830,66984,418,16134,80437,465
+Tehuitzingo,"2,857",Tehuitzingo,Total del Municipio,1844,188,0,906,3190,68
+Tenampulco,"1,880",Tenampulco,Total del Municipio,885,2109,6,566,1856,61
+Teopantlán,243,Teopantlán,Total del Municipio,605,2953,414,341,952,12
+Teotlalco,"1,014",Teotlalco,Total del Municipio,525,27,0,245,939,11
+Tepanco de López,"3,670",Tepanco de López,Total del Municipio,2545,3854,31,1250,5128,74
+Tepango de Rodríguez,140,Tepango de Rodríguez,Total del Municipio,548,3991,381,207,760,26
+Tepatlaxco de Hidalgo,"1,790",Tepatlaxco de Hidalgo,Total del Municipio,1663,5239,12,701,3916,43
+Tepeaca,"17,052",Tepeaca,Total del Municipio,6604,746,0,3150,17855,92
+Tepemaxalco,170,Tepemaxalco,Total del Municipio,55,78,0,99,244,6
+Tepeojuma,"1,184",Tepeojuma,Total del Municipio,1014,946,15,536,2077,14
+Tepetzintla,693,Tepetzintla,Total del Municipio,773,10237,1021,540,1921,70
+Tepexco,642,Tepexco,Total del Municipio,710,73,0,539,1612,32
+Tepexi de Rodríguez,"6,769",Tepexi de Rodríguez,Total del Municipio,2768,2174,8,1653,5533,64
+Tepeyahualco,"3,269",Tepeyahualco,Total del Municipio,2225,133,0,1153,4593,49
+Tepeyahualco de Cuauhtémoc,657,Tepeyahualco de Cuauhtémoc,Total del Municipio,446,65,0,212,1004,12
+Tetela de Ocampo,"5,561",Tetela de Ocampo,Total del Municipio,3803,8183,89,1586,6937,177
+Teteles de Avila Castillo,"1,112",Teteles de Avila Castillo,Total del Municipio,717,2134,4,366,1703,18
+Teziutlán,"23,096",Teziutlán,Total del Municipio,9549,14267,70,4181,27821,113
+Tianguismanalco,"2,611",Tianguismanalco,Total del Municipio,1364,1740,8,679,3284,19
+Tilapa,"2,358",Tilapa,Total del Municipio,1395,99,0,633,2450,29
+Tlacotepec de Benito Juárez,"8,292",Tlacotepec de Benito Juárez,Total del Municipio,5897,20004,186,2734,11603,236
+Tlacuilotepec,"3,265",Tlacuilotepec,Total del Municipio,2668,5206,28,1197,4074,105
+Tlachichuca,"3,495",Tlachichuca,Total del Municipio,3628,198,0,2055,6839,72
+Tlahuapan,"5,136",Tlahuapan,Total del Municipio,3528,375,0,1979,9476,45
+Tlaltenango,667,Tlaltenango,Total del Municipio,1126,140,0,385,1674,12
+Tlanepantla,299,Tlanepantla,Total del Municipio,451,293,0,202,1049,11
+Tlaola,"1,291",Tlaola,Total del Municipio,1781,15695,330,870,3710,54
+Tlapacoya,742,Tlapacoya,Total del Municipio,766,4202,27,335,1422,10
+Tlapanalá,"2,341",Tlapanalá,Total del Municipio,1085,107,0,635,2308,13
+Tlatlauquitepec,"10,334",Tlatlauquitepec,Total del Municipio,5441,17823,98,2385,13592,215
+Tlaxco,948,Tlaxco,Total del Municipio,767,544,0,394,1251,68
+Tochimilco,"2,368",Tochimilco,Total del Municipio,2132,4078,8,919,4282,51
+Tochtepec,"4,131",Tochtepec,Total del Municipio,1929,201,0,995,5017,38
+Totoltepec de Guerrero,261,Totoltepec de Guerrero,Total del Municipio,278,35,0,126,406,12
+Tulcingo,"1,904",Tulcingo,Total del Municipio,1551,386,3,914,2610,22
+Tuzamapan de Galeana,"1,203",Tuzamapan de Galeana,Total del Municipio,697,4247,58,397,1577,44
+Tzicatlacoyan,"1,294",Tzicatlacoyan,Total del Municipio,751,45,0,354,1713,17
+Venustiano Carranza,"7,556",Venustiano Carranza,Total del Municipio,3710,2847,18,1972,7296,142
+Vicente Guerrero,"1,582",Vicente Guerrero,Total del Municipio,2499,11740,816,1436,4749,112
+Xayacatlán de Bravo,390,Xayacatlán de Bravo,Total del Municipio,231,1140,19,169,472,8
+Xicotepec,"15,739",Xicotepec,Total del Municipio,8031,8172,34,3443,20080,269
+Xicotlán,221,Xicotlán,Total del Municipio,87,23,0,69,331,3
+Xiutetelco,"8,387",Xiutetelco,Total del Municipio,3795,1029,1,1767,9268,67
+Xochiapulco,493,Xochiapulco,Total del Municipio,537,1820,11,221,895,56
+Xochiltepec,914,Xochiltepec,Total del Municipio,369,290,1,216,796,8
+Xochitlán de Vicente Suárez,"1,351",Xochitlán de Vicente Suárez,Total del Municipio,991,12424,364,451,3101,128
+Xochitlán Todos Santos,530,Xochitlán Todos Santos,Total del Municipio,818,49,0,419,1740,13
+Yaonáhuac,"1,586",Yaonáhuac,Total del Municipio,753,6451,21,303,1837,25
+Yehualtepec,"3,473",Yehualtepec,Total del Municipio,2161,406,0,1153,6196,63
+Zacapala,"1,256",Zacapala,Total del Municipio,617,118,1,333,1206,16
+Zacapoaxtla,"9,963",Zacapoaxtla,Total del Municipio,5979,35046,327,2750,13510,298
+Zacatlán,"13,719",Zacatlán,Total del Municipio,10259,15432,299,3855,21129,190
+Zapotitlán,"1,671",Zapotitlán,Total del Municipio,1238,1459,5,639,2077,51
+Zapotitlán de Méndez,927,Zapotitlán de Méndez,Total del Municipio,623,4965,363,393,1306,12
+Zaragoza,"3,290",Zaragoza,Total del Municipio,2009,2084,2,943,4264,31
+Zautla,"2,921",Zautla,Total del Municipio,2279,13274,161,1084,4162,117
+Zihuateutla,"2,737",Zihuateutla,Total del Municipio,957,5256,89,661,2739,80
+Zinacatepec,"2,141",Zinacatepec,Total del Municipio,2235,15163,138,948,3871,17
+Zongozotla,183,Zongozotla,Total del Municipio,602,4403,455,233,1023,9
+Zoquiapan,461,Zoquiapan,Total del Municipio,496,2192,111,196,665,40
+Zoquitlán,835,Zoquitlán,Total del Municipio,1885,20154,1839,1032,3382,84
+Amealco de Bonfil,"25,024",Amealco de Bonfil,Total del Municipio,7029,21072,450,3309,16463,493
+Pinal de Amoles,"5,893",Pinal de Amoles,Total del Municipio,2907,92,0,1442,6316,379
+Arroyo Seco,"5,704",Arroyo Seco,Total del Municipio,1394,136,0,659,3674,64
+Cadereyta de Montes,"28,654",Cadereyta de Montes,Total del Municipio,9447,2985,4,3387,16721,392
+Colón,"25,443",Colón,Total del Municipio,7187,452,1,3264,15184,167
+Corregidora,"71,817",Corregidora,Total del Municipio,19668,1861,2,7295,63330,98
+Ezequiel Montes,"16,304",Ezequiel Montes,Total del Municipio,4098,788,0,1807,10535,67
+Huimilpan,"16,442",Huimilpan,Total del Municipio,4642,131,1,2166,9752,66
+Jalpan de Serra,"11,213",Jalpan de Serra,Total del Municipio,2748,534,0,1372,7263,209
+Landa de Matamoros,"7,236",Landa de Matamoros,Total del Municipio,2491,128,0,1204,5207,96
+El Marqués,"64,442",El Marqués,Total del Municipio,26199,3469,4,8633,66083,254
+Pedro Escobedo,"18,250",Pedro Escobedo,Total del Municipio,7142,670,1,3189,18379,109
+Peñamiller,"7,554",Peñamiller,Total del Municipio,2612,122,0,1209,4674,103
+Querétaro,"276,794",Querétaro,Total del Municipio,105137,15955,43,38789,299503,419
+San Joaquín,"4,011",San Joaquín,Total del Municipio,858,86,0,469,2186,72
+San Juan del Río,"84,917",San Juan del Río,Total del Municipio,30357,3900,8,13493,82359,350
+Tequisquiapan,"18,333",Tequisquiapan,Total del Municipio,7427,463,2,2882,18377,147
+Tolimán,"8,253",Tolimán,Total del Municipio,3450,9363,74,1591,6616,201
+Cozumel,"16,897",Cozumel,Total del Municipio,8517,18431,70,3362,26074,111
+Felipe Carrillo Puerto,"15,138",Felipe Carrillo Puerto,Total del Municipio,8223,69764,4065,3998,19317,624
+Isla Mujeres,"4,977",Isla Mujeres,Total del Municipio,1582,3769,31,696,6510,188
+Othón P. Blanco,"69,098",Othón P. Blanco,Total del Municipio,22911,32127,135,11128,68283,936
+Benito Juárez,"228,712",Benito Juárez,Total del Municipio,84373,148025,569,31796,280010,1174
+José María Morelos,"8,623",José María Morelos,Total del Municipio,4102,31989,740,1981,9619,317
+Lázaro Cárdenas,"10,885",Lázaro Cárdenas,Total del Municipio,3112,19127,366,1504,7555,276
+Solidaridad,"85,711",Solidaridad,Total del Municipio,21924,56206,218,8368,105294,875
+Tulum,"13,870",Tulum,Total del Municipio,3085,19931,595,1211,12878,333
+Bacalar,"10,411",Bacalar,Total del Municipio,4095,18066,249,2071,10422,373
+Puerto Morelos,"7,785",Puerto Morelos,Total del Municipio,2193,5731,44,890,8409,128
+Ahualulco,"4,413",Ahualulco,Total del Municipio,2316,55,0,1028,4317,127
+Alaquines,"1,922",Alaquines,Total del Municipio,1198,208,0,589,2023,59
+Aquismón,"4,184",Aquismón,Total del Municipio,5610,37963,2622,2686,9947,967
+Armadillo de los Infante,"1,673",Armadillo de los Infante,Total del Municipio,617,9,0,298,1123,38
+Cárdenas,"4,433",Cárdenas,Total del Municipio,2846,442,2,1249,4869,97
+Catorce,"2,333",Catorce,Total del Municipio,1222,18,0,682,2411,97
+Cedral,"5,081",Cedral,Total del Municipio,2381,50,0,982,4937,55
+Cerritos,"6,232",Cerritos,Total del Municipio,2787,126,0,1375,6141,90
+Cerro de San Pedro,"2,023",Cerro de San Pedro,Total del Municipio,655,32,0,253,1305,40
+Ciudad del Maíz,"6,046",Ciudad del Maíz,Total del Municipio,3754,343,0,1967,7574,148
+Ciudad Fernández,"12,311",Ciudad Fernández,Total del Municipio,5643,553,0,2481,12006,112
+Tancanhuitz,"3,264",Tancanhuitz,Total del Municipio,2952,16586,383,1190,4190,311
+Ciudad Valles,"46,362",Ciudad Valles,Total del Municipio,21952,21765,375,9853,49957,915
+Coxcatlán,"1,773",Coxcatlán,Total del Municipio,2253,14287,670,1101,3662,177
+Charcas,"5,081",Charcas,Total del Municipio,2988,90,0,1428,5630,232
+Ebano,"10,618",Ebano,Total del Municipio,5293,5045,35,2701,11197,180
+Guadalcázar,"7,152",Guadalcázar,Total del Municipio,4086,45,0,1911,6023,186
+Huehuetlán,"3,389",Huehuetlán,Total del Municipio,1233,11649,295,701,3430,235
+Lagunillas,"1,774",Lagunillas,Total del Municipio,974,162,1,421,1606,48
+Matehuala,"30,709",Matehuala,Total del Municipio,14890,398,2,5394,26884,204
+Mexquitic de Carmona,"19,684",Mexquitic de Carmona,Total del Municipio,7578,181,1,3013,13407,288
+Moctezuma,"6,060",Moctezuma,Total del Municipio,2693,57,0,1167,4961,112
+Rayón,"4,654",Rayón,Total del Municipio,2839,1558,9,1556,4090,170
+Rioverde,"27,481",Rioverde,Total del Municipio,12929,826,2,6295,24874,460
+Salinas,"7,134",Salinas,Total del Municipio,4765,34,0,2298,7533,117
+San Antonio,763,San Antonio,Total del Municipio,797,8869,293,338,2098,119
+San Ciro de Acosta,"2,809",San Ciro de Acosta,Total del Municipio,1577,66,0,887,2840,65
+San Luis Potosí,"279,194",San Luis Potosí,Total del Municipio,100124,11032,19,37413,255444,715
+San Martín Chalchicuautla,"2,278",San Martín Chalchicuautla,Total del Municipio,2447,10555,279,1273,4204,124
+San Nicolás Tolentino,"1,950",San Nicolás Tolentino,Total del Municipio,886,0,0,495,1452,38
+Santa Catarina,"1,590",Santa Catarina,Total del Municipio,1126,8197,887,818,2615,241
+Santa María del Río,"13,162",Santa María del Río,Total del Municipio,4058,74,0,1870,9599,410
+Santo Domingo,"3,700",Santo Domingo,Total del Municipio,1846,7,0,793,2759,36
+San Vicente Tancuayalab,"2,544",San Vicente Tancuayalab,Total del Municipio,1394,4647,42,668,3608,118
+Soledad de Graciano Sánchez,"81,488",Soledad de Graciano Sánchez,Total del Municipio,34473,3663,3,12281,90649,240
+Tamasopo,"8,218",Tamasopo,Total del Municipio,4360,4115,126,2069,7615,423
+Tamazunchale,"13,613",Tamazunchale,Total del Municipio,10401,53259,1085,4520,21014,448
+Tampacán,"2,623",Tampacán,Total del Municipio,1807,8689,172,1102,3072,103
+Tampamolón Corona,"1,672",Tampamolón Corona,Total del Municipio,1682,10766,267,893,2603,153
+Tamuín,"9,988",Tamuín,Total del Municipio,5843,7742,51,2723,9480,245
+Tanlajás,"2,064",Tanlajás,Total del Municipio,1906,16325,586,1064,4140,203
+Tanquián de Escobedo,"2,550",Tanquián de Escobedo,Total del Municipio,1972,3514,34,953,3377,70
+Tierra Nueva,"1,965",Tierra Nueva,Total del Municipio,1023,13,0,602,2026,76
+Vanegas,"1,963",Vanegas,Total del Municipio,894,39,0,555,1870,19
+Venado,"4,120",Venado,Total del Municipio,2402,55,0,1099,3848,194
+Villa de Arriaga,"6,654",Villa de Arriaga,Total del Municipio,2172,64,0,1057,4476,100
+Villa de Guadalupe,"2,491",Villa de Guadalupe,Total del Municipio,1527,30,0,665,2358,62
+Villa de la Paz,"1,467",Villa de la Paz,Total del Municipio,855,29,0,409,1301,10
+Villa de Ramos,"5,209",Villa de Ramos,Total del Municipio,5311,82,4,2693,9643,95
+Villa de Reyes,"14,738",Villa de Reyes,Total del Municipio,4932,64,0,2284,11330,145
+Villa Hidalgo,"5,770",Villa Hidalgo,Total del Municipio,1776,46,0,846,4109,75
+Villa Juárez,"3,031",Villa Juárez,Total del Municipio,1489,27,0,767,2624,72
+Axtla de Terrazas,"4,158",Axtla de Terrazas,Total del Municipio,4028,24069,299,1723,7340,147
+Xilitla,"6,018",Xilitla,Total del Municipio,5776,26741,383,3162,11053,536
+Zaragoza,"9,117",Zaragoza,Total del Municipio,2870,25,0,1302,5999,86
+Villa de Arista,"4,533",Villa de Arista,Total del Municipio,1944,116,0,1155,4157,82
+Matlapa,"3,201",Matlapa,Total del Municipio,2895,21876,445,1591,6244,123
+El Naranjo,"5,262",El Naranjo,Total del Municipio,2692,202,0,1172,5688,104
+Ahome,"144,898",Ahome,Total del Municipio,49919,14600,58,23119,131846,698
+Angostura,"22,588",Angostura,Total del Municipio,4498,347,14,2455,12788,43
+Badiraguato,"9,092",Badiraguato,Total del Municipio,2933,34,0,1564,6134,252
+Concordia,"10,225",Concordia,Total del Municipio,2760,72,5,1690,6910,108
+Cosalá,"5,168",Cosalá,Total del Municipio,1961,41,0,844,3909,28
+Culiacán,"357,233",Culiacán,Total del Municipio,94803,4677,47,41959,276115,487
+Choix,"9,290",Choix,Total del Municipio,3095,1551,10,1408,7529,226
+Elota,"25,037",Elota,Total del Municipio,5432,1552,82,2273,11691,100
+Escuinapa,"23,461",Escuinapa,Total del Municipio,7167,4124,215,3572,15651,180
+El Fuerte,"37,787",El Fuerte,Total del Municipio,12152,11538,35,5670,25005,435
+Guasave,"87,827",Guasave,Total del Municipio,34170,4624,125,14668,75964,416
+Mazatlán,"183,142",Mazatlán,Total del Municipio,52961,4608,79,23927,150170,532
+Mocorito,"20,270",Mocorito,Total del Municipio,5569,46,0,2663,11060,84
+Rosario,"24,332",Rosario,Total del Municipio,7373,1455,119,3599,14244,207
+Salvador Alvarado,"24,712",Salvador Alvarado,Total del Municipio,10527,417,0,4523,22914,44
+San Ignacio,"6,707",San Ignacio,Total del Municipio,2395,63,5,1481,5286,138
+Sinaloa,"25,519",Sinaloa,Total del Municipio,10387,1899,10,4776,19319,577
+Navolato,"56,071",Navolato,Total del Municipio,15294,5136,55,7767,36634,178
+Aconchi,"1,629",Aconchi,Total del Municipio,362,4,0,171,787,9
+Agua Prieta,"30,525",Agua Prieta,Total del Municipio,8231,1170,4,4039,26745,311
+Alamos,"9,641",Alamos,Total del Municipio,3399,2060,8,1665,6286,357
+Altar,"3,781",Altar,Total del Municipio,1208,190,1,540,2618,34
+Arivechi,565,Arivechi,Total del Municipio,154,24,0,97,383,10
+Arizpe,"1,535",Arizpe,Total del Municipio,522,3,0,333,949,13
+Atil,353,Atil,Total del Municipio,94,1,0,43,189,1
+Bacadéhuachi,357,Bacadéhuachi,Total del Municipio,191,0,0,65,340,1
+Bacanora,423,Bacanora,Total del Municipio,140,0,0,82,256,2
+Bacerac,627,Bacerac,Total del Municipio,252,0,0,77,375,8
+Bacoachi,611,Bacoachi,Total del Municipio,241,5,0,135,510,8
+Bácum,"8,899",Bácum,Total del Municipio,2882,3203,35,1186,5990,97
+Banámichi,846,Banámichi,Total del Municipio,253,0,0,88,559,6
+Baviácora,"2,070",Baviácora,Total del Municipio,511,0,0,270,1029,3
+Bavispe,438,Bavispe,Total del Municipio,196,2,0,76,387,1
+Benjamín Hill,"1,273",Benjamín Hill,Total del Municipio,639,19,0,359,1521,34
+Caborca,"31,131",Caborca,Total del Municipio,9655,1714,11,4134,25547,320
+Cajeme,"103,226",Cajeme,Total del Municipio,52177,7655,14,25835,133250,900
+Cananea,"9,164",Cananea,Total del Municipio,3802,271,0,1546,11477,53
+Carbó,"1,718",Carbó,Total del Municipio,589,135,0,236,1365,46
+La Colorada,991,La Colorada,Total del Municipio,183,12,0,139,654,26
+Cucurpe,378,Cucurpe,Total del Municipio,66,2,0,14,310,25
+Cumpas,"2,249",Cumpas,Total del Municipio,674,6,0,357,1840,9
+Divisaderos,360,Divisaderos,Total del Municipio,136,3,0,73,242,0
+Empalme,"13,270",Empalme,Total del Municipio,5546,778,4,2693,14331,110
+Etchojoa,"20,393",Etchojoa,Total del Municipio,7668,20237,82,3889,14379,613
+Fronteras,"2,924",Fronteras,Total del Municipio,686,293,1,303,2641,45
+Granados,538,Granados,Total del Municipio,188,0,0,126,342,0
+Guaymas,"46,390",Guaymas,Total del Municipio,17544,18194,444,8412,44447,533
+Hermosillo,"260,319",Hermosillo,Total del Municipio,97231,18470,198,41409,272447,1243
+Huachinera,557,Huachinera,Total del Municipio,262,7,0,111,387,3
+Huásabas,430,Huásabas,Total del Municipio,135,6,0,88,299,2
+Huatabampo,"18,743",Huatabampo,Total del Municipio,10377,16711,62,4896,20415,481
+Huépac,438,Huépac,Total del Municipio,114,3,0,59,326,2
+Imuris,"4,862",Imuris,Total del Municipio,1852,136,1,816,3467,45
+Magdalena,"11,032",Magdalena,Total del Municipio,3188,178,0,1643,9734,79
+Mazatán,586,Mazatán,Total del Municipio,102,4,0,58,393,10
+Moctezuma,"2,041",Moctezuma,Total del Municipio,390,9,0,241,1698,5
+Naco,"1,713",Naco,Total del Municipio,631,70,0,429,1658,36
+Nácori Chico,553,Nácori Chico,Total del Municipio,351,0,0,145,486,33
+Nacozari de García,"3,337",Nacozari de García,Total del Municipio,1511,243,0,549,4243,41
+Navojoa,"53,993",Navojoa,Total del Municipio,16590,15671,56,9060,44815,607
+Nogales,"74,713",Nogales,Total del Municipio,23584,5043,12,9328,77128,430
+Ónavas,247,,,,,,,,
+Opodepe,"1,091",Opodepe,Total del Municipio,443,13,0,222,799,39
+Oquitoa,298,Oquitoa,Total del Municipio,59,0,0,34,155,2
+Pitiquito,"3,429",Pitiquito,Total del Municipio,1236,410,7,439,2671,144
+Puerto Peñasco,"22,834",Puerto Peñasco,Total del Municipio,5777,1567,11,2447,18657,225
+Quiriego,"1,051",Quiriego,Total del Municipio,409,231,0,269,851,95
+Rayón,724,Rayón,Total del Municipio,272,16,0,153,531,11
+Rosario,"2,164",Rosario,Total del Municipio,703,41,0,399,1408,43
+Sahuaripa,"2,291",Sahuaripa,Total del Municipio,827,20,0,304,1646,45
+San Felipe de Jesús,173,San Felipe de Jesús,Total del Municipio,88,0,0,25,126,1
+San Javier,323,San Javier,Total del Municipio,51,12,0,21,147,0
+San Luis Río Colorado,"64,823",San Luis Río Colorado,Total del Municipio,20246,1850,5,8801,57710,703
+San Miguel de Horcasitas,"4,466",San Miguel de Horcasitas,Total del Municipio,1051,4081,38,370,2528,73
+San Pedro de la Cueva,745,San Pedro de la Cueva,Total del Municipio,126,7,0,116,553,8
+Santa Ana,"5,919",Santa Ana,Total del Municipio,1776,53,0,755,4895,41
+Santa Cruz,523,Santa Cruz,Total del Municipio,240,21,0,59,548,9
+Sáric,"1,015",Sáric,Total del Municipio,227,13,0,122,621,15
+Soyopa,931,Soyopa,Total del Municipio,193,7,0,114,464,10
+Suaqui Grande,664,Suaqui Grande,Total del Municipio,209,0,0,63,348,6
+Tepache,590,Tepache,Total del Municipio,200,0,0,133,397,4
+Trincheras,783,Trincheras,Total del Municipio,159,4,0,55,471,12
+Tubutama,909,Tubutama,Total del Municipio,248,11,0,104,486,14
+Ures,"4,619",Ures,Total del Municipio,1451,29,0,660,2898,36
+Villa Hidalgo,563,Villa Hidalgo,Total del Municipio,217,7,0,103,488,8
+Villa Pesqueira,607,Villa Pesqueira,Total del Municipio,204,0,0,114,368,10
+Yécora,945,Yécora,Total del Municipio,765,766,2,406,1336,61
+General Plutarco Elías Calles,"5,203",General Plutarco Elías Calles,Total del Municipio,1771,155,0,863,3983,60
+Benito Juárez,"6,904",Benito Juárez,Total del Municipio,2649,2702,5,1566,5847,88
+San Ignacio Río Muerto,"4,962",San Ignacio Río Muerto,Total del Municipio,1846,2094,4,916,3648,128
+Balancán,"21,962",Balancán,Total del Municipio,8471,1905,17,4501,16244,429
+Cárdenas,"70,050",Cárdenas,Total del Municipio,24110,2290,5,14740,64090,460
+Centla,"25,995",Centla,Total del Municipio,12667,22425,55,6754,26590,345
+Centro,"236,262",Centro,Total del Municipio,72609,44799,101,38861,193650,448
+Comalcalco,"81,255",Comalcalco,Total del Municipio,21599,1287,3,12034,56101,224
+Cunduacán,"44,304",Cunduacán,Total del Municipio,16610,1095,0,9047,36106,202
+Emiliano Zapata,"9,207",Emiliano Zapata,Total del Municipio,4134,679,5,1884,9376,55
+Huimanguillo,"54,969",Huimanguillo,Total del Municipio,18133,1362,3,11283,49009,629
+Jalapa,"15,529",Jalapa,Total del Municipio,4407,314,2,2908,10293,89
+Jalpa de Méndez,"36,507",Jalpa de Méndez,Total del Municipio,9914,1398,3,5564,22923,139
+Jonuta,"10,425",Jonuta,Total del Municipio,3639,1736,0,2319,7712,145
+Macuspana,"28,752",Macuspana,Total del Municipio,16286,21416,128,10637,40976,461
+Nacajuca,"42,623",Nacajuca,Total del Municipio,14120,30395,213,7932,40849,115
+Paraíso,"42,721",Paraíso,Total del Municipio,8278,475,1,4760,26130,102
+Tacotalpa,"15,612",Tacotalpa,Total del Municipio,6894,16697,252,3561,12089,133
+Teapa,"19,582",Teapa,Total del Municipio,5662,771,2,3481,15653,115
+Tenosique,"20,177",Tenosique,Total del Municipio,8392,6131,116,4387,17365,383
+Abasolo,"3,302",Abasolo,Total del Municipio,1545,30,0,721,3052,35
+Aldama,"10,470",Aldama,Total del Municipio,3258,278,0,1645,8989,292
+Altamira,"58,766",Altamira,Total del Municipio,30883,9239,19,13122,79298,555
+Antiguo Morelos,"3,145",Antiguo Morelos,Total del Municipio,1332,44,0,644,2699,33
+Burgos,"1,954",Burgos,Total del Municipio,608,7,0,232,1389,33
+Bustamante,"1,815",Bustamante,Total del Municipio,888,10,0,381,1739,48
+Camargo,"7,814",Camargo,Total del Municipio,1447,62,1,736,6322,47
+Casas,"1,672",Casas,Total del Municipio,469,27,0,137,1158,39
+Ciudad Madero,"46,169",Ciudad Madero,Total del Municipio,22944,3664,17,10179,64922,237
+Cruillas,669,Cruillas,Total del Municipio,242,9,0,100,553,21
+Gómez Farías,"2,988",Gómez Farías,Total del Municipio,1207,35,0,616,2525,28
+González,"12,547",González,Total del Municipio,5270,613,3,2811,11814,157
+Güémez,"7,011",Güémez,Total del Municipio,1977,66,0,950,4382,46
+Guerrero,"1,810",Guerrero,Total del Municipio,679,11,0,176,1864,147
+Gustavo Díaz Ordaz,"5,987",Gustavo Díaz Ordaz,Total del Municipio,1681,85,0,898,4871,16
+Hidalgo,"4,505",Hidalgo,Total del Municipio,2889,35,1,1310,5213,72
+Jaumave,"4,918",Jaumave,Total del Municipio,1852,82,0,1004,4108,93
+Jiménez,"1,388",Jiménez,Total del Municipio,657,14,0,416,1980,27
+Llera,"5,373",Llera,Total del Municipio,2079,104,2,1035,4487,126
+Mainero,752,Mainero,Total del Municipio,327,2,0,196,649,12
+El Mante,"24,642",El Mante,Total del Municipio,13961,550,3,6717,33905,188
+Matamoros,"129,068",Matamoros,Total del Municipio,62703,11408,20,27446,156767,1350
+Méndez,"2,420",Méndez,Total del Municipio,930,25,0,411,1362,68
+Mier,"2,670",Mier,Total del Municipio,899,70,0,240,2957,26
+Miguel Alemán,"11,404",Miguel Alemán,Total del Municipio,2246,204,0,955,11493,22
+Miquihuana,626,Miquihuana,Total del Municipio,439,0,0,245,933,28
+Nuevo Laredo,"103,872",Nuevo Laredo,Total del Municipio,45453,5068,11,19082,118518,355
+Nuevo Morelos,936,Nuevo Morelos,Total del Municipio,483,77,1,200,1099,16
+Ocampo,"4,703",Ocampo,Total del Municipio,1831,91,0,707,3780,105
+Padilla,"3,739",Padilla,Total del Municipio,1657,31,0,747,3981,31
+Palmillas,826,Palmillas,Total del Municipio,238,5,0,117,566,31
+Reynosa,"166,927",Reynosa,Total del Municipio,65462,16031,32,26452,212561,366
+Río Bravo,"31,744",Río Bravo,Total del Municipio,12520,1615,5,5929,38242,281
+San Carlos,"1,677",San Carlos,Total del Municipio,813,0,0,366,2195,100
+San Fernando,"15,780",San Fernando,Total del Municipio,6974,367,1,3138,15040,341
+San Nicolás,163,San Nicolás,Total del Municipio,99,0,0,16,271,40
+Soto la Marina,"7,940",Soto la Marina,Total del Municipio,2341,350,4,997,7375,267
+Tampico,"69,602",Tampico,Total del Municipio,35696,6413,16,16590,92998,100
+Tula,"8,495",Tula,Total del Municipio,2809,113,0,1446,7309,159
+Valle Hermoso,"16,813",Valle Hermoso,Total del Municipio,7259,279,3,3760,17887,241
+Victoria,"86,030",Victoria,Total del Municipio,35802,1643,2,15089,99561,494
+Villagrán,"1,936",Villagrán,Total del Municipio,1034,21,0,468,1611,43
+Xicoténcatl,"8,543",Xicoténcatl,Total del Municipio,2343,66,1,1222,6865,64
+Amaxac de Guerrero,"2,258",Amaxac de Guerrero,Total del Municipio,1293,429,1,473,2974,7
+Apetatitlán de Antonio Carvajal,"4,572",Apetatitlán de Antonio Carvajal,Total del Municipio,2191,431,1,681,4173,11
+Atlangatepec,"2,320",Atlangatepec,Total del Municipio,907,133,0,299,1883,34
+Atltzayanca,"3,469",Atltzayanca,Total del Municipio,1814,84,0,725,4449,32
+Apizaco,"19,584",Apizaco,Total del Municipio,10230,1589,8,3834,22390,43
+Calpulalpan,"13,469",Calpulalpan,Total del Municipio,6422,421,1,2412,12670,105
+El Carmen Tequexquitla,"1,471",El Carmen Tequexquitla,Total del Municipio,1650,77,0,603,4087,28
+Cuapiaxtla,"3,150",Cuapiaxtla,Total del Municipio,1486,45,0,677,3813,16
+Cuaxomulco,"1,547",Cuaxomulco,Total del Municipio,494,75,0,340,1502,9
+Chiautempan,"14,413",Chiautempan,Total del Municipio,8056,4822,4,2700,18015,44
+Muñoz de Domingo Arenas,"2,011",Muñoz de Domingo Arenas,Total del Municipio,501,11,0,182,1232,5
+Españita,"2,384",Españita,Total del Municipio,1163,97,0,662,2397,31
+Huamantla,"21,846",Huamantla,Total del Municipio,11119,642,2,4545,23427,173
+Hueyotlipan,"2,338",Hueyotlipan,Total del Municipio,2169,117,0,900,3797,27
+Ixtacuixtla de Mariano Matamoros,"8,426",Ixtacuixtla de Mariano Matamoros,Total del Municipio,3680,454,1,1541,9891,56
+Ixtenco,896,Ixtenco,Total del Municipio,1064,808,1,344,1891,18
+Mazatecochco de José María Morelos,602,Mazatecochco de José María Morelos,Total del Municipio,853,2886,15,292,2219,24
+Contla de Juan Cuamatzi,"6,206",Contla de Juan Cuamatzi,Total del Municipio,5089,11143,59,1766,8949,32
+Tepetitla de Lardizábal,"2,959",Tepetitla de Lardizábal,Total del Municipio,3190,419,0,845,5419,22
+Sanctórum de Lázaro Cárdenas,"1,044",Sanctórum de Lázaro Cárdenas,Total del Municipio,1298,47,0,572,2341,8
+Nanacamilpa de Mariano Arista,"3,311",Nanacamilpa de Mariano Arista,Total del Municipio,2844,137,0,1069,4700,32
+Acuamanala de Miguel Hidalgo,"1,899",Acuamanala de Miguel Hidalgo,Total del Municipio,365,334,1,163,1474,4
+Natívitas,"6,966",Natívitas,Total del Municipio,3180,244,0,1104,6225,49
+Panotla,"8,191",Panotla,Total del Municipio,2986,591,3,1066,7468,50
+San Pablo del Monte,"15,758",San Pablo del Monte,Total del Municipio,5613,20518,276,2441,17572,148
+Santa Cruz Tlaxcala,"5,378",Santa Cruz Tlaxcala,Total del Municipio,3218,1684,9,1198,6445,48
+Tenancingo,"1,129",Tenancingo,Total del Municipio,949,1509,0,386,2781,9
+Teolocholco,"3,429",Teolocholco,Total del Municipio,2105,3210,13,809,5604,41
+Tepeyanco,"3,865",Tepeyanco,Total del Municipio,736,382,4,349,3174,10
+Terrenate,"2,323",Terrenate,Total del Municipio,1776,120,0,645,3713,53
+Tetla de la Solidaridad,"7,822",Tetla de la Solidaridad,Total del Municipio,4104,471,1,1545,9397,65
+Tetlatlahuca,"3,956",Tetlatlahuca,Total del Municipio,1145,85,0,483,3317,20
+Tlaxcala,"37,224",Tlaxcala,Total del Municipio,10169,2830,8,3429,28617,87
+Tlaxco,"9,619",Tlaxco,Total del Municipio,5487,315,1,2374,11618,93
+Tocatlán,365,Tocatlán,Total del Municipio,549,58,0,300,1449,8
+Totolac,"6,918",Totolac,Total del Municipio,2427,850,2,864,5831,18
+Ziltlaltépec de Trinidad Sánchez Santos,"1,557",Ziltlaltépec de Trinidad Sánchez Santos,Total del Municipio,1123,168,1,577,2074,22
+Tzompantepec,"5,406",Tzompantepec,Total del Municipio,2004,292,0,951,5025,45
+Xaloztoc,"3,844",Xaloztoc,Total del Municipio,3153,249,0,1086,5897,40
+Xaltocan,"3,256",Xaltocan,Total del Municipio,1484,52,0,480,2892,32
+Papalotla de Xicohténcatl,"5,436",Papalotla de Xicohténcatl,Total del Municipio,3109,1643,6,1068,8073,36
+Xicohtzinco,"2,414",Xicohtzinco,Total del Municipio,1474,250,1,665,3513,13
+Yauhquemehcan,"10,547",Yauhquemehcan,Total del Municipio,5427,554,1,1854,11916,49
+Zacatelco,"6,763",Zacatelco,Total del Municipio,4514,673,4,1826,10930,38
+Benito Juárez,759,Benito Juárez,Total del Municipio,862,27,0,332,1527,7
+Emiliano Zapata,544,Emiliano Zapata,Total del Municipio,367,11,0,163,1222,13
+Lázaro Cárdenas,311,Lázaro Cárdenas,Total del Municipio,206,11,0,119,897,5
+La Magdalena Tlaltelulco,n.d,La Magdalena Tlaltelulco,Total del Municipio,428,88,0,79,375,2
+San Damián Texóloc,972,San Damián Texóloc,Total del Municipio,539,49,0,115,1449,10
+San Francisco Tetlanohcan,"1,853",San Francisco Tetlanohcan,Total del Municipio,1155,3977,12,359,2648,11
+San Jerónimo Zacualpan,746,San Jerónimo Zacualpan,Total del Municipio,280,28,0,108,1026,7
+San José Teacalco,724,San José Teacalco,Total del Municipio,759,67,0,289,1379,16
+San Juan Huactzinco,"1,083",San Juan Huactzinco,Total del Municipio,556,274,0,221,1670,8
+San Lorenzo Axocomanitla,947,San Lorenzo Axocomanitla,Total del Municipio,568,52,0,214,1326,3
+San Lucas Tecopilco,390,San Lucas Tecopilco,Total del Municipio,305,28,0,126,776,10
+Santa Ana Nopalucan,839,Santa Ana Nopalucan,Total del Municipio,484,99,0,141,1771,9
+Santa Apolonia Teacalco,608,Santa Apolonia Teacalco,Total del Municipio,402,25,0,134,1089,2
+Santa Catarina Ayometla,"1,068",Santa Catarina Ayometla,Total del Municipio,688,369,0,353,2182,10
+Santa Cruz Quilehtla,"1,215",Santa Cruz Quilehtla,Total del Municipio,554,608,1,294,1696,7
+Santa Isabel Xiloxoxtla,806,Santa Isabel Xiloxoxtla,Total del Municipio,348,162,0,151,1223,4
+Acajete,"1,790",Acajete,Total del Municipio,984,32,0,461,2488,56
+Acatlán,635,Acatlán,Total del Municipio,569,46,0,204,857,9
+Acayucan,"21,016",Acayucan,Total del Municipio,8539,6578,36,4725,22326,301
+Actopan,"13,319",Actopan,Total del Municipio,5315,136,0,2745,13149,75
+Acula,"1,397",Acula,Total del Municipio,858,20,0,365,1664,28
+Acultzingo,"3,200",Acultzingo,Total del Municipio,2352,6256,59,1275,5005,81
+Camarón de Tejeda,"2,188",Camarón de Tejeda,Total del Municipio,1054,1,0,431,1888,27
+Alpatláhuac,"2,168",Alpatláhuac,Total del Municipio,1021,107,0,513,2325,74
+Alto Lucero de Gutiérrez Barrios,"8,092",Alto Lucero de Gutiérrez Barrios,Total del Municipio,5218,124,0,2351,8660,43
+Altotonga,"7,337",Altotonga,Total del Municipio,7486,1934,6,2995,15184,293
+Alvarado,"19,516",Alvarado,Total del Municipio,5860,380,0,2946,17963,101
+Amatitlán,"2,280",Amatitlán,Total del Municipio,1515,18,0,831,2651,38
+Naranjos Amatlán,"8,634",Naranjos Amatlán,Total del Municipio,4468,1524,1,1750,8037,107
+Amatlán de los Reyes,"10,973",Amatlán de los Reyes,Total del Municipio,6165,1343,6,2662,12647,155
+Angel R. Cabada,"9,120",Angel R. Cabada,Total del Municipio,4749,297,0,2653,10537,281
+La Antigua,"6,988",La Antigua,Total del Municipio,4433,244,1,2025,9028,46
+Apazapan,"1,877",Apazapan,Total del Municipio,751,9,0,447,1479,7
+Aquila,173,Aquila,Total del Municipio,177,81,0,133,451,6
+Astacinga,449,Astacinga,Total del Municipio,338,6826,480,159,1313,21
+Atlahuilco,604,Atlahuilco,Total del Municipio,668,11335,1003,392,2076,18
+Atoyac,"4,041",Atoyac,Total del Municipio,3321,217,1,1547,6805,94
+Atzacan,"2,190",Atzacan,Total del Municipio,2161,290,1,1245,4873,110
+Atzalan,"13,471",Atzalan,Total del Municipio,6503,366,1,2763,12899,445
+Tlaltetela,"3,184",Tlaltetela,Total del Municipio,1777,144,2,710,4013,79
+Ayahualulco,"1,169",Ayahualulco,Total del Municipio,2584,191,1,1529,5873,110
+Banderilla,"6,193",Banderilla,Total del Municipio,2378,255,0,1065,7487,25
+Benito Juárez,"3,093",Benito Juárez,Total del Municipio,2369,15259,1571,907,3783,227
+Boca del Río,"37,169",Boca del Río,Total del Municipio,17480,1935,14,7036,47325,39
+Calcahualco,905,Calcahualco,Total del Municipio,1271,434,0,605,2623,44
+Camerino Z. Mendoza,"6,411",Camerino Z. Mendoza,Total del Municipio,4215,10146,423,1993,10847,42
+Carrillo Puerto,"5,371",Carrillo Puerto,Total del Municipio,2627,86,0,889,4670,92
+Catemaco,"7,109",Catemaco,Total del Municipio,7260,632,0,3519,12757,280
+Cazones de Herrera,"5,819",Cazones de Herrera,Total del Municipio,3523,6026,60,1702,6535,175
+Cerro Azul,"6,030",Cerro Azul,Total del Municipio,4666,875,1,1910,7506,107
+Citlaltépetl,"1,941",Citlaltépetl,Total del Municipio,2008,3211,26,994,2951,108
+Coacoatzintla,"1,250",Coacoatzintla,Total del Municipio,1188,66,0,600,2730,38
+Coahuitlán,474,Coahuitlán,Total del Municipio,657,5317,607,411,1758,75
+Coatepec,"20,773",Coatepec,Total del Municipio,12809,607,4,4698,26356,214
+Coatzacoalcos,"58,426",Coatzacoalcos,Total del Municipio,41331,15060,29,19268,96393,532
+Coatzintla,"13,387",Coatzintla,Total del Municipio,6745,7190,116,2671,14723,126
+Coetzala,491,Coetzala,Total del Municipio,422,1048,11,192,475,13
+Colipa,"1,433",Colipa,Total del Municipio,741,17,0,294,1742,61
+Comapa,"2,593",Comapa,Total del Municipio,2732,49,1,1348,5070,142
+Córdoba,"45,592",Córdoba,Total del Municipio,23025,7587,55,9165,59902,365
+Cosamaloapan de Carpio,"14,295",Cosamaloapan de Carpio,Total del Municipio,9145,3578,45,3930,17567,167
+Cosautlán de Carvajal,"2,835",Cosautlán de Carvajal,Total del Municipio,2525,29,0,1240,4133,90
+Coscomatepec,"6,000",Coscomatepec,Total del Municipio,4267,361,0,2015,13104,232
+Cosoleacaque,"29,503",Cosoleacaque,Total del Municipio,13393,12449,48,6454,39704,379
+Cotaxtla,"10,137",Cotaxtla,Total del Municipio,3122,160,2,1616,6280,81
+Coxquihui,"2,294",Coxquihui,Total del Municipio,2549,14100,1012,960,3338,165
+Coyutla,"3,715",Coyutla,Total del Municipio,2462,18147,984,1286,5297,147
+Cuichapa,"1,878",Cuichapa,Total del Municipio,1835,539,1,649,3205,43
+Cuitláhuac,"7,844",Cuitláhuac,Total del Municipio,2217,463,1,1243,7831,50
+Chacaltianguis,"3,372",Chacaltianguis,Total del Municipio,1647,51,0,907,3914,75
+Chalma,"4,190",Chalma,Total del Municipio,2067,7219,413,867,3496,94
+Chiconamel,"1,582",Chiconamel,Total del Municipio,823,5238,216,446,1550,35
+Chiconquiaco,912,Chiconquiaco,Total del Municipio,1506,78,0,736,3136,100
+Chicontepec,"14,730",Chicontepec,Total del Municipio,11594,45351,2218,4542,13427,299
+Chinameca,"6,575",Chinameca,Total del Municipio,2593,1384,1,1454,6569,97
+Chinampa de Gorostiza,"3,925",Chinampa de Gorostiza,Total del Municipio,2237,1918,3,827,4165,126
+Las Choapas,"13,145",Las Choapas,Total del Municipio,8349,6593,61,4523,20220,645
+Chocamán,"3,487",Chocamán,Total del Municipio,2675,244,0,921,4747,103
+Chontla,"4,301",Chontla,Total del Municipio,3234,5473,89,1316,3572,103
+Chumatlán,434,Chumatlán,Total del Municipio,319,3963,310,254,1028,51
+Emiliano Zapata,"25,187",Emiliano Zapata,Total del Municipio,12390,963,0,4299,26742,239
+Espinal,"5,934",Espinal,Total del Municipio,2913,14424,401,1411,6633,100
+Filomeno Mata,991,Filomeno Mata,Total del Municipio,1395,19066,2406,1007,3289,92
+Fortín,"16,790",Fortín,Total del Municipio,6995,1498,2,3176,19258,124
+Gutiérrez Zamora,"8,154",Gutiérrez Zamora,Total del Municipio,4035,1420,11,2057,7277,103
+Hidalgotitlán,"4,961",Hidalgotitlán,Total del Municipio,3031,980,1,1656,4982,159
+Huatusco,"13,113",Huatusco,Total del Municipio,6206,494,2,2396,15026,215
+Huayacocotla,"4,435",Huayacocotla,Total del Municipio,3149,1714,12,1394,5823,308
+Hueyapan de Ocampo,"8,051",Hueyapan de Ocampo,Total del Municipio,5427,12986,82,2668,11399,246
+Huiloapan de Cuauhtémoc,"1,437",Huiloapan de Cuauhtémoc,Total del Municipio,773,505,3,455,1918,12
+Ignacio de la Llave,"4,497",Ignacio de la Llave,Total del Municipio,2255,142,0,1240,5492,103
+Ilamatlán,896,Ilamatlán,Total del Municipio,1627,12616,1263,721,3254,66
+Isla,"11,487",Isla,Total del Municipio,5290,2101,14,2412,12497,196
+Ixcatepec,"2,484",Ixcatepec,Total del Municipio,2352,9174,167,1236,3055,94
+Ixhuacán de los Reyes,"1,245",Ixhuacán de los Reyes,Total del Municipio,1649,126,0,740,2720,40
+Ixhuatlán del Café,"3,331",Ixhuatlán del Café,Total del Municipio,2471,251,1,939,5465,100
+Ixhuatlancillo,"4,746",Ixhuatlancillo,Total del Municipio,3192,8415,293,1357,7205,67
+Ixhuatlán del Sureste,"4,909",Ixhuatlán del Sureste,Total del Municipio,1579,663,1,900,4533,78
+Ixhuatlán de Madero,"7,258",Ixhuatlán de Madero,Total del Municipio,8772,43450,2423,3975,11251,399
+Ixmatlahuacan,"2,076",Ixmatlahuacan,Total del Municipio,981,32,0,406,1863,37
+Ixtaczoquitlán,"12,879",Ixtaczoquitlán,Total del Municipio,9064,9468,61,3604,19753,129
+Jalacingo,"7,269",Jalacingo,Total del Municipio,3579,319,0,2056,10780,162
+Xalapa,"135,970",Xalapa,Total del Municipio,66719,6542,11,24805,148362,625
+Jalcomulco,993,Jalcomulco,Total del Municipio,963,55,0,305,1557,19
+Jáltipan,"9,823",Jáltipan,Total del Municipio,5760,1439,2,3244,11892,182
+Jamapa,"4,031",Jamapa,Total del Municipio,1680,39,0,746,3460,42
+Jesús Carranza,"7,951",Jesús Carranza,Total del Municipio,4668,2970,25,2044,7589,151
+Xico,"5,711",Xico,Total del Municipio,4102,325,0,1600,9671,77
+Jilotepec,"3,883",Jilotepec,Total del Municipio,2483,107,0,1030,4537,52
+Juan Rodríguez Clara,"12,659",Juan Rodríguez Clara,Total del Municipio,5313,2084,29,2531,11390,177
+Juchique de Ferrer,"4,125",Juchique de Ferrer,Total del Municipio,2380,36,1,1061,4293,119
+Landero y Coss,340,Landero y Coss,Total del Municipio,297,54,0,110,411,4
+Lerdo de Tejada,"3,269",Lerdo de Tejada,Total del Municipio,2836,71,0,1199,6485,52
+Magdalena,338,Magdalena,Total del Municipio,323,3216,128,193,770,7
+Maltrata,"1,983",Maltrata,Total del Municipio,1850,95,0,969,4077,77
+Manlio Fabio Altamirano,"7,519",Manlio Fabio Altamirano,Total del Municipio,2995,80,1,1536,7378,64
+Mariano Escobedo,"4,565",Mariano Escobedo,Total del Municipio,3619,577,0,1541,9444,104
+Martínez de la Torre,"30,147",Martínez de la Torre,Total del Municipio,14893,2321,9,6350,30988,610
+Mecatlán,567,Mecatlán,Total del Municipio,908,12677,1392,322,2784,148
+Mecayapan,"3,131",Mecayapan,Total del Municipio,1749,14481,59,1018,4242,92
+Medellín,"28,034",,,,,,,,
+Miahuatlán,344,Miahuatlán,Total del Municipio,586,8,0,205,1104,9
+Las Minas,257,Las Minas,Total del Municipio,422,24,0,268,669,17
+Minatitlán,"39,619",Minatitlán,Total del Municipio,17802,9891,48,9418,42665,534
+Misantla,"16,930",Misantla,Total del Municipio,9980,526,4,4074,18296,339
+Mixtla de Altamirano,736,Mixtla de Altamirano,Total del Municipio,715,12032,2348,583,2053,208
+Moloacán,"4,168",Moloacán,Total del Municipio,1919,431,1,838,4662,100
+Naolinco,"5,561",Naolinco,Total del Municipio,3891,154,1,1628,6475,80
+Naranjal,986,Naranjal,Total del Municipio,509,938,1,298,1071,11
+Nautla,"4,380",Nautla,Total del Municipio,1420,100,0,743,3181,88
+Nogales,"5,110",Nogales,Total del Municipio,3750,3398,48,1754,10025,93
+Oluta,"3,603",Oluta,Total del Municipio,2003,321,0,1045,4827,76
+Omealca,"6,052",Omealca,Total del Municipio,2462,1795,10,1552,6124,149
+Orizaba,"25,905",Orizaba,Total del Municipio,16860,4452,15,7339,37367,77
+Otatitlán,"1,061",Otatitlán,Total del Municipio,1037,286,0,481,1768,19
+Oteapan,"1,710",Oteapan,Total del Municipio,1410,1501,3,666,2863,20
+Ozuluama de Mascareñas,"12,681",Ozuluama de Mascareñas,Total del Municipio,4244,598,2,1542,6457,310
+Pajapan,"2,776",Pajapan,Total del Municipio,2038,14856,125,1022,5209,117
+Pánuco,"27,659",Pánuco,Total del Municipio,11624,2968,11,5203,26926,465
+Papantla,"38,654",Papantla,Total del Municipio,19377,57921,755,10819,37463,670
+Paso del Macho,"8,516",Paso del Macho,Total del Municipio,4104,184,3,2203,8974,153
+Paso de Ovejas,"8,070",Paso de Ovejas,Total del Municipio,4802,181,1,2021,10322,286
+La Perla,"1,101",La Perla,Total del Municipio,1941,274,0,1189,5259,112
+Perote,"12,213",Perote,Total del Municipio,7780,488,2,3565,18618,130
+Platón Sánchez,"3,697",Platón Sánchez,Total del Municipio,2197,7266,300,1224,4585,169
+Playa Vicente,"11,927",Playa Vicente,Total del Municipio,4833,16245,333,2501,10954,180
+Poza Rica de Hidalgo,"35,875",Poza Rica de Hidalgo,Total del Municipio,24281,9127,26,11052,54246,906
+Las Vigas de Ramírez,"2,179",Las Vigas de Ramírez,Total del Municipio,2026,72,0,1040,4920,57
+Pueblo Viejo,"11,897",Pueblo Viejo,Total del Municipio,7772,2546,12,3309,15630,517
+Puente Nacional,"6,397",Puente Nacional,Total del Municipio,4041,129,2,1752,7268,69
+Rafael Delgado,"2,994",Rafael Delgado,Total del Municipio,2231,16232,363,1071,5457,63
+Rafael Lucio,"1,552",Rafael Lucio,Total del Municipio,646,48,0,278,2062,36
+Los Reyes,344,Los Reyes,Total del Municipio,355,6210,421,204,1111,58
+Río Blanco,"6,674",Río Blanco,Total del Municipio,5511,1385,2,2455,12216,34
+Saltabarranca,"1,367",Saltabarranca,Total del Municipio,657,12,0,448,2022,45
+San Andrés Tenejapan,421,San Andrés Tenejapan,Total del Municipio,194,3073,28,138,670,5
+San Andrés Tuxtla,"25,387",San Andrés Tuxtla,Total del Municipio,20355,1505,6,9721,40030,739
+San Juan Evangelista,"10,042",San Juan Evangelista,Total del Municipio,2541,592,5,1897,9107,249
+Santiago Tuxtla,"12,053",Santiago Tuxtla,Total del Municipio,7411,348,1,3849,15698,405
+Sayula de Alemán,"7,225",Sayula de Alemán,Total del Municipio,4329,11200,27,2038,8434,151
+Soconusco,"3,326",Soconusco,Total del Municipio,1561,558,0,965,4867,65
+Sochiapa,777,Sochiapa,Total del Municipio,530,41,1,159,916,18
+Soledad Atzompa,898,Soledad Atzompa,Total del Municipio,1810,24111,3943,1188,3470,25
+Soledad de Doblado,"6,971",Soledad de Doblado,Total del Municipio,3958,95,0,2083,8280,82
+Soteapan,"3,253",Soteapan,Total del Municipio,3145,30933,503,1685,7270,171
+Tamalín,"3,052",Tamalín,Total del Municipio,1919,1900,4,825,3186,80
+Tamiahua,"8,167",Tamiahua,Total del Municipio,5065,630,3,2300,7141,176
+Tampico Alto,"5,087",Tampico Alto,Total del Municipio,2005,216,1,1023,3664,163
+Tancoco,"1,865",Tancoco,Total del Municipio,1281,936,3,548,1730,31
+Tantima,"3,497",Tantima,Total del Municipio,2184,1426,7,939,3344,118
+Tantoyuca,"18,303",Tantoyuca,Total del Municipio,11683,58535,1220,5488,22373,1282
+Tatatila,606,Tatatila,Total del Municipio,538,18,0,319,1321,37
+Castillo de Teayo,"7,334",Castillo de Teayo,Total del Municipio,4016,3968,30,1753,5140,98
+Tecolutla,"8,378",Tecolutla,Total del Municipio,3991,2055,6,2122,7112,151
+Tehuipango,863,Tehuipango,Total del Municipio,781,29505,7476,520,2836,97
+Álamo Temapache,"33,341",Álamo Temapache,Total del Municipio,15977,14085,136,6556,28181,602
+Tempoal,"8,754",Tempoal,Total del Municipio,4757,4868,35,2324,8933,329
+Tenampa,"1,146",Tenampa,Total del Municipio,1012,82,1,506,1579,65
+Tenochtitlán,822,Tenochtitlán,Total del Municipio,602,35,1,317,1173,35
+Teocelo,"3,579",Teocelo,Total del Municipio,2685,91,0,929,4518,42
+Tepatlaxco,"1,991",Tepatlaxco,Total del Municipio,1216,38,0,598,2117,80
+Tepetlán,"2,303",Tepetlán,Total del Municipio,1350,19,0,698,2713,18
+Tepetzintla,"2,596",Tepetzintla,Total del Municipio,1946,3078,13,903,3655,78
+Tequila,"1,503",Tequila,Total del Municipio,1267,15708,1171,559,3002,90
+José Azueta,"7,298",José Azueta,Total del Municipio,3272,792,1,1411,7070,89
+Texcatepec,655,Texcatepec,Total del Municipio,1468,9235,1153,453,2461,191
+Texhuacán,691,Texhuacán,Total del Municipio,602,5208,88,328,1234,41
+Texistepec,"4,607",Texistepec,Total del Municipio,2610,1184,3,1434,5412,131
+Tezonapa,"11,460",Tezonapa,Total del Municipio,8522,17820,254,4504,13441,396
+Tierra Blanca,"25,460",Tierra Blanca,Total del Municipio,14294,3583,93,6701,28700,357
+Tihuatlán,"25,432",Tihuatlán,Total del Municipio,14300,5985,38,6035,23950,482
+Tlacojalpan,718,Tlacojalpan,Total del Municipio,798,138,5,366,1404,16
+Tlacolulan,"1,943",Tlacolulan,Total del Municipio,1134,23,0,606,2591,46
+Tlacotalpan,"3,248",Tlacotalpan,Total del Municipio,2476,56,0,924,4256,67
+Tlacotepec de Mejía,734,Tlacotepec de Mejía,Total del Municipio,518,45,1,254,1180,22
+Tlachichilco,"1,398",Tlachichilco,Total del Municipio,1491,6446,224,699,2602,128
+Tlalixcoyan,"15,521",Tlalixcoyan,Total del Municipio,5281,272,4,2707,12116,165
+Tlalnelhuayocan,"4,736",Tlalnelhuayocan,Total del Municipio,2461,109,0,818,4779,26
+Tlapacoyan,"13,569",Tlapacoyan,Total del Municipio,6931,1523,5,2941,16355,177
+Tlaquilpa,472,Tlaquilpa,Total del Municipio,550,7851,514,217,1421,19
+Tlilapan,631,Tlilapan,Total del Municipio,411,3383,18,308,1262,30
+Tomatlán,"1,770",Tomatlán,Total del Municipio,1209,55,0,396,2017,31
+Tonayán,448,Tonayán,Total del Municipio,404,28,0,237,1288,20
+Totutla,"2,604",Totutla,Total del Municipio,1972,51,0,1035,4285,86
+Tuxpan,"45,843",Tuxpan,Total del Municipio,21634,5280,9,9126,44487,447
+Tuxtilla,716,Tuxtilla,Total del Municipio,361,2,0,274,806,10
+Ursulo Galván,"6,810",Ursulo Galván,Total del Municipio,3925,129,0,2177,9782,29
+Vega de Alatorre,"5,558",Vega de Alatorre,Total del Municipio,2821,153,0,1280,6346,98
+Veracruz,"118,416",Veracruz,Total del Municipio,73735,9838,37,32207,198199,385
+Villa Aldama,"1,315",Villa Aldama,Total del Municipio,1690,52,0,605,2803,37
+Xoxocotla,367,Xoxocotla,Total del Municipio,383,3235,13,209,999,35
+Yanga,"6,360",Yanga,Total del Municipio,2411,230,11,1068,5378,71
+Yecuatla,"2,964",Yecuatla,Total del Municipio,1996,470,0,919,3101,84
+Zacualpan,"1,046",,,,,,,,
+Zaragoza,"1,614",Zaragoza,Total del Municipio,1018,8171,38,680,2934,36
+Zentla,"4,641",Zentla,Total del Municipio,1761,40,0,1003,3345,56
+Zongolica,"5,512",Zongolica,Total del Municipio,5192,39663,1813,2422,8968,443
+Zontecomatlán de López y Fuentes,"1,072",Zontecomatlán de López y Fuentes,Total del Municipio,1581,12842,974,946,3360,311
+Zozocolco de Hidalgo,"1,372",Zozocolco de Hidalgo,Total del Municipio,2138,13423,1214,952,3072,260
+Agua Dulce,"10,335",Agua Dulce,Total del Municipio,6424,957,1,3183,13385,85
+El Higo,"6,304",El Higo,Total del Municipio,2149,478,3,1030,5231,81
+Nanchital de Lázaro Cárdenas del Río,"5,365",Nanchital de Lázaro Cárdenas del Río,Total del Municipio,3561,1795,0,1651,8813,40
+Tres Valles,"13,294",Tres Valles,Total del Municipio,6294,6208,103,3196,13429,194
+Carlos A. Carrillo,"5,242",Carlos A. Carrillo,Total del Municipio,3733,144,1,1984,7615,79
+Tatahuicapan de Juárez,"1,896",Tatahuicapan de Juárez,Total del Municipio,1586,11731,83,915,3458,60
+Uxpanapa,"5,773",Uxpanapa,Total del Municipio,4967,17295,250,2473,6656,374
+San Rafael,"10,238",San Rafael,Total del Municipio,4165,624,3,1882,8970,81
+Santiago Sochiapan,"2,528",Santiago Sochiapan,Total del Municipio,2160,9328,122,811,2972,99
+Abalá,"2,130",Abalá,Total del Municipio,819,5197,88,381,1810,25
+Acanceh,"4,222",Acanceh,Total del Municipio,1619,10460,33,695,4188,27
+Akil,"1,279",Akil,Total del Municipio,1405,10887,281,586,3172,59
+Baca,"1,844",Baca,Total del Municipio,813,1977,4,446,1723,8
+Bokobá,973,Bokobá,Total del Municipio,314,1447,3,118,626,5
+Buctzotz,"1,490",Buctzotz,Total del Municipio,1006,3887,21,547,2646,62
+Cacalchén,"1,678",Cacalchén,Total del Municipio,862,3391,15,426,2034,11
+Calotmul,371,Calotmul,Total del Municipio,576,3169,54,266,1122,29
+Cansahcab,"1,148",Cansahcab,Total del Municipio,573,1743,6,341,1300,13
+Cantamayec,514,Cantamayec,Total del Municipio,178,2712,272,98,713,53
+Celestún,"1,070",Celestún,Total del Municipio,803,980,2,330,2291,30
+Cenotillo,371,Cenotillo,Total del Municipio,683,2276,8,365,1170,34
+Conkal,"5,671",Conkal,Total del Municipio,1588,3259,9,793,4954,18
+Cuncunul,259,Cuncunul,Total del Municipio,195,1676,76,126,425,10
+Cuzamá,"1,637",Cuzamá,Total del Municipio,663,4821,53,323,1498,21
+Chacsinkín,113,Chacsinkín,Total del Municipio,200,3082,134,169,709,10
+Chankom,535,Chankom,Total del Municipio,664,4618,368,314,1196,42
+Chapab,"1,110",Chapab,Total del Municipio,479,3023,80,183,947,20
+Chemax,"1,756",Chemax,Total del Municipio,3425,38468,4022,1675,7553,313
+Chicxulub Pueblo,926,Chicxulub Pueblo,Total del Municipio,422,797,2,249,1299,8
+Chichimilá,710,Chichimilá,Total del Municipio,596,9267,815,350,1929,80
+Chikindzonot,94,Chikindzonot,Total del Municipio,376,4321,491,125,979,20
+Chocholá,"1,004",Chocholá,Total del Municipio,754,2466,8,495,1447,11
+Chumayel,301,Chumayel,Total del Municipio,333,3188,182,189,879,14
+Dzán,873,Dzán,Total del Municipio,784,5759,147,219,1454,15
+Dzemul,"1,018",Dzemul,Total del Municipio,547,1584,2,296,1086,2
+Dzidzantún,"1,694",Dzidzantún,Total del Municipio,1000,1115,14,691,2464,19
+Dzilam de Bravo,"1,195",Dzilam de Bravo,Total del Municipio,283,246,0,200,860,8
+Dzilam González,841,Dzilam González,Total del Municipio,697,1481,4,430,1909,41
+Dzitás,676,Dzitás,Total del Municipio,514,3371,15,400,1006,31
+Dzoncauich,764,Dzoncauich,Total del Municipio,390,2373,7,261,784,16
+Espita,"1,136",Espita,Total del Municipio,2172,14521,266,850,4049,125
+Halachó,"4,762",Halachó,Total del Municipio,2857,17904,497,1606,5622,37
+Hocabá,"1,617",Hocabá,Total del Municipio,898,5448,107,526,1672,19
+Hoctún,"1,072",Hoctún,Total del Municipio,886,4004,323,501,1776,23
+Homún,"1,805",Homún,Total del Municipio,837,6531,58,468,2187,39
+Huhí,728,Huhí,Total del Municipio,781,3531,27,388,1555,21
+Hunucmá,"6,439",Hunucmá,Total del Municipio,4955,13786,201,2513,8853,61
+Ixil,791,Ixil,Total del Municipio,361,1027,3,179,1116,8
+Izamal,"6,388",Izamal,Total del Municipio,3623,16624,131,1833,7750,68
+Kanasín,"31,697",Kanasín,Total del Municipio,14877,42306,187,6519,39558,252
+Kantunil,753,Kantunil,Total del Municipio,808,4086,54,377,1535,26
+Kaua,361,Kaua,Total del Municipio,276,3329,128,148,811,24
+Kinchil,"1,372",Kinchil,Total del Municipio,1216,4337,47,568,1987,12
+Kopomá,"1,074",Kopomá,Total del Municipio,299,1871,5,165,777,12
+Mama,455,Mama,Total del Municipio,510,3110,61,259,856,9
+Maní,"1,180",Maní,Total del Municipio,627,5798,228,273,1529,16
+Maxcanú,"6,818",Maxcanú,Total del Municipio,2737,16463,188,1611,6114,75
+Mayapán,217,Mayapán,Total del Municipio,413,3918,368,218,923,26
+Mérida,"318,522",Mérida,Total del Municipio,119219,176752,711,56345,301222,730
+Mocochá,"1,391",Mocochá,Total del Municipio,427,803,2,166,1000,5
+Motul,"10,852",Motul,Total del Municipio,4493,17685,168,2237,9942,142
+Muna,"2,970",Muna,Total del Municipio,1739,10104,59,889,3358,43
+Muxupip,"1,134",Muxupip,Total del Municipio,326,2002,3,179,854,5
+Opichén,"1,308",Opichén,Total del Municipio,877,6848,58,376,1867,24
+Oxkutzcab,"5,372",Oxkutzcab,Total del Municipio,3024,29448,964,1504,8368,176
+Panabá,"1,373",Panabá,Total del Municipio,970,3761,25,489,2175,23
+Peto,"2,387",Peto,Total del Municipio,2644,22024,399,1308,6084,167
+Progreso,"22,267",Progreso,Total del Municipio,8859,7263,12,4402,18146,252
+Quintana Roo,214,Quintana Roo,Total del Municipio,131,608,2,17,290,6
+Río Lagartos,"1,897",Río Lagartos,Total del Municipio,587,1021,3,267,1079,25
+Sacalum,"1,030",Sacalum,Total del Municipio,673,4310,42,359,1356,15
+Samahil,"2,079",Samahil,Total del Municipio,927,4012,32,306,1425,6
+Sanahcat,598,Sanahcat,Total del Municipio,306,1376,11,108,481,7
+San Felipe,907,San Felipe,Total del Municipio,294,343,2,134,629,3
+Santa Elena,640,Santa Elena,Total del Municipio,461,4143,112,218,1113,18
+Seyé,"2,880",Seyé,Total del Municipio,1336,4408,22,626,2659,34
+Sinanché,697,Sinanché,Total del Municipio,457,1236,2,325,980,7
+Sotuta,"1,106",Sotuta,Total del Municipio,1277,7213,85,682,2323,62
+Sucilá,545,Sucilá,Total del Municipio,571,3036,17,287,1163,13
+Sudzal,539,Sudzal,Total del Municipio,319,1667,11,153,560,14
+Suma,657,Suma,Total del Municipio,278,1033,6,152,569,7
+Tahdziú,91,Tahdziú,Total del Municipio,196,5809,983,96,1244,33
+Tahmek,778,Tahmek,Total del Municipio,629,3228,27,410,1078,12
+Teabo,606,Teabo,Total del Municipio,623,6737,360,326,1629,21
+Tecoh,"6,648",Tecoh,Total del Municipio,2249,13618,190,1101,4639,100
+Tekal de Venegas,264,Tekal de Venegas,Total del Municipio,417,2138,34,221,762,15
+Tekantó,837,Tekantó,Total del Municipio,491,2254,8,242,1070,16
+Tekax,"6,041",Tekax,Total del Municipio,3814,36943,1631,2053,11168,232
+Tekit,"1,584",Tekit,Total del Municipio,1307,9111,88,670,2769,10
+Tekom,207,Tekom,Total del Municipio,418,3312,233,161,762,18
+Telchac Pueblo,655,Telchac Pueblo,Total del Municipio,619,840,2,282,1110,8
+Telchac Puerto,842,Telchac Puerto,Total del Municipio,249,474,1,115,552,9
+Temax,963,Temax,Total del Municipio,693,3378,19,481,1853,12
+Temozón,"2,235",Temozón,Total del Municipio,1999,16075,737,723,3993,79
+Tepakán,702,Tepakán,Total del Municipio,218,1857,12,177,669,11
+Tetiz,"1,429",Tetiz,Total del Municipio,589,3479,8,370,1466,20
+Teya,492,Teya,Total del Municipio,151,1638,2,131,567,7
+Ticul,"5,787",Ticul,Total del Municipio,3782,28389,205,1683,9797,71
+Timucuy,"1,817",Timucuy,Total del Municipio,738,7386,128,312,1785,29
+Tinum,"1,436",Tinum,Total del Municipio,1492,11108,261,658,3064,45
+Tixcacalcupul,482,Tixcacalcupul,Total del Municipio,930,7820,609,405,1749,124
+Tixkokob,"6,102",Tixkokob,Total del Municipio,2215,5229,13,1181,5103,34
+Tixmehuac,367,Tixmehuac,Total del Municipio,572,5375,280,319,1358,35
+Tixpéhual,"2,046",Tixpéhual,Total del Municipio,703,2966,11,237,1526,11
+Tizimín,"12,293",Tizimín,Total del Municipio,10063,51602,744,4696,20307,517
+Tunkás,411,Tunkás,Total del Municipio,434,2892,21,242,1040,24
+Tzucacab,"1,803",Tzucacab,Total del Municipio,1882,12811,182,844,3856,76
+Uayma,308,Uayma,Total del Municipio,474,4150,171,186,975,20
+Ucú,"1,407",Ucú,Total del Municipio,528,1889,14,215,1124,6
+Umán,"19,090",Umán,Total del Municipio,8834,25386,118,3536,19252,115
+Valladolid,"15,436",Valladolid,Total del Municipio,9015,62856,3193,3984,21266,329
+Xocchel,535,Xocchel,Total del Municipio,380,3019,23,226,884,12
+Yaxcabá,"1,408",Yaxcabá,Total del Municipio,1812,15157,777,749,3964,202
+Yaxkukul,786,Yaxkukul,Total del Municipio,319,774,1,167,896,12
+Yobaín,983,Yobaín,Total del Municipio,285,826,0,169,673,4
+Apozol,"2,260",Apozol,Total del Municipio,1096,26,0,515,1763,19
+Apulco,"1,756",Apulco,Total del Municipio,741,11,0,397,1323,15
+Atolinga,787,Atolinga,Total del Municipio,289,3,0,189,758,3
+Benito Juárez,"1,026",Benito Juárez,Total del Municipio,454,30,0,298,1255,14
+Calera,"12,424",Calera,Total del Municipio,4029,270,3,2027,11860,36
+Cañitas de Felipe Pescador,"1,620",Cañitas de Felipe Pescador,Total del Municipio,1010,14,0,579,2189,14
+Concepción del Oro,"3,534",Concepción del Oro,Total del Municipio,1503,15,0,815,3192,36
+Cuauhtémoc,"2,485",Cuauhtémoc,Total del Municipio,1322,20,0,700,3082,27
+Chalchihuites,"3,776",Chalchihuites,Total del Municipio,1205,4,0,622,2640,25
+Fresnillo,"63,731",Fresnillo,Total del Municipio,25873,1110,12,12440,63120,314
+Trinidad García de la Cadena,"1,176",Trinidad García de la Cadena,Total del Municipio,421,160,2,334,1067,15
+Genaro Codina,"1,889",Genaro Codina,Total del Municipio,1018,6,0,599,2017,53
+General Enrique Estrada,"1,624",General Enrique Estrada,Total del Municipio,895,209,3,442,1790,6
+General Francisco R. Murguía,"6,605",General Francisco R. Murguía,Total del Municipio,2293,20,0,1345,5292,26
+El Plateado de Joaquín Amaro,695,El Plateado de Joaquín Amaro,Total del Municipio,270,0,0,201,512,4
+General Pánfilo Natera,"5,766",General Pánfilo Natera,Total del Municipio,3333,15,0,1781,5912,36
+Guadalupe,"61,574",Guadalupe,Total del Municipio,29331,1241,1,10436,59850,138
+Huanusco,"1,744",Huanusco,Total del Municipio,599,9,0,444,1349,10
+Jalpa,"9,756",Jalpa,Total del Municipio,2845,172,1,1468,7003,40
+Jerez,"19,371",Jerez,Total del Municipio,9025,269,1,4394,17612,62
+Jiménez del Teul,"1,086",Jiménez del Teul,Total del Municipio,602,15,0,339,1000,41
+Juan Aldama,"4,802",Juan Aldama,Total del Municipio,2488,49,0,1080,5304,18
+Juchipila,"5,518",Juchipila,Total del Municipio,1589,32,0,800,3819,9
+Loreto,"16,176",Loreto,Total del Municipio,6712,159,0,3223,12774,63
+Luis Moya,"3,902",Luis Moya,Total del Municipio,1266,27,0,789,3214,4
+Mazapil,"8,420",Mazapil,Total del Municipio,2482,19,0,1218,4484,58
+Melchor Ocampo,606,Melchor Ocampo,Total del Municipio,414,0,0,165,706,15
+Mezquital del Oro,888,Mezquital del Oro,Total del Municipio,154,14,0,116,720,7
+Miguel Auza,"6,992",Miguel Auza,Total del Municipio,2870,19,0,1338,5791,17
+Momax,971,Momax,Total del Municipio,426,7,0,285,789,4
+Monte Escobedo,"3,621",Monte Escobedo,Total del Municipio,1599,73,1,825,2752,44
+Morelos,"4,409",Morelos,Total del Municipio,1701,102,0,619,3591,7
+Moyahua de Estrada,"1,868",Moyahua de Estrada,Total del Municipio,768,15,0,415,1444,17
+Nochistlán de Mejía,"12,314",Nochistlán de Mejía,Total del Municipio,4185,67,1,2457,8389,44
+Noria de Ángeles,"4,542",Noria de Ángeles,Total del Municipio,2116,14,0,1111,4042,27
+Ojocaliente,"12,060",Ojocaliente,Total del Municipio,4923,126,0,2731,10625,69
+Pánuco,"4,361",Pánuco,Total del Municipio,2492,171,0,1370,4686,25
+Pinos,"18,342",Pinos,Total del Municipio,7954,53,1,4206,18894,223
+Río Grande,"18,198",Río Grande,Total del Municipio,8132,197,1,3780,17483,41
+Sain Alto,"5,521",Sain Alto,Total del Municipio,2742,8,0,1191,5412,28
+El Salvador,745,El Salvador,Total del Municipio,578,3,0,169,705,31
+Sombrerete,"24,212",Sombrerete,Total del Municipio,7724,51,0,3533,16884,88
+Susticacán,474,Susticacán,Total del Municipio,244,2,0,133,398,15
+Tabasco,"4,975",Tabasco,Total del Municipio,2269,59,0,1336,4488,25
+Tepechitlán,"2,386",Tepechitlán,Total del Municipio,891,27,0,560,2513,29
+Tepetongo,"2,640",Tepetongo,Total del Municipio,1194,3,0,676,2045,9
+Teúl de González Ortega,"2,287",Teúl de González Ortega,Total del Municipio,622,23,1,387,1622,9
+Tlaltenango de Sánchez Román,"11,643",Tlaltenango de Sánchez Román,Total del Municipio,2707,702,9,1357,7842,65
+Valparaíso,"12,658",Valparaíso,Total del Municipio,3951,1158,62,2299,8632,289
+Vetagrande,"2,964",Vetagrande,Total del Municipio,1453,2,0,661,2620,13
+Villa de Cos,"6,602",Villa de Cos,Total del Municipio,3363,315,19,1608,8914,51
+Villa García,"6,751",Villa García,Total del Municipio,1942,4,0,1032,4857,28
+Villa González Ortega,"3,624",Villa González Ortega,Total del Municipio,1536,4,0,917,3450,31
+Villa Hidalgo,"3,457",Villa Hidalgo,Total del Municipio,2233,7,0,1404,4877,33
+Villanueva,"9,999",Villanueva,Total del Municipio,3954,33,0,2129,8933,75
+Zacatecas,"40,313",Zacatecas,Total del Municipio,20144,1078,10,8455,42116,77
+Trancoso,"3,501",Trancoso,Total del Municipio,1958,39,0,1020,4590,27
+Santa María de la Paz,919,Santa María de la Paz,Total del Municipio,320,18,0,174,836,8
